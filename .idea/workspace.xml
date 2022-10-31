@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="Fixed some stuff hopefully" />
+    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="Fixed some stuff hopefully? no write access for some reason before" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +59,7 @@
       <workItem from="1666895824776" duration="10633000" />
       <workItem from="1667109946457" duration="1120000" />
       <workItem from="1667146352330" duration="7528000" />
-      <workItem from="1667246646865" duration="402000" />
+      <workItem from="1667246646865" duration="848000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Git add">
       <created>1666299896360</created>
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667246922398</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fixed some stuff hopefully? no write access for some reason before">
+      <created>1667247317623</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667247317623</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +146,7 @@
     <MESSAGE value="Did stuff" />
     <MESSAGE value="Did some stuff" />
     <MESSAGE value="Fixed some stuff hopefully" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed some stuff hopefully" />
+    <MESSAGE value="Fixed some stuff hopefully? no write access for some reason before" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some stuff hopefully? no write access for some reason before" />
   </component>
 </project>
