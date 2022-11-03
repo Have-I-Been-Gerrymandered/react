@@ -92,6 +92,8 @@ class App extends Component {
     console.log(e);
     isStateSelected = true;
    this.setState({id:e.value, name:e.label});
+      const btn = document.getElementById("district-button");
+      btn.hidden = false;
   }
 
   componentDidMount(){
@@ -117,9 +119,14 @@ class App extends Component {
         <a href="https://www.house.gov/representatives/find-your-representative">
             <button> Find my District</button>
         </a>
+            <form hidden="true" id="district-button">
+                <label htmlFor="district-number-label">Enter District</label>
+                <input type="text" id="district-number" name="district-number"/>
+                <input type="submit" value="Submit"/>
+            </form>
       </div>
         <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
-        { isStateSelected ? ( 
+        { isStateSelected ? (
 
           <i></i> 
         ) : ( <USAMap onClick={this.mapHandler} />)}
@@ -131,5 +138,5 @@ class App extends Component {
 }
 
 // todo: Fill out red and blue states, either manually or a function
-// probably not
+// probably not?
 export default App;
