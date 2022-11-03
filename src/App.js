@@ -1,8 +1,11 @@
 import React, { Component } from 'react';
 import USAMap from "react-usa-map";
-import Select from 'react-select'
+import Select from 'react-select';
 //import Dropdown from 'react-bootstrap/Dropdown';
 import './App.css';
+
+
+let isStateSelected = false;
 
 class App extends Component {
 
@@ -74,6 +77,7 @@ class App extends Component {
   }
 
   handleChange(e){
+    isStateSelected = true;
    this.setState({id:e.value, name:e.label});
   }
 
@@ -99,11 +103,13 @@ class App extends Component {
         </a>
       </div>
         <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
-        <USAMap onClick={this.mapHandler} />
-        {/*for loop replacing the "CT" */}
-        <StateImage />
-        <img src={this.state.id ? require('./' + this.state.id + '.png') : ''} alt = '' className={this.state.id !== 'CT' ? 'noShowState' : ''} /> 
-        <USAMap className={this.state.id !== '' ? 'noShowState' : ''} /> 
+        { isStateSelected ? ( 
+
+          <i></i> 
+
+        ) : ( <USAMap onClick={this.mapHandler} />)}
+
+        <img src={this.state.id ? require('./' + this.state.id + '.png') : ''} alt = '' /> 
       </div>
     );
   }
