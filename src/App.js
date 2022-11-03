@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 import USAMap from "react-usa-map";
-import Select from 'react-select'
+import Select from 'react-select';
 //import Dropdown from 'react-bootstrap/Dropdown';
 import './App.css';
 
-class App extends Component {
 
+let isStateSelected = false;
+
+class App extends Component {
 
   constructor(props){
     super(props)
@@ -75,6 +77,7 @@ class App extends Component {
   }
 
   handleChange(e){
+    isStateSelected = true;
    this.setState({id:e.value, name:e.label});
       const btn = document.getElementById("district-button");
       btn.hidden = false;
@@ -98,7 +101,7 @@ class App extends Component {
         <Select options={this.state.selectOptions} onChange={this.handleChange.bind(this)} />
         <div class={"selector-class"}>
         <a href="https://www.house.gov/representatives/find-your-representative">
-            <button onClick={this.appear}> Find my District</button>
+            <button> Find my District</button>
         </a>
             <form hidden="true" id="district-button">
                 <label htmlFor="district-number-label">Enter District</label>
@@ -107,9 +110,13 @@ class App extends Component {
             </form>
       </div>
         <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
-        <USAMap onClick={this.mapHandler} />
-        {/*for loop replacing the "CT" */}
-        <img src={this.state.id ? require('./' + this.state.id + '.png') : ''} alt = '' className={this.state.id !== 'CT' ? 'noShowState' : ''} />
+        { isStateSelected ? (
+
+          <i></i>
+
+        ) : ( <USAMap onClick={this.mapHandler} />)}
+
+        <img src={this.state.id ? require('./' + this.state.id + '.png') : ''} alt = '' />
       </div>
     );
   }
