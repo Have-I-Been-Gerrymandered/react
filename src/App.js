@@ -101,6 +101,7 @@ class App extends Component {
         <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
         <USAMap onClick={this.mapHandler} />
         {/*for loop replacing the "CT" */}
+        <StateImage />
         <img src={this.state.id ? require('./' + this.state.id + '.png') : ''} alt = '' className={this.state.id !== 'CT' ? 'noShowState' : ''} /> 
         <USAMap className={this.state.id !== '' ? 'noShowState' : ''} /> 
       </div>
