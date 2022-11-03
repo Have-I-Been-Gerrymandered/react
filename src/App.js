@@ -123,5 +123,5 @@ class App extends Component {
 }
 
 // todo: Fill out red and blue states, either manually or a function
-// probably not
+// probably not?
 export default App;
