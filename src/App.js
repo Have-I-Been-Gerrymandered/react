@@ -7,6 +7,18 @@ import './App.css';
 
 let isStateSelected = false;
 
+function getStateNameById(stateAbbr) {
+  var states = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut",
+  "DE":"Delaware","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa",
+  "KS":"Kansas","KY":"Kentucky","LA":"Louisiana","ME":"Maine","MD":"Maryland","MA":"Massachusetts","MI":"Michigan",
+  "MN":"Minnesota","MS":"Mississippi","MO":"Missouri","MT":"Montana","NE":"Nebraska","NV":"Nevada","NH":"New Hampshire",
+  "NJ":"New Jersey","NM":"New Mexico","NY":"New York","NC":"North Carolina","ND":"North Dakota","OH":"Ohio","OK":"Oklahoma",
+  "OR":"Oregon","PA":"Pennsylvania","RI":"Rhode Island","SC":"South Carolina","SD":"South Dakota","TN":"Tennessee","TX":"Texas",
+  "UT":"Utah","VT":"Vermont","VA":"Virginia","WA":"Washington","WV":"West Virginia","WI":"Wisconsin","WY":"Wyoming"};
+  console.log(states[stateAbbr]);
+  return states[stateAbbr];
+}
+
 class App extends Component {
 
   constructor(props){
@@ -76,7 +88,8 @@ class App extends Component {
 
   }
 
-  handleChange(e){
+  handleChange(e) {
+    console.log(e);
     isStateSelected = true;
    this.setState({id:e.value, name:e.label});
   }
@@ -87,11 +100,14 @@ class App extends Component {
 
 
   mapHandler = (event) => {
-    alert(event.target.dataset.name);
+    this.setState({id:event.target.dataset.name, name:getStateNameById(event.target.dataset.name)});
+    isStateSelected = true;
+    //this.handleChange.bind(stateObject);
+    //alert(event.target.dataset.name);
 };
 
   render() {
-    console.log(this.state.selectOptions)
+    //console.log(this.state.selectOptions)
     return (
       <div class="App">
         <h1 class="title">Have I been Gerrymandered?</h1>
@@ -106,10 +122,9 @@ class App extends Component {
         { isStateSelected ? ( 
 
           <i></i> 
-
         ) : ( <USAMap onClick={this.mapHandler} />)}
 
-        <img src={this.state.id ? require('./' + this.state.id + '.png') : ''} alt = '' /> 
+        <img src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
       </div>
     );
   }
