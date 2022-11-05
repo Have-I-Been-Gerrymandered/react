@@ -6,6 +6,7 @@ import './App.css';
 
 
 let isStateSelected = false;
+let isDistrictSelected = false;
 
 function getStateNameById(stateAbbr) {
   var states = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut",
