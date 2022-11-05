@@ -104,6 +104,8 @@ class App extends Component {
   mapHandler = (event) => {
     this.setState({id:event.target.dataset.name, name:getStateNameById(event.target.dataset.name)});
     isStateSelected = true;
+    const btn = document.getElementById("district-button");
+    btn.hidden = false;
     //this.handleChange.bind(stateObject);
     //alert(event.target.dataset.name);
 };

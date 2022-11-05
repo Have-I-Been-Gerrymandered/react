@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="Add form to add district that appears when clicking on state. no error checking yet (try 2)" />
+    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="idk">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +63,7 @@
       <workItem from="1667109946457" duration="1120000" />
       <workItem from="1667146352330" duration="7528000" />
       <workItem from="1667246646865" duration="1843000" />
-      <workItem from="1667506077950" duration="4928000" />
+      <workItem from="1667506077950" duration="8222000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Git add">
       <created>1666299896360</created>
@@ -146,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667511038706</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="idk">
+      <created>1667511066235</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667511066235</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +182,7 @@
     <MESSAGE value="Get rid of web vitals, not needed" />
     <MESSAGE value="Add form to add district that appears when clicking on state. no error checking yet" />
     <MESSAGE value="Add form to add district that appears when clicking on state. no error checking yet (try 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add form to add district that appears when clicking on state. no error checking yet (try 2)" />
+    <MESSAGE value="idk" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk" />
   </component>
 </project>
