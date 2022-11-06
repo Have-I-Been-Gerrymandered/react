@@ -8,6 +8,7 @@ import './App.css';
 let isStateSelected = false;
 let isDistrictSelected = false;
 
+
 function getStateNameById(stateAbbr) {
   var states = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut",
   "DE":"Delaware","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa",
@@ -28,6 +29,7 @@ class App extends Component {
       selectOptions : [],
       id: '',
       name: '',
+      district: 0
     }
   }
 
@@ -97,16 +99,24 @@ class App extends Component {
       btn.hidden = false;
   }
 
+  handleSubmit(e){
+    isDistrictSelected=true;
+    this.setState({district:e.value});
+  }
+
   componentDidMount(){
       this.getOptions()
   }
 
 
+  changeDistrict(event){
+    isDistrictSelected = true;
+    this.setState({district: event.target.value});
+  }
   mapHandler = (event) => {
     this.setState({id:event.target.dataset.name, name:getStateNameById(event.target.dataset.name)});
     isStateSelected = true;
-    const btn = document.getElementById("district-button");
-    btn.hidden = false;
+    isDistrictSelected = true;
     //this.handleChange.bind(stateObject);
     //alert(event.target.dataset.name);
 };
@@ -122,19 +132,29 @@ class App extends Component {
         <a href="https://www.house.gov/representatives/find-your-representative">
             <button> Find my District</button>
         </a>
-            <form hidden="true" id="district-button">
-                <label htmlFor="district-number-label">Enter District</label>
-                <input type="text" id="district-number" name="district-number"/>
-                <input type="submit" value="Submit"/>
-            </form>
+  
       </div>
-        <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
+        
         { isStateSelected ? (
-
-          <i></i> 
+             <img src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
+    
         ) : ( <USAMap onClick={this.mapHandler} />)}
+        <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
+        
+        <form hidden = "true" id="district-button" >
+          <label>
+        <label htmlFor="district-number-label">Enter District</label>
+        <input type="text" id="district-number" name="district-number" district={this.state.district} onChange = {this.changeDistrict.bind(this)}/>
+        </label>
+        
+        </form>
+        
+        {isDistrictSelected && this.state.district != 0 ? (
+          <h1>{this.state.id} District {this.state.district}: { Math.floor(Math.random() * (100) )}%</h1>
 
-        <img src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
+        ): <i></i>
+        }
+       
       </div>
     );
   }
