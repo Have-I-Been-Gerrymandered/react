@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="fix thing">
+    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="fixed so you can enter district when clicking on map or using dropdown menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -65,6 +65,7 @@
       <workItem from="1667246646865" duration="1843000" />
       <workItem from="1667506077950" duration="8308000" />
       <workItem from="1667834269426" duration="783000" />
+      <workItem from="1667854068996" duration="4673000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Git add">
       <created>1666299896360</created>
@@ -164,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667679728334</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fixed so you can enter district when clicking on map or using dropdown menu">
+      <created>1667854155327</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667854155328</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +200,7 @@
     <MESSAGE value="Add form to add district that appears when clicking on state. no error checking yet (try 2)" />
     <MESSAGE value="idk" />
     <MESSAGE value="fix thing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix thing" />
+    <MESSAGE value="fixed so you can enter district when clicking on map or using dropdown menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed so you can enter district when clicking on map or using dropdown menu" />
   </component>
 </project>
