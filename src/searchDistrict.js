@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import USAMap from "react-usa-map";
 import Select from 'react-select';
 //import Dropdown from 'react-bootstrap/Dropdown';
-import './App.css';
+import './searchDistrict.css';
 
 
 let isStateSelected = false;
@@ -40,6 +40,8 @@ function errorChecking(state, district) {
     // console.log("num of districts is", largest_district);
     // is definitely an int here, make sure is a valid district
     if (district >= 1 && district <= largest_district && (district % 1 === 0)){
+        const btn = document.getElementById("breakdown-button");
+        btn.hidden = false;
         return true;
     }
     else{
@@ -47,7 +49,7 @@ function errorChecking(state, district) {
     }
 }
 
-class App extends Component {
+class searchDistrict extends Component {
 
   constructor(props){
     super(props)
@@ -55,7 +57,8 @@ class App extends Component {
       selectOptions : [],
       id: '',
       name: '',
-      district: 0
+      district: 0,
+      viewBreakdown: false
     }
   }
 
@@ -134,6 +137,15 @@ class App extends Component {
       this.getOptions()
   }
 
+  showBreakdown(){
+    //Need to get JSON data 
+    alert(`Breakdown \n
+    Democratic votes: \n
+    Republican votes: \n
+    Total Votes: \n
+    Democratic Wasted: \n
+    Republican Wasted: \n`);
+  }
 
   changeDistrict(event){
     isDistrictSelected = true;
@@ -152,7 +164,7 @@ class App extends Component {
   render() {
     //console.log(this.state.selectOptions)
     return (
-      <div class="App">
+      <div class="searchDistrict">
         <h1 class="title">Have I been Gerrymandered?</h1>
         <b class={"selector-child"}> Choose Your State! </b>
         <Select options={this.state.selectOptions} onChange={this.handleChange.bind(this)} />
@@ -180,15 +192,14 @@ class App extends Component {
         {isDistrictSelected && errorChecking(this.state.id, this.state.district) && this.state.district !== 0 ? (
 
           <h1>{this.state.id} District {this.state.district}: { Math.floor(Math.random() * (100) )}%</h1>
-
+          
         ): <i></i>
         }
-       
+        <button onClick={this.showBreakdown} id="breakdown-button" hidden="true" > View Breakdown </button>
+
       </div>
     );
   }
 }
 
-// todo: Fill out red and blue states, either manually or a function
-// probably not?
-export default App;
+export default searchDistrict;
