@@ -3,7 +3,7 @@ import USAMap from "react-usa-map";
 import Select from 'react-select';
 //import Dropdown from 'react-bootstrap/Dropdown';
 import './searchDistrict.css';
-
+import DesignAbout from './DesignAbout.js';
 
 let isStateSelected = false;
 let isDistrictSelected = false;
@@ -179,9 +179,10 @@ class searchDistrict extends Component {
              <img src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
     
         ) : ( <USAMap onClick={this.mapHandler} />)}
-        <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
+        
         
         <form hidden = "true" id="district-button" >
+        <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
           <label>
         <label htmlFor="district-number-label">Enter District: </label>
         <input type="text" id="district-number" name="district-number" district={this.state.district} onChange = {this.changeDistrict.bind(this)}/>
@@ -196,7 +197,7 @@ class searchDistrict extends Component {
         ): <i></i>
         }
         <button onClick={this.showBreakdown} id="breakdown-button" hidden="true" > View Breakdown </button>
-
+     
       </div>
     );
   }
