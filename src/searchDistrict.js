@@ -21,7 +21,8 @@ function getStateNameById(stateAbbr) {
   return states[stateAbbr];
 }
 
-function errorChecking(state, district) {
+function isDistrictValid(state, district) {
+  isDistrictSelected = false;
     const states = {"AL":7,"AK":1,"AZ":9,"AR":4,"CA":53,"CO":7,"CT":5,
         "DE":1,"DC":1,"FL":27,"GA":14,"HI":2,"ID":2,"IL":18,"IN":9,"IA":4,
         "KS":4,"KY":6,"LA":6,"ME":2,"MD":8,"MA":9,"MI":14,
@@ -32,10 +33,18 @@ function errorChecking(state, district) {
 
     // console.log("state is", state, "and district is", district)
 
-    if (!isNaN(+district) === false) {
-        return false;
+    if (isNaN(district)) {
+      return false;
     }
 
+    if (district > states[state]) {
+      return false;
+    }
+
+    isDistrictSelected = true;
+    return true;
+
+    /*
     const largest_district = states[state];
     // console.log("num of districts is", largest_district);
     // is definitely an int here, make sure is a valid district
@@ -46,7 +55,7 @@ function errorChecking(state, district) {
     }
     else{
         return false;
-    }
+    }*/
 }
 
 class searchDistrict extends Component {
@@ -117,7 +126,6 @@ class searchDistrict extends Component {
       {value: "WY", label :  "Wyoming"}, ];
 
     this.setState({selectOptions: states})
-
   }
 
   handleChange(e) {
@@ -128,16 +136,21 @@ class searchDistrict extends Component {
       btn.hidden = false;
   }
 
+  /*
   handleSubmit(e){
     isDistrictSelected=true;
     this.setState({district:e.value});
-  }
+  }*/
 
   componentDidMount(){
       this.getOptions()
   }
 
   showBreakdown(){
+    if (!isDistrictValid(this.state.id, this.state.district)) {
+      alert("Invalid district! [" + this.state.id + " " + this.state.district + "]");
+      return;
+    }
     //Need to get JSON data 
     alert(`Breakdown \n
     Democratic votes: \n
@@ -148,15 +161,18 @@ class searchDistrict extends Component {
   }
 
   changeDistrict(event){
-    isDistrictSelected = true;
+    //isDistrictSelected = true;
     this.setState({district: event.target.value});
+    //alert(event.target.value);
+    //this.state.district = event.target.value;
   }
+ 
   mapHandler = (event) => {
     const btn = document.getElementById("district-button");
     btn.hidden = false;
     this.setState({id:event.target.dataset.name, name:getStateNameById(event.target.dataset.name)});
     isStateSelected = true;
-    isDistrictSelected = true;
+    //isDistrictSelected = true;
     //this.handleChange.bind(stateObject);
     //alert(event.target.dataset.name);
 };
@@ -183,23 +199,33 @@ class searchDistrict extends Component {
         
         <form hidden = "true" id="district-button" >
           <label>
-        <label htmlFor="district-number-label">Enter District: </label>
-        <input type="text" id="district-number" name="district-number" district={this.state.district} onChange = {this.changeDistrict.bind(this)}/>
-        </label>
-        
+            <label htmlFor="district-number-label">Enter District: </label>
+            <input onChange={this.changeDistrict.bind(this)} type="text" id="district-number" name="district-number" district={this.state.district} />
+          </label>
         </form>
+
+        <button id="breakdown-button" onClick={this.showBreakdown.bind(this)}> View District Breakdown </button>
+
+        <h1>{this.state.id} District {this.state.district}: { "Score" }</h1>
         
-        {isDistrictSelected && errorChecking(this.state.id, this.state.district) && this.state.district !== 0 ? (
-
-          <h1>{this.state.id} District {this.state.district}: { Math.floor(Math.random() * (100) )}%</h1>
-          
-        ): <i></i>
-        }
-        <button onClick={this.showBreakdown} id="breakdown-button" hidden="true" > View Breakdown </button>
-
+        
       </div>
     );
   }
 }
 
+
+
+
 export default searchDistrict;
+
+/*
+        {isDistrictSelected && isDistrictValid(this.state.id, this.state.district) && this.state.district !== 0 ? (
+
+          <h1>{this.state.id} District {this.state.district}: { Math.floor(Math.random() * (100) )}%</h1>
+          
+        ): <i></i>
+        }
+
+        onChange = {this.changeDistrict.bind(this)}
+*/
