@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './searchDistrict';
+import SearchDistrict from "./searchDistrict";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App/>
+    <SearchDistrict/>
   </React.StrictMode>
 );
 

@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="fixed so you can enter district when clicking on map or using dropdown menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/district-maps/MA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/district-maps/VA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,7 @@
       <workItem from="1667506077950" duration="8308000" />
       <workItem from="1667834269426" duration="783000" />
       <workItem from="1667854068996" duration="4673000" />
+      <workItem from="1668458604512" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Git add">
       <created>1666299896360</created>
