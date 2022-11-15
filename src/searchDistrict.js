@@ -9,7 +9,6 @@ import DesignAbout from './DesignAbout.js';
 let isStateSelected = false;
 let isDistrictSelected = false;
 
-
 function getStateNameById(stateAbbr) {
   var states = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut",
   "DE":"Delaware","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa",
@@ -32,8 +31,6 @@ function isDistrictValid(state, district) {
         "OR":5,"PA":18,"PR":1, "RI":2,"SC":7,"SD":1,"TN":9,"TX":36,
         "UT":4,"VT":1,"VA":11,"WA":10,"WV":3,"WI":1,"WY":1};
 
-    // console.log("state is", state, "and district is", district)
-
     if (isNaN(district)) {
       return false;
     }
@@ -44,19 +41,6 @@ function isDistrictValid(state, district) {
 
     isDistrictSelected = true;
     return true;
-
-    /*
-    const largest_district = states[state];
-    // console.log("num of districts is", largest_district);
-    // is definitely an int here, make sure is a valid district
-    if (district >= 1 && district <= largest_district && (district % 1 === 0)){
-        const btn = document.getElementById("breakdown-button");
-        btn.hidden = false;
-        return true;
-    }
-    else{
-        return false;
-    }*/
 }
 
 class searchDistrict extends Component {
@@ -138,41 +122,43 @@ class searchDistrict extends Component {
     document.getElementById("district-area").style.display = "block";
   }
 
-
   componentDidMount(){
       this.getOptions()
   }
 
-  readJSON(){
-   var data = require('./CT.json');
+  readJSON(stateId){
+   var data = require('./' + stateId + '.json');
    for(var i = 0; i< data.length; i++){
-     var obj = data[i]
-     if(obj.State.toLowerCase() == this.state.name.toLowerCase() && obj.District == this.state.district){
-       console.log(obj.Percentile);
+     var obj = data[i];
+     if (obj.State.toLowerCase() == this.state.name.toLowerCase() && obj.District == this.state.district){
+       const breakdown = document.getElementById("breakdown-area");
+       breakdown.hidden = false;
+       document.getElementById("score").innerHTML = obj.Percentile;
+       window.scrollTo(0, document.body.scrollHeight);
      }
    }
-
   }
+
   showBreakdown(){
     if (!isDistrictValid(this.state.id, this.state.district)) {
       alert("Invalid district! [" + this.state.id + " " + this.state.district + "]");
       return;
     }
+    /*
     //Need to get JSON data 
     alert(`Breakdown \n
     Democratic votes: \n
     Republican votes: \n
     Total Votes: \n
     Democratic Wasted: \n
-    Republican Wasted: \n`);
+    Republican Wasted: \n`);*/
+    this.readJSON(this.state.id);
   }
 
   changeDistrict(event){
-    //isDistrictSelected = true;
     this.setState({district: event.target.value});
-    
-    //alert(event.target.value);
-    //this.state.district = event.target.value;
+    const breakdown = document.getElementById("breakdown-area");
+    breakdown.hidden = true;
   }
  
   mapHandler = (event) => {
@@ -183,13 +169,9 @@ class searchDistrict extends Component {
     this.setState({id:event.target.dataset.name, name:getStateNameById(event.target.dataset.name)});
     isStateSelected = true;
     document.getElementById("district-area").style.display = "block";
-    //isDistrictSelected = true;
-    //this.handleChange.bind(stateObject);
-    //alert(event.target.dataset.name);
 };
 
   render() {
-    //console.log(this.state.selectOptions)
     return (
       <div class="searchDistrict">
         <div class="top-link">
@@ -223,25 +205,16 @@ class searchDistrict extends Component {
 
         <div hidden = {true} id="district-area">
           <button class="cool-styled-btn" id="breakdown-button" onClick={this.showBreakdown.bind(this)}> View District Breakdown </button>
-
-          <h1>{this.state.id} District {this.state.district}: { "Score" }</h1>
+          
         </div>
-        
+
+        <div hidden = {true} id="breakdown-area">
+        <h1>{this.state.id} District {this.state.district}</h1>
+          <p id="score">Score</p>
+        </div>
       </div>
     );
   }
 }
 
-
-
-
 export default searchDistrict;
-
-/*
-        {isDistrictSelected && isDistrictValid(this.state.id, this.state.district) && this.state.district !== 0 ? (
-          <h1>{this.state.id} District {this.state.district}: { Math.floor(Math.random() * (100) )}%</h1>
-          
-        ): <i></i>
-        }
-        onChange = {this.changeDistrict.bind(this)}
-*/
