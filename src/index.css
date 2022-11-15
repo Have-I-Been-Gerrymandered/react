@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#whats-my-district-btn {
+  display: block;
+  font-style: italic;
+}
+
+#breakdown-button {
+  margin-top: 15px;
+  border-radius: 2px;
+  font-weight: bold;
+  color: rgb(2, 48, 32);
+  border-color: darkgreen;
+  font-size: 15px;
+  padding: 10px;
+  background-color: rgb(138, 154, 91);
+}

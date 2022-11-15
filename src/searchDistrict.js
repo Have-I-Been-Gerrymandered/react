@@ -172,6 +172,8 @@ class searchDistrict extends Component {
   mapHandler = (event) => {
     const btn = document.getElementById("district-button");
     btn.hidden = false;
+    const findDistrict = document.getElementById("find-district");
+    findDistrict.hidden = false;
     this.setState({id:event.target.dataset.name, name:getStateNameById(event.target.dataset.name)});
     isStateSelected = true;
     document.getElementById("district-area").style.display = "block";
@@ -192,9 +194,7 @@ class searchDistrict extends Component {
            <Select options={this.state.selectOptions} onChange={this.handleChange.bind(this)} />
         </div>
         <div class={"selector-class"}>
-        <a href="https://www.house.gov/representatives/find-your-representative" target="_blank">
-            <button class="cool-styled-btn"> What district am I in?</button>
-        </a>
+
       </div>
       <hr></hr>
         
@@ -204,12 +204,16 @@ class searchDistrict extends Component {
         ) : ( <USAMap onClick={this.mapHandler} />)}
         
         <form hidden = {true} id="district-button" >
-          <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
+          <p>You have selected <strong>{this.state.name} </strong><strong>({this.state.id})</strong></p>
           <label>
             <label htmlFor="district-number-label">Enter District: </label>
             <input onChange={this.changeDistrict.bind(this)} type="text" id="district-number" name="district-number" district={this.state.district} />
           </label>
         </form>
+      
+        <a id="find-district" hidden={true} href="https://www.house.gov/representatives/find-your-representative" target="_blank">
+            <button class="cool-styled-btn"> What district am I in?</button>
+        </a>
 
         <div hidden = {true} id="district-area">
           <button class="cool-styled-btn" id="breakdown-button" onClick={this.showBreakdown.bind(this)}> View District Breakdown </button>
