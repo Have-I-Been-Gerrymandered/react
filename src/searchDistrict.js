@@ -131,9 +131,10 @@ class searchDistrict extends Component {
   handleChange(e) {
     console.log(e);
     isStateSelected = true;
-   this.setState({id:e.value, name:e.label});
-      const btn = document.getElementById("district-button");
-      btn.hidden = false;
+    this.setState({id:e.value, name:e.label});
+    const btn = document.getElementById("district-button");
+    btn.hidden = false;
+    document.getElementById("district-area").style.display = "block";
   }
 
   /*
@@ -163,6 +164,7 @@ class searchDistrict extends Component {
   changeDistrict(event){
     //isDistrictSelected = true;
     this.setState({district: event.target.value});
+    
     //alert(event.target.value);
     //this.state.district = event.target.value;
   }
@@ -172,6 +174,7 @@ class searchDistrict extends Component {
     btn.hidden = false;
     this.setState({id:event.target.dataset.name, name:getStateNameById(event.target.dataset.name)});
     isStateSelected = true;
+    document.getElementById("district-area").style.display = "block";
     //isDistrictSelected = true;
     //this.handleChange.bind(stateObject);
     //alert(event.target.dataset.name);
@@ -181,34 +184,38 @@ class searchDistrict extends Component {
     //console.log(this.state.selectOptions)
     return (
       <div class="searchDistrict">
-        <h1 class="title">Have I been Gerrymandered?</h1>
-        <b class={"selector-child"}> Choose Your State! </b>
-        <Select options={this.state.selectOptions} onChange={this.handleChange.bind(this)} />
+        <div class="top-link">
+           <a href="../" class="title">Have I been Gerrymandered?</a>
+        </div>
+        <div id="state-select-div">
+           <b class={"selector-child"}> Choose Your State</b>
+           <Select options={this.state.selectOptions} onChange={this.handleChange.bind(this)} />
+        </div>
         <div class={"selector-class"}>
-        <a href="https://www.house.gov/representatives/find-your-representative">
-            <button> Find my District</button>
+        <a href="https://www.house.gov/representatives/find-your-representative" target="_blank">
+            <button class="cool-styled-btn"> What district am I in?</button>
         </a>
-  
       </div>
+      <hr></hr>
         
         { isStateSelected ? (
              <img src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
     
         ) : ( <USAMap onClick={this.mapHandler} />)}
         
-        
-        <form hidden = "true" id="district-button" >
-        <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
+        <form hidden = {true} id="district-button" >
+          <p>You have selected <strong>{this.state.name}</strong> whose id is <strong>{this.state.id}</strong></p>
           <label>
             <label htmlFor="district-number-label">Enter District: </label>
             <input onChange={this.changeDistrict.bind(this)} type="text" id="district-number" name="district-number" district={this.state.district} />
           </label>
         </form>
 
-        <button id="breakdown-button" onClick={this.showBreakdown.bind(this)}> View District Breakdown </button>
+        <div hidden = {true} id="district-area">
+          <button class="cool-styled-btn" id="breakdown-button" onClick={this.showBreakdown.bind(this)}> View District Breakdown </button>
 
-        <h1>{this.state.id} District {this.state.district}: { "Score" }</h1>
-        
+          <h1>{this.state.id} District {this.state.district}: { "Score" }</h1>
+        </div>
         
       </div>
     );

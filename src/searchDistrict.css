@@ -21,3 +21,58 @@ text-align: center;
   /*display: inline-block;*/
 }
 
+#district-area {
+  display: hidden;
+}
+
+.top-link {
+  display: block;
+  margin-top: 10px;
+  font-size: 25px;
+  color: black;
+}
+
+/* Title Link Color */
+.title:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.title:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.title:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.title:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* State Select */
+#state-select-div {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 5px;
+  max-width: 250px;
+}
+
+/* Cool styled button :) */
+.cool-styled-btn {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.cool-styled-btn:hover {
+  cursor: pointer;
+}
