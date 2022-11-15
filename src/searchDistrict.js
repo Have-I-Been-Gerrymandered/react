@@ -5,6 +5,7 @@ import Select from 'react-select';
 import './searchDistrict.css';
 import DesignAbout from './DesignAbout.js';
 
+
 let isStateSelected = false;
 let isDistrictSelected = false;
 
@@ -137,16 +138,21 @@ class searchDistrict extends Component {
     document.getElementById("district-area").style.display = "block";
   }
 
-  /*
-  handleSubmit(e){
-    isDistrictSelected=true;
-    this.setState({district:e.value});
-  }*/
 
   componentDidMount(){
       this.getOptions()
   }
 
+  readJSON(){
+   var data = require('./CT.json');
+   for(var i = 0; i< data.length; i++){
+     var obj = data[i]
+     if(obj.State.toLowerCase() == this.state.name.toLowerCase() && obj.District == this.state.district){
+       console.log(obj.Percentile);
+     }
+   }
+
+  }
   showBreakdown(){
     if (!isDistrictValid(this.state.id, this.state.district)) {
       alert("Invalid district! [" + this.state.id + " " + this.state.district + "]");
