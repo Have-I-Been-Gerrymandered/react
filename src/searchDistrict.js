@@ -187,7 +187,7 @@ class searchDistrict extends Component {
       <hr></hr>
         
         { isStateSelected ? (
-             <img src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
+             <img id="district-map-img" src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
     
         ) : ( <USAMap onClick={this.mapHandler} />)}
         

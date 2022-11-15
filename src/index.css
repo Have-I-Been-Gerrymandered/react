@@ -27,3 +27,7 @@ code {
   padding: 10px;
   background-color: rgb(138, 154, 91);
 }
+
+#district-map-img {
+  max-width: 350px;
+}
