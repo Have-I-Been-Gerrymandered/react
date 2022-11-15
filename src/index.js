@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import SearchDistrict from './searchDistrict';
 import App from './App'
-import reportWebVitals from './reportWebVitals';
+//import reportWebVitals from './reportWebVitals';
 import "./navigationBar"
 import { BrowserRouter } from "react-router-dom"
 
@@ -17,4 +17,4 @@ root.render(
 );
 
 
-reportWebVitals()
+//reportWebVitals()
