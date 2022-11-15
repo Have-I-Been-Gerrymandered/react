@@ -199,7 +199,7 @@ class searchDistrict extends Component {
       <hr></hr>
         
         { isStateSelected ? (
-             <img src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
+             <img src={this.state.id ? require('./' + this.state.id + '.png') : ''} alt = '' /> 
     
         ) : ( <USAMap onClick={this.mapHandler} />)}
         
@@ -229,11 +229,9 @@ export default searchDistrict;
 
 /*
         {isDistrictSelected && isDistrictValid(this.state.id, this.state.district) && this.state.district !== 0 ? (
-
           <h1>{this.state.id} District {this.state.district}: { Math.floor(Math.random() * (100) )}%</h1>
           
         ): <i></i>
         }
-
         onChange = {this.changeDistrict.bind(this)}
 */
