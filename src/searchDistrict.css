@@ -17,10 +17,6 @@ path:hover {
 text-align: center;
 }
 
-.selector {
-  /*display: inline-block;*/
-}
-
 #district-area {
   display: hidden;
 }

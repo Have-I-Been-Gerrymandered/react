@@ -1,13 +1,10 @@
 import React, { Component } from 'react';
 import USAMap from "react-usa-map";
 import Select from 'react-select';
-//import Dropdown from 'react-bootstrap/Dropdown';
 import './searchDistrict.css';
-import DesignAbout from './DesignAbout.js';
 
-
+//Creates the searchDistrict page
 let isStateSelected = false;
-let isDistrictSelected = false;
 
 function getStateNameById(stateAbbr) {
   var states = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut",
@@ -22,7 +19,6 @@ function getStateNameById(stateAbbr) {
 }
 
 function isDistrictValid(state, district) {
-  isDistrictSelected = false;
     const states = {"AL":7,"AK":1,"AZ":9,"AR":4,"CA":53,"CO":7,"CT":5,
         "DE":1,"DC":1,"FL":27,"GA":14,"HI":2,"ID":2,"IL":18,"IN":9,"IA":4,
         "KS":4,"KY":6,"LA":6,"ME":2,"MD":8,"MA":9,"MI":14,
@@ -34,12 +30,9 @@ function isDistrictValid(state, district) {
     if (isNaN(district)) {
       return false;
     }
-
     if (district > states[state]) {
       return false;
     }
-
-    isDistrictSelected = true;
     return true;
 }
 
@@ -51,8 +44,7 @@ class searchDistrict extends Component {
       selectOptions : [],
       id: '',
       name: '',
-      district: 0,
-      viewBreakdown: false
+      district: 0
     }
   }
 
@@ -144,14 +136,6 @@ class searchDistrict extends Component {
       alert("Invalid district! [" + this.state.id + " " + this.state.district + "]");
       return;
     }
-    /*
-    //Need to get JSON data 
-    alert(`Breakdown \n
-    Democratic votes: \n
-    Republican votes: \n
-    Total Votes: \n
-    Democratic Wasted: \n
-    Republican Wasted: \n`);*/
     this.readJSON(this.state.id);
   }
 
@@ -182,15 +166,12 @@ class searchDistrict extends Component {
            <Select options={this.state.selectOptions} onChange={this.handleChange.bind(this)} />
         </div>
         <div class={"selector-class"}>
-
       </div>
       <hr></hr>
-        
         { isStateSelected ? (
              <img id="district-map-img" src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
     
         ) : ( <USAMap onClick={this.mapHandler} />)}
-        
         <form hidden = {true} id="district-button" >
           <p>You have selected <strong>{this.state.name} </strong><strong>({this.state.id})</strong></p>
           <label>
@@ -198,16 +179,12 @@ class searchDistrict extends Component {
             <input onChange={this.changeDistrict.bind(this)} type="text" id="district-number" name="district-number" district={this.state.district} />
           </label>
         </form>
-      
         <a id="find-district" hidden={true} href="https://www.house.gov/representatives/find-your-representative" target="_blank">
             <button class="cool-styled-btn"> What district am I in?</button>
         </a>
-
         <div hidden = {true} id="district-area">
-          <button class="cool-styled-btn" id="breakdown-button" onClick={this.showBreakdown.bind(this)}> View District Breakdown </button>
-          
+          <button class="cool-styled-btn" id="breakdown-button" onClick={this.showBreakdown.bind(this)}> View District Score </button> 
         </div>
-
         <div hidden = {true} id="breakdown-area">
         <h1>{this.state.id} District {this.state.district}</h1>
           <p id="score">Score</p>
@@ -218,3 +195,4 @@ class searchDistrict extends Component {
 }
 
 export default searchDistrict;
+ 

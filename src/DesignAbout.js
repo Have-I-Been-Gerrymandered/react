@@ -4,7 +4,6 @@ import { Row, Col } from 'antd';
 
 import ProfileCard from './ProfileCard';
 
-
 // Creates AboutUs page and calls ProfileCard component for each team member.
 function DesignAbout() {
     var paragraph = "Have I Been Gerrymandered? is a web tool with the purpose of showing voters how gerrymandered their district is. Currently, it is difficult for voters to determine "
