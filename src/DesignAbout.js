@@ -3,6 +3,11 @@ import React from 'react';
 import { Row, Col } from 'antd';
 
 import ProfileCard from './ProfileCard';
+import './designAbout.css';
+import CTimg from './CT.png';
+import Keerti from './Keerti.jpg';
+import Sam from './Sam.jpg';
+
 
 // Creates AboutUs page and calls ProfileCard component for each team member.
 function DesignAbout() {
@@ -42,13 +47,15 @@ function DesignAbout() {
                     <h2 id="creators-title">OUR CREATORS</h2>
                 </Col>
             </Row>
-            <ProfileCard name="Sam" end={front} year={year} src="./CT.png" />
-            <ProfileCard name="Keerti" end={front} year={year} src="./CT.png" />
-            <ProfileCard name="Josh" end={front} year={year} src="./CT.png" />
-            <ProfileCard name="Mason" end={front} year={year} src="./CT.png" />
-            <ProfileCard name="Henry" end={front} year={year} src="./CT.png" />
-
-    
+            <div class="box">
+                <div><ProfileCard name="Sam West" end={front} year={year} src={Sam} /></div>
+                <div><ProfileCard name="Keerti Sundaram" end={front} year={year} src={Keerti} /></div>
+                <div><ProfileCard name="Josh Marion" end={front} year={younger_year} src={CTimg} /> </div>
+            </div>
+            <div class="box">
+                <div><ProfileCard name="Henry Jack" end={front} year={younger_year} src={CTimg} /> </div>
+                <div><ProfileCard name="Mason DuBoef" end={back} year={year} src={CTimg} /> </div>
+            </div>
             </div>
         </>
     );
