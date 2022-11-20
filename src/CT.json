@@ -12,7 +12,7 @@
     "Percentile": "0.00%",
     "AdvDemWasted": "NULL",
     "AdvRepWasted": "NULL",
-    "AdvEffGap": "NULL",
+    "AdvEffGap": "8.5%",
     "AdvPercentile": "NULL"
   },
   {
@@ -28,7 +28,7 @@
     "Percentile": "50.00%",
     "AdvDemWasted": "NULL",
     "AdvRepWasted": "NULL",
-    "AdvEffGap": "NULL",
+    "AdvEffGap": "17.6%",
     "AdvPercentile": "NULL"
   },
   {
@@ -44,7 +44,7 @@
     "Percentile": "75.00%",
     "AdvDemWasted": "NULL",
     "AdvRepWasted": "NULL",
-    "AdvEffGap": "NULL",
+    "AdvEffGap": "20.8%",
     "AdvPercentile": "NULL"
   },
   {
@@ -60,7 +60,7 @@
     "Percentile": "25.00%",
     "AdvDemWasted": "NULL",
     "AdvRepWasted": "NULL",
-    "AdvEffGap": "NULL",
+    "AdvEffGap": "6.7%",
     "AdvPercentile": "NULL"
   },
   {
@@ -76,7 +76,7 @@
     "Percentile": "100.00%",
     "AdvDemWasted": "NULL",
     "AdvRepWasted": "NULL",
-    "AdvEffGap": "NULL",
+    "AdvEffGap": "30.8%",
     "AdvPercentile": "NULL"
   }
 ]
