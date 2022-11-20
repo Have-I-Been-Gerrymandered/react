@@ -4,7 +4,7 @@ import { Row, Col } from 'antd';
 
 import ProfileCard from './ProfileCard';
 import './designAbout.css';
-import CTimg from './CT.png';
+import CTimg from './district-maps/CT.png';
 import Keerti from './Keerti.jpg';
 import Sam from './Sam.jpg';
 

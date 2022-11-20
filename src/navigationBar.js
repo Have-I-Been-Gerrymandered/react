@@ -1,16 +1,16 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
+import logo from './GOODLOGO.png'
 
 export default function Navbar() {
   return (
     <nav className="nav">
 
       <a href="../" className="site-title">
-        Have I Been Gerrymandered?
+        <img className="logo" src={logo} alt={"LOGO"}/>
       </a>
       <ul>
-        <a href="../">
-        Home
-        </a>
+
+        <CustomLink to="/">Home</CustomLink>
         <CustomLink to="/our-algorithm">Our Algorithm</CustomLink>
         <CustomLink to="/about">About</CustomLink>
       </ul>

@@ -49,3 +49,8 @@
   .nav li:hover {
     background-color: rgb(174, 174, 174);
   }
+
+  .logo{
+    height: 80px;
+    width: 80px;
+  }
