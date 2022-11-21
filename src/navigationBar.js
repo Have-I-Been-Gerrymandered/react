@@ -10,7 +10,7 @@ export default function Navbar() {
       </a>
       <ul>
 
-        <CustomLink to="/">Home</CustomLink>
+        <a href="../">Home</a>
         <CustomLink to="/our-algorithm">Our Algorithm</CustomLink>
         <CustomLink to="/about">About</CustomLink>
       </ul>
