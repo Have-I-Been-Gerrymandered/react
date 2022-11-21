@@ -6,6 +6,8 @@ import CTimg from './district-maps/CT.png';
 import Keerti from './Keerti.jpg';
 import Sam from './Sam.jpg';
 import Henry from './Henry.jpg';
+import Josh from './Josh.png';
+import Mason from './Mason.jpg';
 
 
 // Creates AboutUs page and calls ProfileCard component for each team member.
@@ -55,11 +57,11 @@ class DesignAbout extends Component{
                 <div class="box">
                     <div><ProfileCard name="Sam West" end={this.state.front} year={this.state.year} src={Sam} /></div>
                     <div><ProfileCard name="Keerti Sundaram" end={this.state.front} year={this.state.year} src={Keerti} /></div>
-                    <div><ProfileCard name="Josh Marion" end={this.state.front} year={this.state.younger_year} src={CTimg} /> </div>
+                    <div><ProfileCard name="Josh Marion" end={this.state.front} year={this.state.younger_year} src={Josh} /> </div>
                 </div>
                 <div class="box">
                     <div><ProfileCard name="Henry Jack" end={this.state.front} year={this.state.younger_year} src={Henry} /> </div>
-                    <div><ProfileCard name="Mason DuBoef" end={this.state.back} year={this.state.year} src={CTimg} /> </div>
+                    <div><ProfileCard name="Mason DuBoef" end={this.state.back} year={this.state.year} src={Mason} /> </div>
                 </div>
                 </div>
             </>
