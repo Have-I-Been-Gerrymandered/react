@@ -6,6 +6,7 @@ import './searchDistrict.css';
 //Creates the searchDistrict page
 let isStateSelected = false;
 
+// Given a state ID (like CA) returns the state name (like California)
 function getStateNameById(stateAbbr) {
   var states = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut",
   "DE":"Delaware","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa",
@@ -18,6 +19,8 @@ function getStateNameById(stateAbbr) {
   return states[stateAbbr];
 }
 
+// Checks if a given state and district number is valid (number is less than 1, not a number,
+// or greater than the number of districts in that state)
 function isDistrictValid(state, district) {
     const states = {"AL":7,"AK":1,"AZ":9,"AR":4,"CA":53,"CO":7,"CT":5,
         "DE":1,"DC":1,"FL":27,"GA":14,"HI":2,"ID":2,"IL":18,"IN":9,"IA":4,
@@ -27,15 +30,20 @@ function isDistrictValid(state, district) {
         "OR":5,"PA":18,"PR":1, "RI":2,"SC":7,"SD":1,"TN":9,"TX":36,
         "UT":4,"VT":1,"VA":11,"WA":10,"WV":3,"WI":1,"WY":1};
 
+    // Not a number
     if (isNaN(district)) {
       return false;
     }
-    if (district > states[state]) {
+
+    // Too high of a number
+    if (district > states[state] || district <= 0) {
       return false;
     }
+
     return true;
 }
 
+// Search District component
 class searchDistrict extends Component {
 
   constructor(props){
@@ -48,6 +56,7 @@ class searchDistrict extends Component {
     }
   }
 
+  // Sets state abbreviations and names for the map and dropdown
  async getOptions(){
     const states = [
       {value: "AL", label: "Alabama"},
@@ -105,6 +114,7 @@ class searchDistrict extends Component {
     this.setState({selectOptions: states})
   }
 
+  // Handles when some buttons are clicked to update the map and score divs
   handleChange(e) {
     console.log(e);
     isStateSelected = true;
@@ -118,10 +128,13 @@ class searchDistrict extends Component {
       this.getOptions()
   }
 
+  // Reads the JSON for the given state
   readJSON(stateId){
    var data = require('./US.json');
-   for(var i = 0; i< data.length; i++){
+   // Loop through json
+   for(var i = 0; i< data.length; i++) {
      var obj = data[i];
+     // If state found
      if (obj.State.toLowerCase() == this.state.name.toLowerCase() && obj.District == this.state.district){
        const breakdown = document.getElementById("breakdown-area");
        breakdown.hidden = false;
@@ -135,6 +148,7 @@ class searchDistrict extends Component {
    }
   }
 
+  // Show the score information, or say the district is invalid
   showBreakdown(){
     if (!isDistrictValid(this.state.id, this.state.district)) {
       alert("Invalid district! [" + this.state.id + " " + this.state.district + "]");
@@ -143,12 +157,14 @@ class searchDistrict extends Component {
     this.readJSON(this.state.id);
   }
 
+  // Event called when a user inputs a district
   changeDistrict(event){
     this.setState({district: event.target.value});
     const breakdown = document.getElementById("breakdown-area");
     breakdown.hidden = true;
   }
  
+  // Handles the map being interacted with
   mapHandler = (event) => {
     const btn = document.getElementById("district-button");
     btn.hidden = false;

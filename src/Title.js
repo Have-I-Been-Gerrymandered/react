@@ -3,6 +3,7 @@ import './Title.css';
 
 class Title extends Component {
 
+    // title component
     constructor(props) {
         super(props);
         this.state = {value: 'AL'};
