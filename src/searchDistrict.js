@@ -129,7 +129,7 @@ class searchDistrict extends Component {
        document.getElementById("demVotes").innerHTML = "Democratic Votes: " + obj.DemVotes;
        document.getElementById("repVotes").innerHTML = "Republican Votes: " + obj.RepVotes;
        document.getElementById("effGap").innerHTML = "Efficiency Gap: " + obj.EffGap;
-       document.getElementById("advEffGap").innerHTML = "Advanced Efficiency Gap: " + obj.AdvEffGap;
+       //document.getElementById("advEffGap").innerHTML = "Advanced Efficiency Gap: " + obj.AdvEffGap;
        window.scrollTo(0, document.body.scrollHeight);
      }
    }
@@ -195,7 +195,7 @@ class searchDistrict extends Component {
           <p id="demVotes"></p>
           <p id="repVotes"></p>
           <p id="effGap"></p>
-          <p id="advEffGap"></p>
+          
         </div>
       </div>
     );
