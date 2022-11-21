@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="fixed so you can enter district when clicking on map or using dropdown menu">
+    <list default="true" id="bd45e143-311b-4383-b0cc-5ef9e610e164" name="Changes" comment="changed class name from App to SearchDistrict">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/district-maps/MA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/district-maps/VA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchDistrict.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchDistrict.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="2FPcw8EyPtKdONec0yw4VO6y8iv" />
   <component name="ProjectViewState">
@@ -68,7 +70,9 @@
       <workItem from="1667506077950" duration="8308000" />
       <workItem from="1667834269426" duration="783000" />
       <workItem from="1667854068996" duration="4673000" />
-      <workItem from="1668458604512" duration="1808000" />
+      <workItem from="1668458604512" duration="6675000" />
+      <workItem from="1668717208312" duration="702000" />
+      <workItem from="1669064171865" duration="2308000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Git add">
       <created>1666299896360</created>
@@ -175,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667854155328</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="changed class name from App to SearchDistrict">
+      <created>1668461935261</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668461935261</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +215,7 @@
     <MESSAGE value="idk" />
     <MESSAGE value="fix thing" />
     <MESSAGE value="fixed so you can enter district when clicking on map or using dropdown menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed so you can enter district when clicking on map or using dropdown menu" />
+    <MESSAGE value="changed class name from App to SearchDistrict" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed class name from App to SearchDistrict" />
   </component>
 </project>

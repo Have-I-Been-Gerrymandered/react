@@ -115,12 +115,15 @@ class searchDistrict extends Component {
   }
 
   // Handles when some buttons are clicked to update the map and score divs
+  // This is the handle change for when you use the dropdown
   handleChange(e) {
     console.log(e);
     isStateSelected = true;
     this.setState({id:e.value, name:e.label});
     const btn = document.getElementById("district-button");
     btn.hidden = false;
+    const findDistrict = document.getElementById("find-district");
+    findDistrict.hidden = false;
     document.getElementById("district-area").style.display = "block";
   }
 
