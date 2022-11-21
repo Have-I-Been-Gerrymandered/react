@@ -119,7 +119,7 @@ class searchDistrict extends Component {
   }
 
   readJSON(stateId){
-   var data = require('./' + stateId + '.json');
+   var data = require('./US.json');
    for(var i = 0; i< data.length; i++){
      var obj = data[i];
      if (obj.State.toLowerCase() == this.state.name.toLowerCase() && obj.District == this.state.district){
