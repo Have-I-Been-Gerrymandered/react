@@ -2,12 +2,11 @@ import React, { Component } from 'react';
 import { Row, Col } from 'antd';
 import ProfileCard from './ProfileCard';
 import './designAbout.css';
-import CTimg from './district-maps/CT.png';
-import Keerti from './Keerti.jpg';
-import Sam from './Sam.jpg';
-import Henry from './Henry.jpg';
-import Josh from './Josh.png';
-import Mason from './Mason.jpg';
+import Keerti from './profileImages/Keerti.jpg';
+import Sam from './profileImages//Sam.jpg';
+import Henry from './profileImages//Henry.jpg';
+import Josh from './profileImages//Josh.png';
+import Mason from './profileImages/Mason.jpg';
 
 
 // Creates AboutUs page and calls ProfileCard component for each team member.

@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import USAMap from "react-usa-map";
-import Select from 'react-select';
 import { Route, Routes } from 'react-router-dom';
 import DesignAbout from './DesignAbout';
 import Navbar from './navigationBar';

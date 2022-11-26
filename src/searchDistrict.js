@@ -4,6 +4,7 @@ import Select from 'react-select';
 import './searchDistrict.css';
 
 //Creates the searchDistrict page
+
 let isStateSelected = false;
 
 // Given a state ID (like CA) returns the state name (like California)
@@ -133,7 +134,7 @@ class searchDistrict extends Component {
 
   // Reads the JSON for the given state
   readJSON(stateId){
-   var data = require('./US.json');
+   var data = require('./data/US.json');
    // Loop through json
    for(var i = 0; i< data.length; i++) {
      var obj = data[i];
@@ -145,7 +146,6 @@ class searchDistrict extends Component {
        document.getElementById("demVotes").innerHTML = "Democratic Votes: " + obj.DemVotes;
        document.getElementById("repVotes").innerHTML = "Republican Votes: " + obj.RepVotes;
        document.getElementById("effGap").innerHTML = "Efficiency Gap: " + obj.EffGap;
-       //document.getElementById("advEffGap").innerHTML = "Advanced Efficiency Gap: " + obj.AdvEffGap;
        window.scrollTo(0, document.body.scrollHeight);
      }
    }
@@ -202,7 +202,7 @@ class searchDistrict extends Component {
             <input onChange={this.changeDistrict.bind(this)} type="text" id="district-number" name="district-number" district={this.state.district} />
           </label>
         </form>
-        <a id="find-district" hidden={true} href="https://www.house.gov/representatives/find-your-representative" target="_blank">
+        <a id="find-district" hidden={true} href="https://www.house.gov/representatives/find-your-representative" target="_blank" rel="noopener noreferrer">
             <button class="cool-styled-btn"> What district am I in?</button>
         </a>
         <div hidden = {true} id="district-area">
@@ -210,7 +210,7 @@ class searchDistrict extends Component {
         </div>
         <div hidden = {true} id="breakdown-area">
         <h1>{this.state.id} District {this.state.district}</h1>
-          <h2 id="score"></h2>
+          <b id="score"></b>
           <p id="demVotes"></p>
           <p id="repVotes"></p>
           <p id="effGap"></p>
