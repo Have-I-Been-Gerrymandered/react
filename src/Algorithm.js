@@ -21,7 +21,7 @@ render(){
         <div>
             <h2>OUR ALGORITHM</h2>
             <p>{this.state.paragraph}</p>
-            <h2><a href = "https://github.com/Have-I-Been-Gerrymandered"> Our Github</a></h2>
+            <h2><a href = "https://github.com/Have-I-Been-Gerrymandered" target="_blank" rel="noopener noreferrer"> Our Github</a></h2>
         </div>
     )
 }
