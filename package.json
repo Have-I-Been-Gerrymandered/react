@@ -1,7 +1,7 @@
 {
   "name": "gerrymander",
   "version": "0.1.0",
-  "homepage": "http://mduboef.github.io/Have-I-Been-Gerrymandered/react", 
+  "homepage": "http://Have-I-Been-Gerrymandered.github.io/react", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
