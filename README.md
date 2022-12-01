@@ -1,13 +1,3 @@
 # Have I Been Gerrymandered?
 
-Running The App
-
-Clone the repo and run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Go to: https://have-i-been-gerrymandered.github.io/react/
