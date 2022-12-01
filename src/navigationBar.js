@@ -5,14 +5,13 @@ export default function Navbar() {
   return (
     <nav className="nav">
 
-      <CustomLink to="/home" className="site-title">
+      <a href="../" className="site-title">
         <img className="logo" src={logo} alt={"LOGO"}/>
-      </CustomLink>
+      </a>
       <ul>
-
-        <CustomLink to="/home">Home</CustomLink>
-        <CustomLink to="/our-algorithm">Our Algorithm</CustomLink>
-        <CustomLink to="/about">About</CustomLink>
+        <CustomLink to="/home" class="nav-item">Home</CustomLink>
+        <CustomLink to="/our-algorithm" class="nav-item">Our Algorithm</CustomLink>
+        <CustomLink to="/about" class="nav-item">About</CustomLink>
       </ul>
     </nav>
   )

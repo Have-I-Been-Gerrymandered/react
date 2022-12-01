@@ -12,7 +12,7 @@
   }
   
   .nav {
-    background-color: rgb(147, 202, 250);
+    background-color: #95cedb;
     color: rgb(16, 15, 15);
     display: flex;
     justify-content: space-between;
@@ -43,14 +43,18 @@
   }
   
   .nav li.active {
-    background-color: rgb(184, 182, 182);
+    background-color: #8fc3d1;
   }
   
   .nav li:hover {
-    background-color: rgb(174, 174, 174);
+    background-color: #80b1bd;
   }
 
   .logo{
-    height: 80px;
-    width: 80px;
+    height: 60px;
+    width: 60px;
+  }
+
+  .nav-item {
+    font-weight:500;
   }

@@ -72,3 +72,15 @@ text-align: center;
 .cool-styled-btn:hover {
   cursor: pointer;
 }
+
+#what-is-gerrymandering {
+  color: #004fee;
+}
+
+#what-is-gerrymandering:hover {
+  cursor: pointer;
+}
+
+#p-reveal {
+  font-size: 14px;
+}

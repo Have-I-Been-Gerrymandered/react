@@ -167,6 +167,16 @@ class searchDistrict extends Component {
     breakdown.hidden = true;
   }
  
+  // Show or hide the gerrymandering definition
+  showInfo() {
+    const elem = document.getElementById("p-reveal");
+    if (elem.hidden) {
+      elem.hidden = false;
+    } else {
+      elem.hidden = true;
+    }
+  }
+
   // Handles the map being interacted with
   mapHandler = (event) => {
     const btn = document.getElementById("district-button");
@@ -182,8 +192,11 @@ class searchDistrict extends Component {
     return (
       <div class="searchDistrict">
         <div class="top-link">
-           <a href="../" class="title">Have I been Gerrymandered?</a>
+           <a href="../" class="title">Have I Been Gerrymandered?</a>
         </div>
+        <p>An online tool to discover how fair your district is.</p>
+        <p id="what-is-gerrymandering" onClick={this.showInfo}>What is Gerrymandering?</p>
+        <p id="p-reveal" hidden = {true}>Gerrymandering is the act of changing district boundaries to gain more votes for a political party/group.</p>
         <div id="state-select-div">
            <b class={"selector-child"}> Choose Your State</b>
            <Select options={this.state.selectOptions} onChange={this.handleChange.bind(this)} />
