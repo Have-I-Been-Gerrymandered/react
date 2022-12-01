@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="nav">
 
-      <a href="../" className="site-title">
+      <a href="/" className="site-title">
         <img className="logo" src={logo} alt={"LOGO"}/>
       </a>
       <ul>
