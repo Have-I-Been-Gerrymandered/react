@@ -142,6 +142,29 @@ class searchDistrict extends Component {
      if (obj.State.toLowerCase() == this.state.name.toLowerCase() && obj.District == this.state.district){
        const breakdown = document.getElementById("breakdown-area");
        breakdown.hidden = false;
+       
+       if (obj.Percentile < 33) {
+        document.getElementById("score-area").style.border = "2px solid green";
+        document.getElementById("score-area").style.background = "#bdffbf";
+        document.getElementById("rating").innerHTML = "Fair";
+        document.getElementById("rating").style.color = "green";
+       } else if (obj.Percentile >= 33 && obj.Percentile < 50) {
+        document.getElementById("score-area").style.border = "2px solid yellow";
+        document.getElementById("score-area").style.background = "#f8ffc2";
+        document.getElementById("rating").innerHTML = "Somewhat fair";
+        document.getElementById("rating").style.color = "#e6be3c";
+       } else if (obj.Percentile >= 50 && obj.Percentile < 66) {
+        document.getElementById("score-area").style.border = "2px solid orange";
+        document.getElementById("score-area").style.background = "#ffdfc2";
+        document.getElementById("rating").innerHTML = "Somewhat unfair";
+        document.getElementById("rating").style.color = "orange";
+       } else {
+        document.getElementById("score-area").style.border = "2px solid red";
+        document.getElementById("score-area").style.background = "#ffa1a1";
+        document.getElementById("rating").innerHTML = "Highly unfair";
+        document.getElementById("rating").style.color = "red";  
+       }
+       
        document.getElementById("score").innerHTML = "Score: " + obj.Percentile;
        document.getElementById("dem-votes").innerHTML = "Democratic Votes: " + obj.DemVotes;
        document.getElementById("rep-votes").innerHTML = "Republican Votes: " + obj.RepVotes;
@@ -223,11 +246,13 @@ class searchDistrict extends Component {
         </div>
         <div hidden = {true} id="breakdown-area">
         <h1>{this.state.id} District {this.state.district}</h1>
-          <b id="score"></b>
-          <p id="dem-votes"></p>
-          <p id="rep-votes"></p>
-          <p id="eff-gap"></p>
-          
+          <div id="score-area">
+            <p id="rating"></p>
+            <b id="score"></b>
+            <p id="dem-votes"></p>
+            <p id="rep-votes"></p>
+            <p id="eff-gap"></p>
+          </div>
         </div>
       </div>
     );

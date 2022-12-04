@@ -31,3 +31,7 @@ code {
 #district-map-img {
   max-width: 350px;
 }
+
+#score-area {
+  border-radius: 5px;
+}
