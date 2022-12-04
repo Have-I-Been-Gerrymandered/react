@@ -91,14 +91,20 @@ text-align: center;
 }
 
 #district-map-img {
+  z-index: 99;
   margin-top: 15px;
   border-radius: 5px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 }
 
 #district-map-img:hover {
-  transform: scale(2.0);
+  position: absolute;
+  left: 35%;
+  transform: translate(-35%, -35%);
+  z-index: 99;
+  transform: scale(1.75);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
 }
 
 #footer {
@@ -115,4 +121,16 @@ text-align: center;
 .footer-item {
   color: white;
   font-size: 20px;
+}
+
+#select-dist {
+  z-index: 10;
+  width: 125px;
+  
+}
+
+#dist-select-div {
+  text-align: center;
+  align-items: center;
+  display: inline-flex;
 }
