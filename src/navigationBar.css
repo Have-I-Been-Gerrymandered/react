@@ -58,3 +58,7 @@
   .nav-item {
     font-weight:500;
   }
+
+  #home-link:hover {
+    background-color: #80b1bd;
+  }

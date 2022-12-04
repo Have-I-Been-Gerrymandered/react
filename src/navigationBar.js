@@ -10,7 +10,7 @@ export default function Navbar() {
         <img className="logo" src={logo} alt={"LOGO"}/>
       </a>
       <ul>
-        <CustomLink to="https://have-i-been-gerrymandered.github.io/react/" class="nav-item">Home</CustomLink>
+        <a id="home-link" href="https://have-i-been-gerrymandered.github.io/react/" class="nav-item">Home</a>
         <CustomLink to="/our-algorithm" class="nav-item">Our Algorithm</CustomLink>
         <CustomLink to="/about" class="nav-item">About</CustomLink>
       </ul>
