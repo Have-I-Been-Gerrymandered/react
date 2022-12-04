@@ -90,7 +90,29 @@ text-align: center;
   font-size: 25px;
 }
 
+#district-map-img {
+  margin-top: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
 #district-map-img:hover {
   transform: scale(2.0);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#footer {
+  background-color: red;
+  display: block;
+  margin-top: 25px;
+  position: relative;
+  align-items: stretch;
+  width: 100%;
+  
+  
+}
+
+.footer-item {
+  color: white;
+  font-size: 20px;
 }

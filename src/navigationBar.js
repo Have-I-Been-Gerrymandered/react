@@ -4,7 +4,7 @@ import searchDistrict from "./searchDistrict"
 
 export default function Navbar() {
   return (
-    <nav className="nav">
+    <nav id="nav-main" className="nav">
 
       <a href="https://have-i-been-gerrymandered.github.io/react/" className="site-title">
         <img className="logo" src={logo} alt={"LOGO"}/>

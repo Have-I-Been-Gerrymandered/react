@@ -12,8 +12,8 @@
   }
   
   .nav {
-    background-color: #95cedb;
-    color: rgb(16, 15, 15);
+    background-color: #000000;
+    color: rgb(254, 248, 248);
     display: flex;
     justify-content: space-between;
     align-items: stretch;
@@ -53,6 +53,7 @@
   .logo{
     height: 60px;
     width: 60px;
+    margin-bottom: 5px;
   }
 
   .nav-item {
@@ -61,4 +62,22 @@
 
   #home-link:hover {
     background-color: #80b1bd;
+  }
+
+  #nav-main {
+    border-bottom: 2px solid red;
+    border-bottom: none;
+    position: relative;
+  }
+
+  #nav-main:after {
+    content:"";
+    background: -webkit-linear-gradient(left, rgb(206, 29, 29) 0%, rgb(27, 74, 225) 80%);
+    display: block;
+    margin-top: 4px;
+    height:5px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
   }

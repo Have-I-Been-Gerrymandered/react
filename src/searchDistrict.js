@@ -112,7 +112,26 @@ class searchDistrict extends Component {
       {value: "WI", label :  "Wisconsin"},
       {value: "WY", label :  "Wyoming"}, ];
 
+      const dists = [
+        {value: "1", label: "1"},
+        {value: "2", label: "2"}
+      ]
+
+      const maxdists = {"AL":7,"AK":1,"AZ":9,"AR":4,"CA":53,"CO":7,"CT":5,
+      "DE":1,"DC":1,"FL":27,"GA":14,"HI":2,"ID":2,"IL":18,"IN":9,"IA":4,
+      "KS":4,"KY":6,"LA":6,"ME":2,"MD":8,"MA":9,"MI":14,
+      "MN":8,"MS":4,"MO":8,"MT":1,"NE":3,"NV":4,"NH":2,
+      "NJ":12,"NM":3,"NY":27,"NC":13,"ND":1,"OH":16,"OK":5,
+      "OR":5,"PA":18,"PR":1, "RI":2,"SC":7,"SD":1,"TN":9,"TX":36,
+      "UT":4,"VT":1,"VA":11,"WA":10,"WV":3,"WI":1,"WY":1};
+
+    for (var x = 1; x < maxdists.AL.value; x++) {
+      dists.concat({value: x, label: x});
+    }
+
     this.setState({selectOptions: states})
+    this.state.districts = dists;
+    console.log("--> " + this.state.districts[2]);
   }
 
   // Handles when some buttons are clicked to update the map and score divs
@@ -226,13 +245,14 @@ class searchDistrict extends Component {
         </div>
         <div class={"selector-class"}>
       </div>
-      <hr></hr>
+      
         { isStateSelected ? (
              <img id="district-map-img" src={this.state.id ? require('./district-maps/' + this.state.id + '.png') : ''} alt = '' /> 
     
         ) : ( <USAMap onClick={this.mapHandler} />)}
         <form hidden = {true} id="district-button" >
           <p>You have selected <strong>{this.state.name} </strong><strong>({this.state.id})</strong></p>
+          
           <label>
             <label htmlFor="district-number-label">Enter District: </label>
             <input onChange={this.changeDistrict.bind(this)} type="text" id="district-number" name="district-number" district={this.state.district} />
