@@ -143,9 +143,9 @@ class searchDistrict extends Component {
        const breakdown = document.getElementById("breakdown-area");
        breakdown.hidden = false;
        document.getElementById("score").innerHTML = "Score: " + obj.Percentile;
-       document.getElementById("demVotes").innerHTML = "Democratic Votes: " + obj.DemVotes;
-       document.getElementById("repVotes").innerHTML = "Republican Votes: " + obj.RepVotes;
-       document.getElementById("effGap").innerHTML = "Efficiency Gap: " + obj.EffGap;
+       document.getElementById("dem-votes").innerHTML = "Democratic Votes: " + obj.DemVotes;
+       document.getElementById("rep-votes").innerHTML = "Republican Votes: " + obj.RepVotes;
+       document.getElementById("eff-gap").innerHTML = "Efficiency Gap: " + obj.EffGap;
        window.scrollTo(0, document.body.scrollHeight);
      }
    }
@@ -224,9 +224,9 @@ class searchDistrict extends Component {
         <div hidden = {true} id="breakdown-area">
         <h1>{this.state.id} District {this.state.district}</h1>
           <b id="score"></b>
-          <p id="demVotes"></p>
-          <p id="repVotes"></p>
-          <p id="effGap"></p>
+          <p id="dem-votes"></p>
+          <p id="rep-votes"></p>
+          <p id="eff-gap"></p>
           
         </div>
       </div>
