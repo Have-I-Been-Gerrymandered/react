@@ -187,10 +187,11 @@ class searchDistrict extends Component {
         document.getElementById("rating").style.color = "red";  
        }
        
-       document.getElementById("score").innerHTML = "Score: " + obj.Percentile;
+       document.getElementById("score").innerHTML = "Score: " + obj.AdvPercentile;
        document.getElementById("dem-votes").innerHTML = "Democratic Votes: " + obj.DemVotes;
        document.getElementById("rep-votes").innerHTML = "Republican Votes: " + obj.RepVotes;
        document.getElementById("eff-gap").innerHTML = "Efficiency Gap: " + obj.EffGap;
+       document.getElementById("adv-eff-gap").innerHTML = "Advanced Efficiency Gap: " + obj.AdvEffGap;
        window.scrollTo(0, document.body.scrollHeight);
      }
    }
@@ -274,6 +275,7 @@ class searchDistrict extends Component {
             <p id="dem-votes"></p>
             <p id="rep-votes"></p>
             <p id="eff-gap"></p>
+            <p id="adv-eff-gap"></p>
           </div>
         </div>
       </div>
@@ -282,4 +284,3 @@ class searchDistrict extends Component {
 }
 
 export default searchDistrict;
- 
