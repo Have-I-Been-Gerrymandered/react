@@ -165,17 +165,17 @@ class searchDistrict extends Component {
        const breakdown = document.getElementById("breakdown-area");
        breakdown.hidden = false;
        
-       if (obj.Percentile < 33) {
+       if (obj.AdvPercentile < 33) {
         document.getElementById("score-area").style.border = "2px solid green";
         document.getElementById("score-area").style.background = "#bdffbf";
         document.getElementById("rating").innerHTML = "Fair";
         document.getElementById("rating").style.color = "green";
-       } else if (obj.Percentile >= 33 && obj.Percentile < 50) {
+       } else if (obj.AdvPercentile >= 33 && obj.AdvPercentile < 50) {
         document.getElementById("score-area").style.border = "2px solid yellow";
         document.getElementById("score-area").style.background = "#f8ffc2";
         document.getElementById("rating").innerHTML = "Somewhat fair";
         document.getElementById("rating").style.color = "#e6be3c";
-       } else if (obj.Percentile >= 50 && obj.Percentile < 66) {
+       } else if (obj.AdvPercentile >= 50 && obj.AdvPercentile < 66) {
         document.getElementById("score-area").style.border = "2px solid orange";
         document.getElementById("score-area").style.background = "#ffdfc2";
         document.getElementById("rating").innerHTML = "Somewhat unfair";
