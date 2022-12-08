@@ -120,7 +120,7 @@
   },
   {
     "State": "ALASKA",
-    "District": 0,
+    "District": 1,
     "Winner": "REPUBLICAN",
     "DemVotes": 159856,
     "RepVotes": 192126,
@@ -1463,7 +1463,7 @@
   },
   {
     "State": "DELAWARE",
-    "District": 0,
+    "District": 1,
     "Winner": "DEMOCRAT",
     "DemVotes": 281382,
     "RepVotes": 196392,
@@ -3945,7 +3945,7 @@
   },
   {
     "State": "MONTANA",
-    "District": 0,
+    "District": 1,
     "Winner": "REPUBLICAN",
     "DemVotes": 262340,
     "RepVotes": 339169,
@@ -5050,7 +5050,7 @@
   },
   {
     "State": "NORTH DAKOTA",
-    "District": 0,
+    "District": 1,
     "Winner": "REPUBLICAN",
     "DemVotes": 0,
     "RepVotes": 245229,
@@ -5968,7 +5968,7 @@
   },
   {
     "State": "SOUTH DAKOTA",
-    "District": 0,
+    "District": 1,
     "Winner": "REPUBLICAN",
     "DemVotes": 0,
     "RepVotes": 321984,
@@ -6818,7 +6818,7 @@
   },
   {
     "State": "VERMONT",
-    "District": 0,
+    "District": 1,
     "Winner": "DEMOCRAT",
     "DemVotes": 238827,
     "RepVotes": 95830,
@@ -7379,7 +7379,7 @@
   },
   {
     "State": "WYOMING",
-    "District": 0,
+    "District": 1,
     "Winner": "REPUBLICAN",
     "DemVotes": 66576,
     "RepVotes": 185732,
