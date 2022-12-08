@@ -11,10 +11,10 @@
     "RepWasted": 47437,
     "EffGap": 21.1428,
     "Percentile": 39.5402,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 58474,
+    "AdvRepWasted": 8506,
+    "AdvEffGap": 15.1983,
+    "AdvPercentile": 57.931
   },
   {
     "State": "ALABAMA",
@@ -28,10 +28,10 @@
     "RepWasted": 46354,
     "EffGap": 19.4314,
     "Percentile": 36.092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 89493,
+    "AdvRepWasted": 7965,
+    "AdvEffGap": 26.8819,
+    "AdvPercentile": 92.4138
   },
   {
     "State": "ALABAMA",
@@ -45,10 +45,10 @@
     "RepWasted": 56394,
     "EffGap": 14.9702,
     "Percentile": 28.9655,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 88905,
+    "AdvRepWasted": 11647,
+    "AdvEffGap": 23.9947,
+    "AdvPercentile": 86.6667
   },
   {
     "State": "ALABAMA",
@@ -62,10 +62,10 @@
     "RepWasted": 102657,
     "EffGap": 14.6071,
     "Percentile": 28.5057,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 22494,
+    "AdvRepWasted": 37472,
+    "AdvEffGap": 4.7132,
+    "AdvPercentile": 23.4483
   },
   {
     "State": "ALABAMA",
@@ -79,10 +79,10 @@
     "RepWasted": 126546,
     "EffGap": 49.9996,
     "Percentile": 94.9425,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 71005,
+    "AdvEffGap": 28.0548,
+    "AdvPercentile": 96.092
   },
   {
     "State": "ALABAMA",
@@ -96,10 +96,10 @@
     "RepWasted": 137079,
     "EffGap": 49.9996,
     "Percentile": 95.1724,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 76916,
+    "AdvEffGap": 28.0552,
+    "AdvPercentile": 99.7701
   },
   {
     "State": "ALABAMA",
@@ -113,14 +113,14 @@
     "RepWasted": 0,
     "EffGap": 49.9996,
     "Percentile": 95.4023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 63332,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.055,
+    "AdvPercentile": 97.4713
   },
   {
     "State": "ALASKA",
-    "District": 1,
+    "District": 0,
     "Winner": "REPUBLICAN",
     "DemVotes": 159856,
     "RepVotes": 192126,
@@ -130,10 +130,10 @@
     "RepWasted": 16134,
     "EffGap": 40.8322,
     "Percentile": 76.092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7992,
+    "AdvRepWasted": 1792,
+    "AdvEffGap": 1.7615,
+    "AdvPercentile": 1.6092
   },
   {
     "State": "ARIZONA",
@@ -147,10 +147,10 @@
     "RepWasted": 176709,
     "EffGap": 46.7799,
     "Percentile": 87.1264,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 653,
+    "AdvRepWasted": 8835,
+    "AdvEffGap": 2.2406,
+    "AdvPercentile": 13.5632
   },
   {
     "State": "ARIZONA",
@@ -164,10 +164,10 @@
     "RepWasted": 170975,
     "EffGap": 39.7698,
     "Percentile": 74.9425,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1155,
+    "AdvRepWasted": 34195,
+    "AdvEffGap": 8.6737,
+    "AdvPercentile": 44.3678
   },
   {
     "State": "ARIZONA",
@@ -181,10 +181,10 @@
     "RepWasted": 95594,
     "EffGap": 20.8533,
     "Percentile": 38.8506,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7111,
+    "AdvRepWasted": 47797,
+    "AdvEffGap": 15.078,
+    "AdvPercentile": 57.0115
   },
   {
     "State": "ARIZONA",
@@ -198,10 +198,10 @@
     "RepWasted": 78758,
     "EffGap": 10.4711,
     "Percentile": 19.5402,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 102411,
+    "AdvRepWasted": 18399,
+    "AdvEffGap": 21.0828,
+    "AdvPercentile": 79.0805
   },
   {
     "State": "ARIZONA",
@@ -215,10 +215,10 @@
     "RepWasted": 39621,
     "EffGap": 32.2161,
     "Percentile": 61.3793,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 36634,
+    "AdvRepWasted": 5091,
+    "AdvEffGap": 7.079,
+    "AdvPercentile": 30.5747
   },
   {
     "State": "ARIZONA",
@@ -232,10 +232,10 @@
     "RepWasted": 9069,
     "EffGap": 45.6547,
     "Percentile": 84.5977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9982,
+    "AdvRepWasted": 1007,
+    "AdvEffGap": 2.1501,
+    "AdvPercentile": 10.8046
   },
   {
     "State": "ARIZONA",
@@ -249,10 +249,10 @@
     "RepWasted": 50226,
     "EffGap": 3.4245,
     "Percentile": 6.4368,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 17439,
+    "AdvRepWasted": 27624,
+    "AdvEffGap": 4.7223,
+    "AdvPercentile": 23.6782
   },
   {
     "State": "ARIZONA",
@@ -266,10 +266,10 @@
     "RepWasted": 40408,
     "EffGap": 30.8695,
     "Percentile": 58.8506,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 34163,
+    "AdvRepWasted": 5459,
+    "AdvEffGap": 6.7947,
+    "AdvPercentile": 27.8161
   },
   {
     "State": "ARIZONA",
@@ -283,10 +283,10 @@
     "RepWasted": 135180,
     "EffGap": 26.7474,
     "Percentile": 50.1149,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5823,
+    "AdvRepWasted": 67590,
+    "AdvEffGap": 17.5338,
+    "AdvPercentile": 70.3448
   },
   {
     "State": "ARKANSAS",
@@ -300,10 +300,10 @@
     "RepWasted": 118797,
     "EffGap": 49.9996,
     "Percentile": 95.6322,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 66657,
+    "AdvEffGap": 28.0548,
+    "AdvPercentile": 96.3218
   },
   {
     "State": "ARKANSAS",
@@ -317,10 +317,10 @@
     "RepWasted": 17841,
     "EffGap": 39.2685,
     "Percentile": 74.023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 29682,
+    "AdvRepWasted": 1193,
+    "AdvEffGap": 8.568,
+    "AdvPercentile": 43.4483
   },
   {
     "State": "ARKANSAS",
@@ -334,10 +334,10 @@
     "RepWasted": 54317,
     "EffGap": 16.1875,
     "Percentile": 30.3448,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 90376,
+    "AdvRepWasted": 10753,
+    "AdvEffGap": 24.7827,
+    "AdvPercentile": 87.8161
   },
   {
     "State": "ARKANSAS",
@@ -351,10 +351,10 @@
     "RepWasted": 57933,
     "EffGap": 6.6639,
     "Percentile": 11.954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 53024,
+    "AdvRepWasted": 14360,
+    "AdvEffGap": 14.461,
+    "AdvPercentile": 53.3333
   },
   {
     "State": "CALIFORNIA",
@@ -368,10 +368,10 @@
     "RepWasted": 25058,
     "EffGap": 36.0113,
     "Percentile": 68.7356,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30814,
+    "AdvRepWasted": 2582,
+    "AdvEffGap": 7.8802,
+    "AdvPercentile": 38.1609
   },
   {
     "State": "CALIFORNIA",
@@ -385,10 +385,10 @@
     "RepWasted": 94320,
     "EffGap": 1.4757,
     "Percentile": 2.7586,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 28908,
+    "AdvRepWasted": 51876,
+    "AdvEffGap": 5.9081,
+    "AdvPercentile": 25.5172
   },
   {
     "State": "CALIFORNIA",
@@ -402,10 +402,10 @@
     "RepWasted": 145945,
     "EffGap": 40.6528,
     "Percentile": 75.6322,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1672,
+    "AdvRepWasted": 7297,
+    "AdvEffGap": 1.747,
+    "AdvPercentile": 1.1494
   },
   {
     "State": "CALIFORNIA",
@@ -419,10 +419,10 @@
     "RepWasted": 26279,
     "EffGap": 38.1094,
     "Percentile": 72.8736,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 38946,
+    "AdvRepWasted": 2156,
+    "AdvEffGap": 8.3231,
+    "AdvPercentile": 42.2989
   },
   {
     "State": "CALIFORNIA",
@@ -436,10 +436,10 @@
     "RepWasted": 85227,
     "EffGap": 2.1812,
     "Percentile": 4.1379,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 27345,
+    "AdvRepWasted": 46874,
+    "AdvEffGap": 5.4786,
+    "AdvPercentile": 24.3678
   },
   {
     "State": "CALIFORNIA",
@@ -453,10 +453,10 @@
     "RepWasted": 83466,
     "EffGap": 3.3138,
     "Percentile": 5.977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 19731,
+    "AdvRepWasted": 58426,
+    "AdvEffGap": 12.3581,
+    "AdvPercentile": 49.1954
   },
   {
     "State": "CALIFORNIA",
@@ -470,10 +470,10 @@
     "RepWasted": 166549,
     "EffGap": 36.7523,
     "Percentile": 69.6552,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2451,
+    "AdvRepWasted": 33309,
+    "AdvEffGap": 8.0367,
+    "AdvPercentile": 39.0805
   },
   {
     "State": "CALIFORNIA",
@@ -487,10 +487,10 @@
     "RepWasted": 17155,
     "EffGap": 37.8809,
     "Percentile": 72.1839,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 24880,
+    "AdvRepWasted": 1452,
+    "AdvEffGap": 8.2752,
+    "AdvPercentile": 41.6092
   },
   {
     "State": "CALIFORNIA",
@@ -504,10 +504,10 @@
     "RepWasted": 128358,
     "EffGap": 34.8343,
     "Percentile": 66.6667,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2577,
+    "AdvRepWasted": 25671,
+    "AdvEffGap": 7.6316,
+    "AdvPercentile": 36.092
   },
   {
     "State": "CALIFORNIA",
@@ -521,10 +521,10 @@
     "RepWasted": 135629,
     "EffGap": 39.6742,
     "Percentile": 74.7126,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 949,
+    "AdvRepWasted": 27125,
+    "AdvEffGap": 8.6534,
+    "AdvPercentile": 44.1379
   },
   {
     "State": "CALIFORNIA",
@@ -538,10 +538,10 @@
     "RepWasted": 100293,
     "EffGap": 4.0147,
     "Percentile": 7.3563,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 22678,
+    "AdvRepWasted": 70205,
+    "AdvEffGap": 12.7982,
+    "AdvPercentile": 49.4253
   },
   {
     "State": "CALIFORNIA",
@@ -555,10 +555,10 @@
     "RepWasted": 0,
     "EffGap": 49.9988,
     "Percentile": 93.1034,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 22772,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0533,
+    "AdvPercentile": 93.1034
   },
   {
     "State": "CALIFORNIA",
@@ -572,10 +572,10 @@
     "RepWasted": 34955,
     "EffGap": 30.7311,
     "Percentile": 58.1609,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 65826,
+    "AdvRepWasted": 5243,
+    "AdvEffGap": 16.6979,
+    "AdvPercentile": 65.7471
   },
   {
     "State": "CALIFORNIA",
@@ -589,10 +589,10 @@
     "RepWasted": 72705,
     "EffGap": 8.5731,
     "Percentile": 16.5517,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 34405,
+    "AdvRepWasted": 39987,
+    "AdvEffGap": 1.5903,
+    "AdvPercentile": 0.4598
   },
   {
     "State": "CALIFORNIA",
@@ -606,10 +606,10 @@
     "RepWasted": 99710,
     "EffGap": 8.1908,
     "Percentile": 15.4023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 16952,
+    "AdvRepWasted": 69797,
+    "AdvEffGap": 15.4201,
+    "AdvPercentile": 59.0805
   },
   {
     "State": "CALIFORNIA",
@@ -623,10 +623,10 @@
     "RepWasted": 88039,
     "EffGap": 31.2436,
     "Percentile": 59.5402,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2710,
+    "AdvRepWasted": 17607,
+    "AdvEffGap": 6.8736,
+    "AdvPercentile": 28.7356
   },
   {
     "State": "CALIFORNIA",
@@ -640,10 +640,10 @@
     "RepWasted": 85199,
     "EffGap": 7.3086,
     "Percentile": 13.1034,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 15437,
+    "AdvRepWasted": 59639,
+    "AdvEffGap": 14.866,
+    "AdvPercentile": 54.2529
   },
   {
     "State": "CALIFORNIA",
@@ -657,10 +657,10 @@
     "RepWasted": 0,
     "EffGap": 49.9996,
     "Percentile": 95.8621,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 35559,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0542,
+    "AdvPercentile": 93.7931
   },
   {
     "State": "CALIFORNIA",
@@ -674,10 +674,10 @@
     "RepWasted": 88642,
     "EffGap": 6.6355,
     "Percentile": 11.7241,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 16837,
+    "AdvRepWasted": 62049,
+    "AdvEffGap": 14.4435,
+    "AdvPercentile": 53.1034
   },
   {
     "State": "CALIFORNIA",
@@ -691,10 +691,10 @@
     "RepWasted": 71658,
     "EffGap": 3.5521,
     "Percentile": 6.6667,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 25080,
+    "AdvRepWasted": 39411,
+    "AdvEffGap": 4.6446,
+    "AdvPercentile": 23.2184
   },
   {
     "State": "CALIFORNIA",
@@ -708,10 +708,10 @@
     "RepWasted": 760,
     "EffGap": 49.107,
     "Percentile": 92.4138,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4220,
+    "AdvRepWasted": 84,
+    "AdvEffGap": 2.4282,
+    "AdvPercentile": 19.0805
   },
   {
     "State": "CALIFORNIA",
@@ -725,10 +725,10 @@
     "RepWasted": 13318,
     "EffGap": 41.5477,
     "Percentile": 76.7816,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7212,
+    "AdvRepWasted": 1479,
+    "AdvEffGap": 1.8192,
+    "AdvPercentile": 2.5287
   },
   {
     "State": "CALIFORNIA",
@@ -742,10 +742,10 @@
     "RepWasted": 37162,
     "EffGap": 25.7201,
     "Percentile": 47.8161,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 57948,
+    "AdvRepWasted": 5584,
+    "AdvEffGap": 17.1058,
+    "AdvPercentile": 67.8161
   },
   {
     "State": "CALIFORNIA",
@@ -759,10 +759,10 @@
     "RepWasted": 149781,
     "EffGap": 32.6733,
     "Percentile": 62.5287,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3956,
+    "AdvRepWasted": 29956,
+    "AdvEffGap": 7.1755,
+    "AdvPercentile": 31.954
   },
   {
     "State": "CALIFORNIA",
@@ -776,10 +776,10 @@
     "RepWasted": 166,
     "EffGap": 49.9019,
     "Percentile": 92.6437,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8465,
+    "AdvRepWasted": 18,
+    "AdvEffGap": 2.4922,
+    "AdvPercentile": 19.5402
   },
   {
     "State": "CALIFORNIA",
@@ -793,10 +793,10 @@
     "RepWasted": 135877,
     "EffGap": 28.8304,
     "Percentile": 54.7126,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4502,
+    "AdvRepWasted": 67938,
+    "AdvEffGap": 18.4015,
+    "AdvPercentile": 74.9425
   },
   {
     "State": "CALIFORNIA",
@@ -810,10 +810,10 @@
     "RepWasted": 95907,
     "EffGap": 10.4488,
     "Percentile": 19.3103,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 14667,
+    "AdvRepWasted": 81520,
+    "AdvEffGap": 21.0681,
+    "AdvPercentile": 78.8506
   },
   {
     "State": "CALIFORNIA",
@@ -827,10 +827,10 @@
     "RepWasted": 91928,
     "EffGap": 4.6868,
     "Percentile": 8.5057,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 19903,
+    "AdvRepWasted": 64349,
+    "AdvEffGap": 13.2201,
+    "AdvPercentile": 50.3448
   },
   {
     "State": "CALIFORNIA",
@@ -844,10 +844,10 @@
     "RepWasted": 0,
     "EffGap": 49.9992,
     "Percentile": 93.5632,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 33502,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0539,
+    "AdvPercentile": 93.5632
   },
   {
     "State": "CALIFORNIA",
@@ -861,10 +861,10 @@
     "RepWasted": 105426,
     "EffGap": 11.0347,
     "Percentile": 20.4598,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 15519,
+    "AdvRepWasted": 89612,
+    "AdvEffGap": 21.4474,
+    "AdvPercentile": 80
   },
   {
     "State": "CALIFORNIA",
@@ -878,10 +878,10 @@
     "RepWasted": 110735,
     "EffGap": 27.4239,
     "Percentile": 51.4943,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4406,
+    "AdvRepWasted": 55367,
+    "AdvEffGap": 17.8154,
+    "AdvPercentile": 71.7241
   },
   {
     "State": "CALIFORNIA",
@@ -895,10 +895,10 @@
     "RepWasted": 86818,
     "EffGap": 16.8452,
     "Percentile": 32.1839,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8314,
+    "AdvRepWasted": 73795,
+    "AdvEffGap": 25.2083,
+    "AdvPercentile": 89.4253
   },
   {
     "State": "CALIFORNIA",
@@ -912,10 +912,10 @@
     "RepWasted": 123334,
     "EffGap": 14.8399,
     "Percentile": 28.7356,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 13872,
+    "AdvRepWasted": 104833,
+    "AdvEffGap": 23.9102,
+    "AdvPercentile": 86.4368
   },
   {
     "State": "CALIFORNIA",
@@ -929,10 +929,10 @@
     "RepWasted": 0,
     "EffGap": 49.9991,
     "Percentile": 93.3333,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30521,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0545,
+    "AdvPercentile": 94.7126
   },
   {
     "State": "CALIFORNIA",
@@ -946,10 +946,10 @@
     "RepWasted": 74941,
     "EffGap": 11.3405,
     "Percentile": 20.9195,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10810,
+    "AdvRepWasted": 63699,
+    "AdvEffGap": 21.6451,
+    "AdvPercentile": 80.2299
   },
   {
     "State": "CALIFORNIA",
@@ -963,10 +963,10 @@
     "RepWasted": 121698,
     "EffGap": 29.3213,
     "Percentile": 55.8621,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3756,
+    "AdvRepWasted": 60849,
+    "AdvEffGap": 18.6062,
+    "AdvPercentile": 76.092
   },
   {
     "State": "CALIFORNIA",
@@ -980,10 +980,10 @@
     "RepWasted": 41705,
     "EffGap": 21.8798,
     "Percentile": 40.9195,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 42850,
+    "AdvRepWasted": 10426,
+    "AdvEffGap": 10.9311,
+    "AdvPercentile": 46.2069
   },
   {
     "State": "CALIFORNIA",
@@ -997,10 +997,10 @@
     "RepWasted": 0,
     "EffGap": 49.9992,
     "Percentile": 93.7931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 18442,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0534,
+    "AdvPercentile": 93.3333
   },
   {
     "State": "CALIFORNIA",
@@ -1014,10 +1014,10 @@
     "RepWasted": 2054,
     "EffGap": 48.8049,
     "Percentile": 91.7241,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8491,
+    "AdvRepWasted": 228,
+    "AdvEffGap": 2.4036,
+    "AdvPercentile": 18.6207
   },
   {
     "State": "CALIFORNIA",
@@ -1031,10 +1031,10 @@
     "RepWasted": 50809,
     "EffGap": 4.5219,
     "Percentile": 7.8161,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 11119,
+    "AdvRepWasted": 35566,
+    "AdvEffGap": 13.1167,
+    "AdvPercentile": 49.8851
   },
   {
     "State": "CALIFORNIA",
@@ -1048,10 +1048,10 @@
     "RepWasted": 94447,
     "EffGap": 21.9398,
     "Percentile": 41.1494,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6444,
+    "AdvRepWasted": 47223,
+    "AdvEffGap": 15.5305,
+    "AdvPercentile": 60.2299
   },
   {
     "State": "CALIFORNIA",
@@ -1065,10 +1065,10 @@
     "RepWasted": 26250,
     "EffGap": 35.7354,
     "Percentile": 67.8161,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 31554,
+    "AdvRepWasted": 2766,
+    "AdvEffGap": 7.8218,
+    "AdvPercentile": 37.2414
   },
   {
     "State": "CALIFORNIA",
@@ -1082,10 +1082,10 @@
     "RepWasted": 78688,
     "EffGap": 6.6312,
     "Percentile": 11.4943,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 14951,
+    "AdvRepWasted": 55081,
+    "AdvEffGap": 14.4406,
+    "AdvPercentile": 52.8736
   },
   {
     "State": "CALIFORNIA",
@@ -1099,10 +1099,10 @@
     "RepWasted": 0,
     "EffGap": 49.9996,
     "Percentile": 96.092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 39181,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0544,
+    "AdvPercentile": 94.2529
   },
   {
     "State": "CALIFORNIA",
@@ -1116,10 +1116,10 @@
     "RepWasted": 193096,
     "EffGap": 43.0721,
     "Percentile": 79.5402,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1596,
+    "AdvRepWasted": 9654,
+    "AdvEffGap": 1.942,
+    "AdvPercentile": 5.2874
   },
   {
     "State": "CALIFORNIA",
@@ -1133,10 +1133,10 @@
     "RepWasted": 71716,
     "EffGap": 12.4926,
     "Percentile": 24.1379,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9566,
+    "AdvRepWasted": 60958,
+    "AdvEffGap": 22.3912,
+    "AdvPercentile": 82.5287
   },
   {
     "State": "CALIFORNIA",
@@ -1150,10 +1150,10 @@
     "RepWasted": 114371,
     "EffGap": 23.4564,
     "Percentile": 43.6782,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6855,
+    "AdvRepWasted": 57185,
+    "AdvEffGap": 16.1625,
+    "AdvPercentile": 62.9885
   },
   {
     "State": "CALIFORNIA",
@@ -1167,10 +1167,10 @@
     "RepWasted": 4187,
     "EffGap": 47.8803,
     "Percentile": 89.8851,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9668,
+    "AdvRepWasted": 465,
+    "AdvEffGap": 2.3293,
+    "AdvPercentile": 16.5517
   },
   {
     "State": "CALIFORNIA",
@@ -1184,10 +1184,10 @@
     "RepWasted": 181157,
     "EffGap": 43.7411,
     "Percentile": 81.1494,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1343,
+    "AdvRepWasted": 9057,
+    "AdvEffGap": 1.9958,
+    "AdvPercentile": 6.8966
   },
   {
     "State": "CALIFORNIA",
@@ -1201,10 +1201,10 @@
     "RepWasted": 14325,
     "EffGap": 42.0939,
     "Percentile": 77.2414,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8343,
+    "AdvRepWasted": 1591,
+    "AdvEffGap": 1.8632,
+    "AdvPercentile": 2.9885
   },
   {
     "State": "CALIFORNIA",
@@ -1218,10 +1218,10 @@
     "RepWasted": 76841,
     "EffGap": 13.3907,
     "Percentile": 26.8966,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9621,
+    "AdvRepWasted": 65314,
+    "AdvEffGap": 22.9722,
+    "AdvPercentile": 84.8276
   },
   {
     "State": "CALIFORNIA",
@@ -1235,10 +1235,10 @@
     "RepWasted": 152350,
     "EffGap": 26.8485,
     "Percentile": 50.3448,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6487,
+    "AdvRepWasted": 76175,
+    "AdvEffGap": 17.576,
+    "AdvPercentile": 70.8046
   },
   {
     "State": "CALIFORNIA",
@@ -1252,10 +1252,10 @@
     "RepWasted": 0,
     "EffGap": 49.9995,
     "Percentile": 94.4828,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 55897,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0545,
+    "AdvPercentile": 94.9425
   },
   {
     "State": "COLORADO",
@@ -1269,10 +1269,10 @@
     "RepWasted": 105955,
     "EffGap": 1.5716,
     "Percentile": 3.2184,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 32679,
+    "AdvRepWasted": 58275,
+    "AdvEffGap": 5.8495,
+    "AdvPercentile": 25.2874
   },
   {
     "State": "COLORADO",
@@ -1286,10 +1286,10 @@
     "RepWasted": 182547,
     "EffGap": 23.0962,
     "Percentile": 42.5287,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 11296,
+    "AdvRepWasted": 91273,
+    "AdvEffGap": 16.0123,
+    "AdvPercentile": 61.6092
   },
   {
     "State": "COLORADO",
@@ -1303,10 +1303,10 @@
     "RepWasted": 13255,
     "EffGap": 43.608,
     "Percentile": 80.9195,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9706,
+    "AdvRepWasted": 1472,
+    "AdvEffGap": 1.9853,
+    "AdvPercentile": 6.6667
   },
   {
     "State": "COLORADO",
@@ -1320,10 +1320,10 @@
     "RepWasted": 55830,
     "EffGap": 25.7023,
     "Percentile": 47.5862,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 86972,
+    "AdvRepWasted": 8397,
+    "AdvEffGap": 17.0982,
+    "AdvPercentile": 67.5862
   },
   {
     "State": "COLORADO",
@@ -1337,10 +1337,10 @@
     "RepWasted": 43706,
     "EffGap": 28.7117,
     "Percentile": 54.2529,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 80800,
+    "AdvRepWasted": 5443,
+    "AdvEffGap": 18.3523,
+    "AdvPercentile": 74.4828
   },
   {
     "State": "COLORADO",
@@ -1354,10 +1354,10 @@
     "RepWasted": 175192,
     "EffGap": 32.3455,
     "Percentile": 61.8391,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4800,
+    "AdvRepWasted": 35038,
+    "AdvEffGap": 7.1064,
+    "AdvPercentile": 31.0345
   },
   {
     "State": "COLORADO",
@@ -1371,10 +1371,10 @@
     "RepWasted": 159301,
     "EffGap": 27.741,
     "Percentile": 52.4138,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6096,
+    "AdvRepWasted": 79650,
+    "AdvEffGap": 17.9476,
+    "AdvPercentile": 72.6437
   },
   {
     "State": "CONNECTICUT",
@@ -1388,10 +1388,10 @@
     "RepWasted": 122111,
     "EffGap": 22.878,
     "Percentile": 42.069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7701,
+    "AdvRepWasted": 61055,
+    "AdvEffGap": 15.9212,
+    "AdvPercentile": 61.1494
   },
   {
     "State": "CONNECTICUT",
@@ -1405,10 +1405,10 @@
     "RepWasted": 140356,
     "EffGap": 30.7436,
     "Percentile": 58.3908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4541,
+    "AdvRepWasted": 28071,
+    "AdvEffGap": 6.7681,
+    "AdvPercentile": 27.1264
   },
   {
     "State": "CONNECTICUT",
@@ -1422,10 +1422,10 @@
     "RepWasted": 131568,
     "EffGap": 30.7596,
     "Percentile": 58.6207,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4250,
+    "AdvRepWasted": 26313,
+    "AdvEffGap": 6.7714,
+    "AdvPercentile": 27.3563
   },
   {
     "State": "CONNECTICUT",
@@ -1439,10 +1439,10 @@
     "RepWasted": 130627,
     "EffGap": 23.5806,
     "Percentile": 44.1379,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7743,
+    "AdvRepWasted": 65313,
+    "AdvEffGap": 16.2142,
+    "AdvPercentile": 63.6782
   },
   {
     "State": "CONNECTICUT",
@@ -1456,14 +1456,14 @@
     "RepWasted": 151988,
     "EffGap": 40.5271,
     "Percentile": 75.1724,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1767,
+    "AdvRepWasted": 7599,
+    "AdvEffGap": 1.7368,
+    "AdvPercentile": 0.6897
   },
   {
     "State": "DELAWARE",
-    "District": 1,
+    "District": 0,
     "Winner": "DEMOCRAT",
     "DemVotes": 281382,
     "RepVotes": 196392,
@@ -1473,10 +1473,10 @@
     "RepWasted": 196392,
     "EffGap": 32.2115,
     "Percentile": 61.1494,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5461,
+    "AdvRepWasted": 39278,
+    "AdvEffGap": 7.078,
+    "AdvPercentile": 30.3448
   },
   {
     "State": "FLORIDA",
@@ -1490,10 +1490,10 @@
     "RepWasted": 67089,
     "EffGap": 18.9777,
     "Percentile": 35.4023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 126796,
+    "AdvRepWasted": 11795,
+    "AdvEffGap": 26.5884,
+    "AdvPercentile": 91.7241
   },
   {
     "State": "FLORIDA",
@@ -1507,10 +1507,10 @@
     "RepWasted": 152668,
     "EffGap": 49.9998,
     "Percentile": 98.1609,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 85662,
+    "AdvEffGap": 28.0549,
+    "AdvPercentile": 96.7816
   },
   {
     "State": "FLORIDA",
@@ -1524,10 +1524,10 @@
     "RepWasted": 27874,
     "EffGap": 35.7202,
     "Percentile": 67.5862,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 33465,
+    "AdvRepWasted": 2940,
+    "AdvEffGap": 7.8189,
+    "AdvPercentile": 37.0115
   },
   {
     "State": "FLORIDA",
@@ -1541,10 +1541,10 @@
     "RepWasted": 56036,
     "EffGap": 27.8038,
     "Percentile": 52.6437,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 98211,
+    "AdvRepWasted": 7458,
+    "AdvEffGap": 17.9737,
+    "AdvPercentile": 72.8736
   },
   {
     "State": "FLORIDA",
@@ -1558,10 +1558,10 @@
     "RepWasted": 117510,
     "EffGap": 19.7446,
     "Percentile": 36.3218,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8615,
+    "AdvRepWasted": 99883,
+    "AdvEffGap": 27.0847,
+    "AdvPercentile": 92.6437
   },
   {
     "State": "FLORIDA",
@@ -1575,10 +1575,10 @@
     "RepWasted": 46543,
     "EffGap": 28.7326,
     "Percentile": 54.4828,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 86152,
+    "AdvRepWasted": 5787,
+    "AdvEffGap": 18.3608,
+    "AdvPercentile": 74.7126
   },
   {
     "State": "FLORIDA",
@@ -1592,10 +1592,10 @@
     "RepWasted": 175750,
     "EffGap": 37.7226,
     "Percentile": 71.954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2126,
+    "AdvRepWasted": 35150,
+    "AdvEffGap": 8.2417,
+    "AdvPercentile": 41.3793
   },
   {
     "State": "FLORIDA",
@@ -1609,10 +1609,10 @@
     "RepWasted": 52198,
     "EffGap": 27.2945,
     "Percentile": 51.2644,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 88847,
+    "AdvRepWasted": 7181,
+    "AdvEffGap": 17.7617,
+    "AdvPercentile": 71.4943
   },
   {
     "State": "FLORIDA",
@@ -1626,10 +1626,10 @@
     "RepWasted": 188889,
     "EffGap": 37.9346,
     "Percentile": 72.6437,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2179,
+    "AdvRepWasted": 37777,
+    "AdvEffGap": 8.2861,
+    "AdvPercentile": 42.069
   },
   {
     "State": "FLORIDA",
@@ -1643,10 +1643,10 @@
     "RepWasted": 136889,
     "EffGap": 22.7509,
     "Percentile": 41.8391,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8727,
+    "AdvRepWasted": 68444,
+    "AdvEffGap": 15.8685,
+    "AdvPercentile": 60.9195
   },
   {
     "State": "FLORIDA",
@@ -1660,10 +1660,10 @@
     "RepWasted": 79442,
     "EffGap": 16.5558,
     "Percentile": 31.4943,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 134379,
+    "AdvRepWasted": 15512,
+    "AdvEffGap": 25.0208,
+    "AdvPercentile": 88.7356
   },
   {
     "State": "FLORIDA",
@@ -1677,10 +1677,10 @@
     "RepWasted": 58373,
     "EffGap": 24.2358,
     "Percentile": 45.2874,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 84097,
+    "AdvRepWasted": 9387,
+    "AdvEffGap": 16.4874,
+    "AdvPercentile": 65.0575
   },
   {
     "State": "FLORIDA",
@@ -1694,10 +1694,10 @@
     "RepWasted": 190713,
     "EffGap": 43.9202,
     "Percentile": 81.8391,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1371,
+    "AdvRepWasted": 9535,
+    "AdvEffGap": 2.0103,
+    "AdvPercentile": 7.5862
   },
   {
     "State": "FLORIDA",
@@ -1711,10 +1711,10 @@
     "RepWasted": 147896,
     "EffGap": 29.4852,
     "Percentile": 56.092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4453,
+    "AdvRepWasted": 73948,
+    "AdvEffGap": 18.6746,
+    "AdvPercentile": 76.3218
   },
   {
     "State": "FLORIDA",
@@ -1728,10 +1728,10 @@
     "RepWasted": 21038,
     "EffGap": 39.2297,
     "Percentile": 73.7931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 34859,
+    "AdvRepWasted": 1419,
+    "AdvEffGap": 8.5596,
+    "AdvPercentile": 43.2184
   },
   {
     "State": "FLORIDA",
@@ -1745,10 +1745,10 @@
     "RepWasted": 26658,
     "EffGap": 38.9996,
     "Percentile": 73.5632,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 43136,
+    "AdvRepWasted": 1884,
+    "AdvEffGap": 8.5111,
+    "AdvPercentile": 42.9885
   },
   {
     "State": "FLORIDA",
@@ -1762,10 +1762,10 @@
     "RepWasted": 63013,
     "EffGap": 19.0353,
     "Percentile": 35.6322,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 119413,
+    "AdvRepWasted": 11047,
+    "AdvEffGap": 26.6255,
+    "AdvPercentile": 91.954
   },
   {
     "State": "FLORIDA",
@@ -1779,10 +1779,10 @@
     "RepWasted": 33305,
     "EffGap": 34.8598,
     "Percentile": 67.1264,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 37334,
+    "AdvRepWasted": 3734,
+    "AdvEffGap": 7.6371,
+    "AdvPercentile": 36.5517
   },
   {
     "State": "FLORIDA",
@@ -1796,10 +1796,10 @@
     "RepWasted": 50146,
     "EffGap": 27.4413,
     "Percentile": 51.7241,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 86073,
+    "AdvRepWasted": 6835,
+    "AdvEffGap": 17.8229,
+    "AdvPercentile": 71.954
   },
   {
     "State": "FLORIDA",
@@ -1813,10 +1813,10 @@
     "RepWasted": 68748,
     "EffGap": 7.3534,
     "Percentile": 13.7931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30291,
+    "AdvRepWasted": 37811,
+    "AdvEffGap": 2.3324,
+    "AdvPercentile": 16.7816
   },
   {
     "State": "FLORIDA",
@@ -1830,10 +1830,10 @@
     "RepWasted": 157612,
     "EffGap": 29.6953,
     "Percentile": 56.3218,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4595,
+    "AdvRepWasted": 78806,
+    "AdvEffGap": 18.7621,
+    "AdvPercentile": 76.5517
   },
   {
     "State": "FLORIDA",
@@ -1847,10 +1847,10 @@
     "RepWasted": 166553,
     "EffGap": 32.797,
     "Percentile": 62.9885,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4337,
+    "AdvRepWasted": 33310,
+    "AdvEffGap": 7.2015,
+    "AdvPercentile": 32.4138
   },
   {
     "State": "FLORIDA",
@@ -1864,10 +1864,10 @@
     "RepWasted": 158874,
     "EffGap": 33.5932,
     "Percentile": 65.2874,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3761,
+    "AdvRepWasted": 31774,
+    "AdvEffGap": 7.3697,
+    "AdvPercentile": 34.7126
   },
   {
     "State": "FLORIDA",
@@ -1881,10 +1881,10 @@
     "RepWasted": 59084,
     "EffGap": 7.4794,
     "Percentile": 14.2529,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 26227,
+    "AdvRepWasted": 32496,
+    "AdvEffGap": 2.2558,
+    "AdvPercentile": 14.2529
   },
   {
     "State": "FLORIDA",
@@ -1898,10 +1898,10 @@
     "RepWasted": 49,
     "EffGap": 49,
     "Percentile": 92.1839,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 26,
+    "AdvEffGap": 26,
+    "AdvPercentile": 91.0345
   },
   {
     "State": "FLORIDA",
@@ -1915,10 +1915,10 @@
     "RepWasted": 5907,
     "EffGap": 46.5517,
     "Percentile": 86.6667,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8270,
+    "AdvRepWasted": 656,
+    "AdvEffGap": 2.2222,
+    "AdvPercentile": 13.1034
   },
   {
     "State": "FLORIDA",
@@ -1932,10 +1932,10 @@
     "RepWasted": 4691,
     "EffGap": 47.2638,
     "Percentile": 88.5057,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8337,
+    "AdvRepWasted": 521,
+    "AdvEffGap": 2.2794,
+    "AdvPercentile": 15.1724
   },
   {
     "State": "GEORGIA",
@@ -1949,10 +1949,10 @@
     "RepWasted": 27109,
     "EffGap": 33.3017,
     "Percentile": 64.1379,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 27047,
+    "AdvRepWasted": 3318,
+    "AdvEffGap": 7.3081,
+    "AdvPercentile": 33.5632
   },
   {
     "State": "GEORGIA",
@@ -1966,10 +1966,10 @@
     "RepWasted": 111620,
     "EffGap": 31.768,
     "Percentile": 60.4598,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3255,
+    "AdvRepWasted": 22324,
+    "AdvEffGap": 6.9845,
+    "AdvPercentile": 30.1149
   },
   {
     "State": "GEORGIA",
@@ -1983,10 +1983,10 @@
     "RepWasted": 55866,
     "EffGap": 19.9091,
     "Percentile": 36.5517,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 110323,
+    "AdvRepWasted": 9357,
+    "AdvEffGap": 27.1912,
+    "AdvPercentile": 92.8736
   },
   {
     "State": "GEORGIA",
@@ -2000,10 +2000,10 @@
     "RepWasted": 69393,
     "EffGap": 10.1531,
     "Percentile": 18.1609,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 35036,
+    "AdvRepWasted": 27757,
+    "AdvEffGap": 2.0899,
+    "AdvPercentile": 9.8851
   },
   {
     "State": "GEORGIA",
@@ -2017,10 +2017,10 @@
     "RepWasted": 52646,
     "EffGap": 20.2986,
     "Percentile": 37.0115,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 48721,
+    "AdvRepWasted": 13161,
+    "AdvEffGap": 10.0309,
+    "AdvPercentile": 44.5977
   },
   {
     "State": "GEORGIA",
@@ -2034,10 +2034,10 @@
     "RepWasted": 180329,
     "EffGap": 40.8223,
     "Percentile": 75.8621,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2024,
+    "AdvRepWasted": 9016,
+    "AdvEffGap": 1.7607,
+    "AdvPercentile": 1.3793
   },
   {
     "State": "GEORGIA",
@@ -2051,10 +2051,10 @@
     "RepWasted": 180564,
     "EffGap": 47.2178,
     "Percentile": 88.046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 574,
+    "AdvRepWasted": 9028,
+    "AdvEffGap": 2.2759,
+    "AdvPercentile": 14.7126
   },
   {
     "State": "GEORGIA",
@@ -2068,10 +2068,10 @@
     "RepWasted": 44718,
     "EffGap": 20.9589,
     "Percentile": 39.0805,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 54632,
+    "AdvRepWasted": 8062,
+    "AdvEffGap": 15.1218,
+    "AdvPercentile": 57.4713
   },
   {
     "State": "GEORGIA",
@@ -2085,10 +2085,10 @@
     "RepWasted": 106476,
     "EffGap": 7.1612,
     "Percentile": 12.6437,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 43888,
+    "AdvRepWasted": 34763,
+    "AdvEffGap": 2.4494,
+    "AdvPercentile": 19.3103
   },
   {
     "State": "GEORGIA",
@@ -2102,10 +2102,10 @@
     "RepWasted": 46586,
     "EffGap": 25.3801,
     "Percentile": 46.8966,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 71318,
+    "AdvRepWasted": 7118,
+    "AdvEffGap": 16.9641,
+    "AdvPercentile": 66.8966
   },
   {
     "State": "GEORGIA",
@@ -2119,10 +2119,10 @@
     "RepWasted": 42317,
     "EffGap": 29.1479,
     "Percentile": 55.1724,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 80311,
+    "AdvRepWasted": 5086,
+    "AdvEffGap": 18.5337,
+    "AdvPercentile": 75.4023
   },
   {
     "State": "GEORGIA",
@@ -2136,10 +2136,10 @@
     "RepWasted": 25988,
     "EffGap": 33.2387,
     "Percentile": 63.4483,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 25812,
+    "AdvRepWasted": 3190,
+    "AdvEffGap": 7.2951,
+    "AdvPercentile": 32.8736
   },
   {
     "State": "GEORGIA",
@@ -2153,10 +2153,10 @@
     "RepWasted": 81476,
     "EffGap": 4.8008,
     "Percentile": 8.9655,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30805,
+    "AdvRepWasted": 44811,
+    "AdvEffGap": 3.8849,
+    "AdvPercentile": 22.069
   },
   {
     "State": "GEORGIA",
@@ -2170,10 +2170,10 @@
     "RepWasted": 76014,
     "EffGap": 0.5799,
     "Percentile": 0.9195,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 54458,
+    "AdvRepWasted": 21721,
+    "AdvEffGap": 10.6419,
+    "AdvPercentile": 45.2874
   },
   {
     "State": "HAWAII",
@@ -2187,10 +2187,10 @@
     "RepWasted": 71188,
     "EffGap": 5.9583,
     "Percentile": 10.3448,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 14164,
+    "AdvRepWasted": 49831,
+    "AdvEffGap": 14.0182,
+    "AdvPercentile": 51.954
   },
   {
     "State": "HAWAII",
@@ -2204,10 +2204,10 @@
     "RepWasted": 84027,
     "EffGap": 15.7636,
     "Percentile": 29.6552,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8794,
+    "AdvRepWasted": 71422,
+    "AdvEffGap": 24.5077,
+    "AdvPercentile": 87.3563
   },
   {
     "State": "IDAHO",
@@ -2221,10 +2221,10 @@
     "RepWasted": 89677,
     "EffGap": 9.4326,
     "Percentile": 17.2414,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 91966,
+    "AdvRepWasted": 20346,
+    "AdvEffGap": 16.1994,
+    "AdvPercentile": 63.4483
   },
   {
     "State": "IDAHO",
@@ -2238,10 +2238,10 @@
     "RepWasted": 63258,
     "EffGap": 16.2459,
     "Percentile": 30.5747,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 105528,
+    "AdvRepWasted": 12497,
+    "AdvEffGap": 24.8202,
+    "AdvPercentile": 88.046
   },
   {
     "State": "ILLINOIS",
@@ -2255,10 +2255,10 @@
     "RepWasted": 85027,
     "EffGap": 2.3294,
     "Percentile": 4.3678,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 21366,
+    "AdvRepWasted": 59518,
+    "AdvEffGap": 11.7402,
+    "AdvPercentile": 47.8161
   },
   {
     "State": "ILLINOIS",
@@ -2272,10 +2272,10 @@
     "RepWasted": 63142,
     "EffGap": 7.6279,
     "Percentile": 14.7126,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 28274,
+    "AdvRepWasted": 34728,
+    "AdvEffGap": 2.1655,
+    "AdvPercentile": 11.2644
   },
   {
     "State": "ILLINOIS",
@@ -2289,10 +2289,10 @@
     "RepWasted": 133851,
     "EffGap": 37.2429,
     "Percentile": 71.2644,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1792,
+    "AdvRepWasted": 26770,
+    "AdvEffGap": 8.1402,
+    "AdvPercentile": 40.6897
   },
   {
     "State": "ILLINOIS",
@@ -2306,10 +2306,10 @@
     "RepWasted": 35518,
     "EffGap": 18.1075,
     "Percentile": 33.7931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 29295,
+    "AdvRepWasted": 14207,
+    "AdvEffGap": 6.7739,
+    "AdvPercentile": 27.5862
   },
   {
     "State": "ILLINOIS",
@@ -2323,10 +2323,10 @@
     "RepWasted": 96200,
     "EffGap": 4.6808,
     "Percentile": 8.2759,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 20836,
+    "AdvRepWasted": 67339,
+    "AdvEffGap": 13.2163,
+    "AdvPercentile": 50.1149
   },
   {
     "State": "ILLINOIS",
@@ -2340,10 +2340,10 @@
     "RepWasted": 183891,
     "EffGap": 42.4849,
     "Percentile": 78.1609,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1660,
+    "AdvRepWasted": 9194,
+    "AdvEffGap": 1.8945,
+    "AdvPercentile": 3.908
   },
   {
     "State": "ILLINOIS",
@@ -2357,10 +2357,10 @@
     "RepWasted": 41390,
     "EffGap": 21.5309,
     "Percentile": 40.4598,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 41555,
+    "AdvRepWasted": 10347,
+    "AdvEffGap": 10.7328,
+    "AdvPercentile": 45.7471
   },
   {
     "State": "ILLINOIS",
@@ -2374,10 +2374,10 @@
     "RepWasted": 0,
     "EffGap": 49.9997,
     "Percentile": 97.0115,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 52252,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0546,
+    "AdvPercentile": 95.1724
   },
   {
     "State": "ILLINOIS",
@@ -2391,10 +2391,10 @@
     "RepWasted": 107125,
     "EffGap": 8.0359,
     "Percentile": 15.1724,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 18421,
+    "AdvRepWasted": 74987,
+    "AdvEffGap": 15.3225,
+    "AdvPercentile": 58.6207
   },
   {
     "State": "ILLINOIS",
@@ -2408,10 +2408,10 @@
     "RepWasted": 114442,
     "EffGap": 22.239,
     "Percentile": 41.3793,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7618,
+    "AdvRepWasted": 57221,
+    "AdvEffGap": 15.6553,
+    "AdvPercentile": 60.4598
   },
   {
     "State": "ILLINOIS",
@@ -2425,10 +2425,10 @@
     "RepWasted": 112807,
     "EffGap": 23.4032,
     "Percentile": 43.4483,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6794,
+    "AdvRepWasted": 56403,
+    "AdvEffGap": 16.1401,
+    "AdvPercentile": 62.7586
   },
   {
     "State": "ILLINOIS",
@@ -2442,10 +2442,10 @@
     "RepWasted": 33630,
     "EffGap": 29.1384,
     "Percentile": 54.9425,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 63788,
+    "AdvRepWasted": 4045,
+    "AdvEffGap": 18.5298,
+    "AdvPercentile": 75.1724
   },
   {
     "State": "ILLINOIS",
@@ -2459,10 +2459,10 @@
     "RepWasted": 14862,
     "EffGap": 41.0743,
     "Percentile": 76.5517,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7582,
+    "AdvRepWasted": 1651,
+    "AdvEffGap": 1.781,
+    "AdvPercentile": 2.069
   },
   {
     "State": "ILLINOIS",
@@ -2476,10 +2476,10 @@
     "RepWasted": 197835,
     "EffGap": 48.6602,
     "Percentile": 91.0345,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 298,
+    "AdvRepWasted": 9891,
+    "AdvEffGap": 2.392,
+    "AdvPercentile": 17.931
   },
   {
     "State": "ILLINOIS",
@@ -2493,10 +2493,10 @@
     "RepWasted": 78193,
     "EffGap": 3.1082,
     "Percentile": 5.5172,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 61991,
+    "AdvRepWasted": 21206,
+    "AdvEffGap": 12.2292,
+    "AdvPercentile": 48.9655
   },
   {
     "State": "ILLINOIS",
@@ -2510,10 +2510,10 @@
     "RepWasted": 49762,
     "EffGap": 20.568,
     "Percentile": 37.7011,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 59656,
+    "AdvRepWasted": 9072,
+    "AdvEffGap": 14.959,
+    "AdvPercentile": 55.6322
   },
   {
     "State": "ILLINOIS",
@@ -2527,10 +2527,10 @@
     "RepWasted": 143863,
     "EffGap": 45.9493,
     "Percentile": 85.5172,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 674,
+    "AdvRepWasted": 7193,
+    "AdvEffGap": 2.1739,
+    "AdvPercentile": 11.954
   },
   {
     "State": "ILLINOIS",
@@ -2544,10 +2544,10 @@
     "RepWasted": 75900,
     "EffGap": 9.1801,
     "Percentile": 17.0115,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 77027,
+    "AdvRepWasted": 17374,
+    "AdvEffGap": 16.041,
+    "AdvPercentile": 62.069
   },
   {
     "State": "INDIANA",
@@ -2561,10 +2561,10 @@
     "RepWasted": 132247,
     "EffGap": 33.3245,
     "Percentile": 64.3678,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3235,
+    "AdvRepWasted": 26449,
+    "AdvEffGap": 7.3132,
+    "AdvPercentile": 33.7931
   },
   {
     "State": "INDIANA",
@@ -2578,10 +2578,10 @@
     "RepWasted": 34316,
     "EffGap": 27.0126,
     "Percentile": 50.5747,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 57483,
+    "AdvRepWasted": 4803,
+    "AdvEffGap": 17.6442,
+    "AdvPercentile": 71.0345
   },
   {
     "State": "INDIANA",
@@ -2595,10 +2595,10 @@
     "RepWasted": 58113,
     "EffGap": 14.3204,
     "Percentile": 28.2759,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 89047,
+    "AdvRepWasted": 12254,
+    "AdvEffGap": 23.5741,
+    "AdvPercentile": 86.2069
   },
   {
     "State": "INDIANA",
@@ -2612,10 +2612,10 @@
     "RepWasted": 56273,
     "EffGap": 16.7529,
     "Percentile": 31.954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 96036,
+    "AdvRepWasted": 10905,
+    "AdvEffGap": 25.1484,
+    "AdvPercentile": 89.1954
   },
   {
     "State": "INDIANA",
@@ -2629,10 +2629,10 @@
     "RepWasted": 8492,
     "EffGap": 45.7478,
     "Percentile": 84.8276,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9561,
+    "AdvRepWasted": 943,
+    "AdvEffGap": 2.1575,
+    "AdvPercentile": 11.0345
   },
   {
     "State": "INDIANA",
@@ -2646,10 +2646,10 @@
     "RepWasted": 67107,
     "EffGap": 7.5835,
     "Percentile": 14.4828,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 63772,
+    "AdvRepWasted": 16186,
+    "AdvEffGap": 15.0388,
+    "AdvPercentile": 56.7816
   },
   {
     "State": "INDIANA",
@@ -2663,10 +2663,10 @@
     "RepWasted": 106146,
     "EffGap": 25.1299,
     "Percentile": 46.6667,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5433,
+    "AdvRepWasted": 53073,
+    "AdvEffGap": 16.8597,
+    "AdvPercentile": 66.6667
   },
   {
     "State": "INDIANA",
@@ -2680,10 +2680,10 @@
     "RepWasted": 59475,
     "EffGap": 11.67,
     "Percentile": 21.8391,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 81337,
+    "AdvRepWasted": 13502,
+    "AdvEffGap": 21.8587,
+    "AdvPercentile": 80.6897
   },
   {
     "State": "INDIANA",
@@ -2697,10 +2697,10 @@
     "RepWasted": 49745,
     "EffGap": 21.1306,
     "Percentile": 39.3103,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 61283,
+    "AdvRepWasted": 8923,
+    "AdvEffGap": 15.1934,
+    "AdvPercentile": 57.7011
   },
   {
     "State": "IOWA",
@@ -2714,10 +2714,10 @@
     "RepWasted": 5370,
     "EffGap": 47.4021,
     "Percentile": 88.9655,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10067,
+    "AdvRepWasted": 596,
+    "AdvEffGap": 2.2908,
+    "AdvPercentile": 15.6322
   },
   {
     "State": "IOWA",
@@ -2731,10 +2731,10 @@
     "RepWasted": 2,
     "EffGap": 49.9987,
     "Percentile": 92.8736,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9847,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 2.4997,
+    "AdvPercentile": 19.7701
   },
   {
     "State": "IOWA",
@@ -2748,10 +2748,10 @@
     "RepWasted": 212997,
     "EffGap": 48.5639,
     "Percentile": 90.5747,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 344,
+    "AdvRepWasted": 10649,
+    "AdvEffGap": 2.3843,
+    "AdvPercentile": 17.4713
   },
   {
     "State": "IOWA",
@@ -2765,10 +2765,10 @@
     "RepWasted": 46303,
     "EffGap": 25.7656,
     "Percentile": 48.046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 72380,
+    "AdvRepWasted": 6942,
+    "AdvEffGap": 17.1245,
+    "AdvPercentile": 68.046
   },
   {
     "State": "KANSAS",
@@ -2782,10 +2782,10 @@
     "RepWasted": 61917,
     "EffGap": 7.6809,
     "Percentile": 14.9425,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 59075,
+    "AdvRepWasted": 14890,
+    "AdvEffGap": 15.0997,
+    "AdvPercentile": 57.2414
   },
   {
     "State": "KANSAS",
@@ -2799,10 +2799,10 @@
     "RepWasted": 24406,
     "EffGap": 34.846,
     "Percentile": 66.8966,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 27330,
+    "AdvRepWasted": 2739,
+    "AdvEffGap": 7.6343,
+    "AdvPercentile": 36.3218
   },
   {
     "State": "KANSAS",
@@ -2816,10 +2816,10 @@
     "RepWasted": 178773,
     "EffGap": 39.6508,
     "Percentile": 74.4828,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1262,
+    "AdvRepWasted": 35754,
+    "AdvEffGap": 8.6485,
+    "AdvPercentile": 43.908
   },
   {
     "State": "KANSAS",
@@ -2833,10 +2833,10 @@
     "RepWasted": 43632,
     "EffGap": 22.6954,
     "Percentile": 41.6092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 58083,
+    "AdvRepWasted": 7441,
+    "AdvEffGap": 15.8455,
+    "AdvPercentile": 60.6897
   },
   {
     "State": "KENTUCKY",
@@ -2850,10 +2850,10 @@
     "RepWasted": 82093,
     "EffGap": 0.0146,
     "Percentile": 0,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 57498,
+    "AdvRepWasted": 23709,
+    "AdvEffGap": 10.2868,
+    "AdvPercentile": 44.8276
   },
   {
     "State": "KENTUCKY",
@@ -2867,10 +2867,10 @@
     "RepWasted": 80545,
     "EffGap": 4.0237,
     "Percentile": 7.5862,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 66250,
+    "AdvRepWasted": 21388,
+    "AdvEffGap": 12.8039,
+    "AdvPercentile": 49.6552
   },
   {
     "State": "KENTUCKY",
@@ -2884,10 +2884,10 @@
     "RepWasted": 137425,
     "EffGap": 24.668,
     "Percentile": 45.7471,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7360,
+    "AdvRepWasted": 68712,
+    "AdvEffGap": 16.6673,
+    "AdvPercentile": 65.5172
   },
   {
     "State": "KENTUCKY",
@@ -2901,10 +2901,10 @@
     "RepWasted": 65358,
     "EffGap": 15.8266,
     "Percentile": 29.8851,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 107011,
+    "AdvRepWasted": 13109,
+    "AdvEffGap": 24.549,
+    "AdvPercentile": 87.5862
   },
   {
     "State": "KENTUCKY",
@@ -2918,10 +2918,10 @@
     "RepWasted": 101928,
     "EffGap": 18.4153,
     "Percentile": 34.4828,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 18822,
+    "AdvRepWasted": 39548,
+    "AdvEffGap": 6.9557,
+    "AdvPercentile": 29.6552
   },
   {
     "State": "KENTUCKY",
@@ -2935,10 +2935,10 @@
     "RepWasted": 30968,
     "EffGap": 33.3486,
     "Percentile": 64.5977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 31002,
+    "AdvRepWasted": 3782,
+    "AdvEffGap": 7.318,
+    "AdvPercentile": 34.023
   },
   {
     "State": "LOUISIANA",
@@ -2952,10 +2952,10 @@
     "RepWasted": 87799,
     "EffGap": 1.8986,
     "Percentile": 3.4483,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 66310,
+    "AdvRepWasted": 24439,
+    "AdvEffGap": 11.4696,
+    "AdvPercentile": 47.3563
   },
   {
     "State": "LOUISIANA",
@@ -2969,10 +2969,10 @@
     "RepWasted": 15565,
     "EffGap": 13.2104,
     "Percentile": 26.2069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1973,
+    "AdvRepWasted": 13230,
+    "AdvEffGap": 22.8573,
+    "AdvPercentile": 84.3678
   },
   {
     "State": "LOUISIANA",
@@ -2986,10 +2986,10 @@
     "RepWasted": 84813,
     "EffGap": 8.2246,
     "Percentile": 15.8621,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 33468,
+    "AdvRepWasted": 28218,
+    "AdvEffGap": 1.8021,
+    "AdvPercentile": 2.2989
   },
   {
     "State": "LOUISIANA",
@@ -3003,10 +3003,10 @@
     "RepWasted": 80725,
     "EffGap": 27.2205,
     "Percentile": 51.0345,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5953,
+    "AdvRepWasted": 35166,
+    "AdvEffGap": 13.9723,
+    "AdvPercentile": 51.7241
   },
   {
     "State": "LOUISIANA",
@@ -3020,10 +3020,10 @@
     "RepWasted": 49185,
     "EffGap": 0.8135,
     "Percentile": 1.1494,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 35568,
+    "AdvRepWasted": 13991,
+    "AdvEffGap": 10.7888,
+    "AdvPercentile": 45.977
   },
   {
     "State": "LOUISIANA",
@@ -3037,10 +3037,10 @@
     "RepWasted": 85082,
     "EffGap": 2.8952,
     "Percentile": 4.8276,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 66878,
+    "AdvRepWasted": 23184,
+    "AdvEffGap": 12.0953,
+    "AdvPercentile": 48.2759
   },
   {
     "State": "MAINE",
@@ -3054,10 +3054,10 @@
     "RepWasted": 165008,
     "EffGap": 25.6899,
     "Percentile": 47.3563,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7976,
+    "AdvRepWasted": 82504,
+    "AdvEffGap": 17.0931,
+    "AdvPercentile": 67.3563
   },
   {
     "State": "MAINE",
@@ -3071,10 +3071,10 @@
     "RepWasted": 175228,
     "EffGap": 43.9054,
     "Percentile": 81.6092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1263,
+    "AdvRepWasted": 8761,
+    "AdvEffGap": 2.0091,
+    "AdvPercentile": 7.3563
   },
   {
     "State": "MARYLAND",
@@ -3088,10 +3088,10 @@
     "RepWasted": 53511,
     "EffGap": 22.8903,
     "Percentile": 42.2989,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 71938,
+    "AdvRepWasted": 9064,
+    "AdvEffGap": 15.9264,
+    "AdvPercentile": 61.3793
   },
   {
     "State": "MARYLAND",
@@ -3105,10 +3105,10 @@
     "RepWasted": 106355,
     "EffGap": 14.2259,
     "Percentile": 28.046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 12529,
+    "AdvRepWasted": 90401,
+    "AdvEffGap": 23.5127,
+    "AdvPercentile": 85.977
   },
   {
     "State": "MARYLAND",
@@ -3122,10 +3122,10 @@
     "RepWasted": 112117,
     "EffGap": 10.2012,
     "Percentile": 18.3908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 17422,
+    "AdvRepWasted": 95299,
+    "AdvEffGap": 20.908,
+    "AdvPercentile": 77.931
   },
   {
     "State": "MARYLAND",
@@ -3139,10 +3139,10 @@
     "RepWasted": 71671,
     "EffGap": 9.4836,
     "Percentile": 17.4713,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 35752,
+    "AdvRepWasted": 39419,
+    "AdvEffGap": 1.0365,
+    "AdvPercentile": 0
   },
   {
     "State": "MARYLAND",
@@ -3156,10 +3156,10 @@
     "RepWasted": 123525,
     "EffGap": 12.1143,
     "Percentile": 22.5287,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 16912,
+    "AdvRepWasted": 104996,
+    "AdvEffGap": 22.1464,
+    "AdvPercentile": 81.3793
   },
   {
     "State": "MARYLAND",
@@ -3173,10 +3173,10 @@
     "RepWasted": 143599,
     "EffGap": 29.9686,
     "Percentile": 57.7011,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4008,
+    "AdvRepWasted": 71799,
+    "AdvEffGap": 18.876,
+    "AdvPercentile": 77.7011
   },
   {
     "State": "MARYLAND",
@@ -3190,10 +3190,10 @@
     "RepWasted": 92825,
     "EffGap": 6.2732,
     "Percentile": 11.0345,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 18077,
+    "AdvRepWasted": 64977,
+    "AdvEffGap": 14.216,
+    "AdvPercentile": 52.6437
   },
   {
     "State": "MARYLAND",
@@ -3207,10 +3207,10 @@
     "RepWasted": 127157,
     "EffGap": 13.2823,
     "Percentile": 26.6667,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 16045,
+    "AdvRepWasted": 108083,
+    "AdvEffGap": 22.9023,
+    "AdvPercentile": 84.5977
   },
   {
     "State": "MASSACHUSETTS",
@@ -3224,10 +3224,10 @@
     "RepWasted": 0,
     "EffGap": 49.9996,
     "Percentile": 96.3218,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 77257,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0551,
+    "AdvPercentile": 98.6207
   },
   {
     "State": "MASSACHUSETTS",
@@ -3241,10 +3241,10 @@
     "RepWasted": 132220,
     "EffGap": 19.212,
     "Percentile": 35.8621,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10220,
+    "AdvRepWasted": 112387,
+    "AdvEffGap": 26.7401,
+    "AdvPercentile": 92.1839
   },
   {
     "State": "MASSACHUSETTS",
@@ -3258,10 +3258,10 @@
     "RepWasted": 0,
     "EffGap": 49.9997,
     "Percentile": 97.2414,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 80489,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0551,
+    "AdvPercentile": 98.8506
   },
   {
     "State": "MASSACHUSETTS",
@@ -3275,10 +3275,10 @@
     "RepWasted": 160474,
     "EffGap": 27.9805,
     "Percentile": 53.3333,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5958,
+    "AdvRepWasted": 80237,
+    "AdvEffGap": 18.0475,
+    "AdvPercentile": 73.5632
   },
   {
     "State": "MASSACHUSETTS",
@@ -3292,10 +3292,10 @@
     "RepWasted": 101351,
     "EffGap": 1.2163,
     "Percentile": 2.069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 27246,
+    "AdvRepWasted": 70945,
+    "AdvEffGap": 11.0413,
+    "AdvPercentile": 46.8966
   },
   {
     "State": "MASSACHUSETTS",
@@ -3309,10 +3309,10 @@
     "RepWasted": 150695,
     "EffGap": 18.9568,
     "Percentile": 35.1724,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 11939,
+    "AdvRepWasted": 128090,
+    "AdvEffGap": 26.5748,
+    "AdvPercentile": 91.4943
   },
   {
     "State": "MASSACHUSETTS",
@@ -3326,10 +3326,10 @@
     "RepWasted": 0,
     "EffGap": 49.9996,
     "Percentile": 96.5517,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 75008,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0548,
+    "AdvPercentile": 96.5517
   },
   {
     "State": "MASSACHUSETTS",
@@ -3343,10 +3343,10 @@
     "RepWasted": 0,
     "EffGap": 49.9997,
     "Percentile": 97.4713,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 87234,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0549,
+    "AdvPercentile": 97.0115
   },
   {
     "State": "MASSACHUSETTS",
@@ -3360,10 +3360,10 @@
     "RepWasted": 154261,
     "EffGap": 24.4283,
     "Percentile": 45.5172,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8454,
+    "AdvRepWasted": 77130,
+    "AdvEffGap": 16.5675,
+    "AdvPercentile": 65.2874
   },
   {
     "State": "MICHIGAN",
@@ -3377,10 +3377,10 @@
     "RepWasted": 51626,
     "EffGap": 24.8109,
     "Percentile": 45.977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 76664,
+    "AdvRepWasted": 8099,
+    "AdvEffGap": 16.7269,
+    "AdvPercentile": 65.977
   },
   {
     "State": "MICHIGAN",
@@ -3394,10 +3394,10 @@
     "RepWasted": 42294,
     "EffGap": 28.4671,
     "Percentile": 53.7931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 77061,
+    "AdvRepWasted": 5368,
+    "AdvEffGap": 18.2502,
+    "AdvPercentile": 74.023
   },
   {
     "State": "MICHIGAN",
@@ -3411,10 +3411,10 @@
     "RepWasted": 11939,
     "EffGap": 44.0808,
     "Percentile": 82.069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9488,
+    "AdvRepWasted": 1326,
+    "AdvEffGap": 2.0232,
+    "AdvPercentile": 7.8161
   },
   {
     "State": "MICHIGAN",
@@ -3428,10 +3428,10 @@
     "RepWasted": 60909,
     "EffGap": 16.4802,
     "Percentile": 31.2644,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 102681,
+    "AdvRepWasted": 11927,
+    "AdvEffGap": 24.972,
+    "AdvPercentile": 88.5057
   },
   {
     "State": "MICHIGAN",
@@ -3445,10 +3445,10 @@
     "RepWasted": 150772,
     "EffGap": 36.8076,
     "Percentile": 69.8851,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2196,
+    "AdvRepWasted": 30154,
+    "AdvEffGap": 8.0485,
+    "AdvPercentile": 39.3103
   },
   {
     "State": "MICHIGAN",
@@ -3462,10 +3462,10 @@
     "RepWasted": 29705,
     "EffGap": 33.6596,
     "Percentile": 65.7471,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30417,
+    "AdvRepWasted": 3571,
+    "AdvEffGap": 7.3838,
+    "AdvPercentile": 35.1724
   },
   {
     "State": "MICHIGAN",
@@ -3479,10 +3479,10 @@
     "RepWasted": 33890,
     "EffGap": 32.4977,
     "Percentile": 62.069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 31948,
+    "AdvRepWasted": 4303,
+    "AdvEffGap": 7.1385,
+    "AdvPercentile": 31.4943
   },
   {
     "State": "MICHIGAN",
@@ -3496,10 +3496,10 @@
     "RepWasted": 202525,
     "EffGap": 46.3381,
     "Percentile": 85.977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 855,
+    "AdvRepWasted": 10126,
+    "AdvEffGap": 2.205,
+    "AdvPercentile": 12.4138
   },
   {
     "State": "MICHIGAN",
@@ -3513,10 +3513,10 @@
     "RepWasted": 153296,
     "EffGap": 29.9223,
     "Percentile": 57.4713,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4311,
+    "AdvRepWasted": 76648,
+    "AdvEffGap": 18.8567,
+    "AdvPercentile": 77.4713
   },
   {
     "State": "MICHIGAN",
@@ -3530,10 +3530,10 @@
     "RepWasted": 66713,
     "EffGap": 17.4398,
     "Percentile": 32.8736,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 117452,
+    "AdvRepWasted": 12575,
+    "AdvEffGap": 25.5931,
+    "AdvPercentile": 90.1149
   },
   {
     "State": "MICHIGAN",
@@ -3547,10 +3547,10 @@
     "RepWasted": 215405,
     "EffGap": 47.5715,
     "Percentile": 89.1954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 595,
+    "AdvRepWasted": 10770,
+    "AdvEffGap": 2.3045,
+    "AdvPercentile": 15.8621
   },
   {
     "State": "MICHIGAN",
@@ -3564,10 +3564,10 @@
     "RepWasted": 117719,
     "EffGap": 13.1753,
     "Percentile": 25.977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 14968,
+    "AdvRepWasted": 100061,
+    "AdvEffGap": 22.833,
+    "AdvPercentile": 84.1379
   },
   {
     "State": "MICHIGAN",
@@ -3581,10 +3581,10 @@
     "RepWasted": 53311,
     "EffGap": 11.4406,
     "Percentile": 21.1494,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 29200,
+    "AdvRepWasted": 21324,
+    "AdvEffGap": 2.8483,
+    "AdvPercentile": 20.4598
   },
   {
     "State": "MICHIGAN",
@@ -3598,10 +3598,10 @@
     "RepWasted": 62664,
     "EffGap": 12.4802,
     "Percentile": 23.908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 36624,
+    "AdvRepWasted": 25065,
+    "AdvEffGap": 3.4604,
+    "AdvPercentile": 21.3793
   },
   {
     "State": "MINNESOTA",
@@ -3615,10 +3615,10 @@
     "RepWasted": 89616,
     "EffGap": 49.9994,
     "Percentile": 94.023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 50283,
+    "AdvEffGap": 28.0544,
+    "AdvPercentile": 94.4828
   },
   {
     "State": "MINNESOTA",
@@ -3632,10 +3632,10 @@
     "RepWasted": 194954,
     "EffGap": 47.6022,
     "Percentile": 89.4253,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 532,
+    "AdvRepWasted": 9747,
+    "AdvEffGap": 2.3067,
+    "AdvPercentile": 16.092
   },
   {
     "State": "MINNESOTA",
@@ -3649,10 +3649,10 @@
     "RepWasted": 196625,
     "EffGap": 38.7116,
     "Percentile": 73.1034,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1865,
+    "AdvRepWasted": 39325,
+    "AdvEffGap": 8.4504,
+    "AdvPercentile": 42.5287
   },
   {
     "State": "MINNESOTA",
@@ -3666,10 +3666,10 @@
     "RepWasted": 112730,
     "EffGap": 12.8824,
     "Percentile": 25.0575,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 14634,
+    "AdvRepWasted": 95820,
+    "AdvEffGap": 22.6433,
+    "AdvPercentile": 83.2184
   },
   {
     "State": "MINNESOTA",
@@ -3683,10 +3683,10 @@
     "RepWasted": 102878,
     "EffGap": 7.3456,
     "Percentile": 13.5632,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 18592,
+    "AdvRepWasted": 72014,
+    "AdvEffGap": 14.889,
+    "AdvPercentile": 54.7126
   },
   {
     "State": "MINNESOTA",
@@ -3700,10 +3700,10 @@
     "RepWasted": 135450,
     "EffGap": 49.9998,
     "Percentile": 98.3908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 76001,
+    "AdvEffGap": 28.0549,
+    "AdvPercentile": 97.2414
   },
   {
     "State": "MINNESOTA",
@@ -3717,10 +3717,10 @@
     "RepWasted": 24612,
     "EffGap": 35.4753,
     "Percentile": 67.3563,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 28968,
+    "AdvRepWasted": 2645,
+    "AdvEffGap": 7.7671,
+    "AdvPercentile": 36.7816
   },
   {
     "State": "MINNESOTA",
@@ -3734,10 +3734,10 @@
     "RepWasted": 111715,
     "EffGap": 49.9996,
     "Percentile": 96.7816,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 62683,
+    "AdvEffGap": 28.0546,
+    "AdvPercentile": 95.4023
   },
   {
     "State": "MISSISSIPPI",
@@ -3751,10 +3751,10 @@
     "RepWasted": 62389,
     "EffGap": 12.5059,
     "Percentile": 24.3678,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 88406,
+    "AdvRepWasted": 13861,
+    "AdvEffGap": 22.3997,
+    "AdvPercentile": 82.7586
   },
   {
     "State": "MISSISSIPPI",
@@ -3768,10 +3768,10 @@
     "RepWasted": 101010,
     "EffGap": 17.967,
     "Percentile": 33.5632,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8773,
+    "AdvRepWasted": 85858,
+    "AdvEffGap": 25.9341,
+    "AdvPercentile": 90.8046
   },
   {
     "State": "MISSISSIPPI",
@@ -3785,10 +3785,10 @@
     "RepWasted": 50140,
     "EffGap": 20.6649,
     "Percentile": 38.6207,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 60391,
+    "AdvRepWasted": 9116,
+    "AdvEffGap": 14.9994,
+    "AdvPercentile": 56.5517
   },
   {
     "State": "MISSISSIPPI",
@@ -3802,10 +3802,10 @@
     "RepWasted": 127985,
     "EffGap": 49.9998,
     "Percentile": 98.6207,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 71812,
+    "AdvEffGap": 28.0547,
+    "AdvPercentile": 95.8621
   },
   {
     "State": "MISSOURI",
@@ -3819,10 +3819,10 @@
     "RepWasted": 59940,
     "EffGap": 11.2071,
     "Percentile": 20.6897,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 32352,
+    "AdvRepWasted": 23976,
+    "AdvEffGap": 2.7104,
+    "AdvPercentile": 20.2299
   },
   {
     "State": "MISSOURI",
@@ -3836,10 +3836,10 @@
     "RepWasted": 14308,
     "EffGap": 43.462,
     "Percentile": 80.6897,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10227,
+    "AdvRepWasted": 1589,
+    "AdvEffGap": 1.9735,
+    "AdvPercentile": 6.4368
   },
   {
     "State": "MISSOURI",
@@ -3853,10 +3853,10 @@
     "RepWasted": 83385,
     "EffGap": 8.1988,
     "Percentile": 15.6322,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 81266,
+    "AdvRepWasted": 19727,
+    "AdvEffGap": 15.4248,
+    "AdvPercentile": 59.3103
   },
   {
     "State": "MISSOURI",
@@ -3870,10 +3870,10 @@
     "RepWasted": 68805,
     "EffGap": 11.0037,
     "Percentile": 20.2299,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 91489,
+    "AdvRepWasted": 15876,
+    "AdvEffGap": 21.4273,
+    "AdvPercentile": 79.7701
   },
   {
     "State": "MISSOURI",
@@ -3887,10 +3887,10 @@
     "RepWasted": 135934,
     "EffGap": 29.2358,
     "Percentile": 55.4023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4249,
+    "AdvRepWasted": 67967,
+    "AdvEffGap": 18.5705,
+    "AdvPercentile": 75.6322
   },
   {
     "State": "MISSOURI",
@@ -3904,10 +3904,10 @@
     "RepWasted": 69891,
     "EffGap": 12.9848,
     "Percentile": 25.5172,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 101087,
+    "AdvRepWasted": 15327,
+    "AdvEffGap": 22.7098,
+    "AdvPercentile": 83.6782
   },
   {
     "State": "MISSOURI",
@@ -3921,10 +3921,10 @@
     "RepWasted": 78103,
     "EffGap": 5.6772,
     "Percentile": 10.1149,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 68677,
+    "AdvRepWasted": 19895,
+    "AdvEffGap": 13.8417,
+    "AdvPercentile": 51.4943
   },
   {
     "State": "MISSOURI",
@@ -3938,14 +3938,14 @@
     "RepWasted": 91624,
     "EffGap": 6.4935,
     "Percentile": 11.2644,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 38808,
+    "AdvRepWasted": 29546,
+    "AdvEffGap": 2.8554,
+    "AdvPercentile": 20.6897
   },
   {
     "State": "MONTANA",
-    "District": 1,
+    "District": 0,
     "Winner": "REPUBLICAN",
     "DemVotes": 262340,
     "RepVotes": 339169,
@@ -3955,10 +3955,10 @@
     "RepWasted": 38414,
     "EffGap": 37.2274,
     "Percentile": 71.0345,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 52468,
+    "AdvRepWasted": 3523,
+    "AdvEffGap": 8.137,
+    "AdvPercentile": 40.4598
   },
   {
     "State": "NEBRASKA",
@@ -3972,10 +3972,10 @@
     "RepWasted": 34691,
     "EffGap": 27.5189,
     "Percentile": 51.954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 59811,
+    "AdvRepWasted": 4705,
+    "AdvEffGap": 17.8552,
+    "AdvPercentile": 72.1839
   },
   {
     "State": "NEBRASKA",
@@ -3989,10 +3989,10 @@
     "RepWasted": 7682,
     "EffGap": 45.2982,
     "Percentile": 84.1379,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7785,
+    "AdvRepWasted": 853,
+    "AdvEffGap": 2.1213,
+    "AdvPercentile": 10.3448
   },
   {
     "State": "NEBRASKA",
@@ -4006,10 +4006,10 @@
     "RepWasted": 87233,
     "EffGap": 13.2476,
     "Percentile": 26.4368,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 20276,
+    "AdvRepWasted": 31067,
+    "AdvEffGap": 3.912,
+    "AdvPercentile": 22.2989
   },
   {
     "State": "NEVADA",
@@ -4023,10 +4023,10 @@
     "RepWasted": 74490,
     "EffGap": 20.1556,
     "Percentile": 36.7816,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5843,
+    "AdvRepWasted": 37245,
+    "AdvEffGap": 14.7873,
+    "AdvPercentile": 53.7931
   },
   {
     "State": "NEVADA",
@@ -4040,10 +4040,10 @@
     "RepWasted": 30148,
     "EffGap": 33.7849,
     "Percentile": 65.977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 31156,
+    "AdvRepWasted": 3600,
+    "AdvEffGap": 7.4104,
+    "AdvPercentile": 35.4023
   },
   {
     "State": "NEVADA",
@@ -4057,10 +4057,10 @@
     "RepWasted": 190975,
     "EffGap": 46.8445,
     "Percentile": 87.5862,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 691,
+    "AdvRepWasted": 9548,
+    "AdvEffGap": 2.2457,
+    "AdvPercentile": 14.023
   },
   {
     "State": "NEVADA",
@@ -4074,10 +4074,10 @@
     "RepWasted": 152284,
     "EffGap": 44.9578,
     "Percentile": 83.908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 898,
+    "AdvRepWasted": 7614,
+    "AdvEffGap": 2.0939,
+    "AdvPercentile": 10.1149
   },
   {
     "State": "NEW HAMPSHIRE",
@@ -4091,10 +4091,10 @@
     "RepWasted": 185159,
     "EffGap": 44.7676,
     "Percentile": 83.4483,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1135,
+    "AdvRepWasted": 9257,
+    "AdvEffGap": 2.0785,
+    "AdvPercentile": 9.4253
   },
   {
     "State": "NEW HAMPSHIRE",
@@ -4108,10 +4108,10 @@
     "RepWasted": 168886,
     "EffGap": 39.5533,
     "Percentile": 74.2529,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1234,
+    "AdvRepWasted": 33777,
+    "AdvEffGap": 8.6281,
+    "AdvPercentile": 43.6782
   },
   {
     "State": "NEW JERSEY",
@@ -4125,10 +4125,10 @@
     "RepWasted": 144463,
     "EffGap": 25.0401,
     "Percentile": 46.4368,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7460,
+    "AdvRepWasted": 72231,
+    "AdvEffGap": 16.8223,
+    "AdvPercentile": 66.4368
   },
   {
     "State": "NEW JERSEY",
@@ -4142,10 +4142,10 @@
     "RepWasted": 10838,
     "EffGap": 44.1316,
     "Percentile": 82.5287,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8692,
+    "AdvRepWasted": 1204,
+    "AdvEffGap": 2.0272,
+    "AdvPercentile": 8.2759
   },
   {
     "State": "NEW JERSEY",
@@ -4159,10 +4159,10 @@
     "RepWasted": 196327,
     "EffGap": 42.1363,
     "Percentile": 77.4713,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1861,
+    "AdvRepWasted": 9816,
+    "AdvEffGap": 1.8666,
+    "AdvPercentile": 3.2184
   },
   {
     "State": "NEW JERSEY",
@@ -4176,10 +4176,10 @@
     "RepWasted": 45841,
     "EffGap": 27.9886,
     "Percentile": 53.5632,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 81210,
+    "AdvRepWasted": 6024,
+    "AdvEffGap": 18.0509,
+    "AdvPercentile": 73.7931
   },
   {
     "State": "NEW JERSEY",
@@ -4193,10 +4193,10 @@
     "RepWasted": 193333,
     "EffGap": 42.3918,
     "Percentile": 77.931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1768,
+    "AdvRepWasted": 9666,
+    "AdvEffGap": 1.8872,
+    "AdvPercentile": 3.6782
   },
   {
     "State": "NEW JERSEY",
@@ -4210,10 +4210,10 @@
     "RepWasted": 126760,
     "EffGap": 27.67,
     "Percentile": 52.1839,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4894,
+    "AdvRepWasted": 63380,
+    "AdvEffGap": 17.9181,
+    "AdvPercentile": 72.4138
   },
   {
     "State": "NEW JERSEY",
@@ -4227,10 +4227,10 @@
     "RepWasted": 214318,
     "EffGap": 48.7762,
     "Percentile": 91.4943,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 294,
+    "AdvRepWasted": 10715,
+    "AdvEffGap": 2.4014,
+    "AdvPercentile": 18.3908
   },
   {
     "State": "NEW JERSEY",
@@ -4244,10 +4244,10 @@
     "RepWasted": 58686,
     "EffGap": 0.1482,
     "Percentile": 0.2299,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 16466,
+    "AdvRepWasted": 32277,
+    "AdvEffGap": 6.7154,
+    "AdvPercentile": 26.8966
   },
   {
     "State": "NEW JERSEY",
@@ -4261,10 +4261,10 @@
     "RepWasted": 98629,
     "EffGap": 15.2519,
     "Percentile": 29.1954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10746,
+    "AdvRepWasted": 83834,
+    "AdvEffGap": 24.1771,
+    "AdvPercentile": 86.8966
   },
   {
     "State": "NEW JERSEY",
@@ -4278,10 +4278,10 @@
     "RepWasted": 40298,
     "EffGap": 21.4012,
     "Percentile": 40.2299,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 40113,
+    "AdvRepWasted": 10074,
+    "AdvEffGap": 10.6589,
+    "AdvPercentile": 45.5172
   },
   {
     "State": "NEW JERSEY",
@@ -4295,10 +4295,10 @@
     "RepWasted": 206013,
     "EffGap": 43.3929,
     "Percentile": 80.2299,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1619,
+    "AdvRepWasted": 10300,
+    "AdvEffGap": 1.9677,
+    "AdvPercentile": 5.977
   },
   {
     "State": "NEW JERSEY",
@@ -4312,10 +4312,10 @@
     "RepWasted": 114591,
     "EffGap": 16.3387,
     "Percentile": 30.8046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 11447,
+    "AdvRepWasted": 97402,
+    "AdvEffGap": 24.8803,
+    "AdvPercentile": 88.2759
   },
   {
     "State": "NEW MEXICO",
@@ -4329,10 +4329,10 @@
     "RepWasted": 134337,
     "EffGap": 33.6238,
     "Percentile": 65.5172,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3168,
+    "AdvRepWasted": 26867,
+    "AdvEffGap": 7.3762,
+    "AdvPercentile": 34.9425
   },
   {
     "State": "NEW MEXICO",
@@ -4346,10 +4346,10 @@
     "RepWasted": 9868,
     "EffGap": 42.5475,
     "Percentile": 78.3908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6127,
+    "AdvRepWasted": 1096,
+    "AdvEffGap": 1.8997,
+    "AdvPercentile": 4.1379
   },
   {
     "State": "NEW MEXICO",
@@ -4363,10 +4363,10 @@
     "RepWasted": 131166,
     "EffGap": 32.6381,
     "Percentile": 62.2989,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3478,
+    "AdvRepWasted": 26233,
+    "AdvEffGap": 7.1681,
+    "AdvPercentile": 31.7241
   },
   {
     "State": "NEW YORK",
@@ -4380,10 +4380,10 @@
     "RepWasted": 9938,
     "EffGap": 44.1853,
     "Percentile": 82.7586,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8048,
+    "AdvRepWasted": 1104,
+    "AdvEffGap": 2.0314,
+    "AdvPercentile": 8.5057
   },
   {
     "State": "NEW YORK",
@@ -4397,10 +4397,10 @@
     "RepWasted": 6650,
     "EffGap": 45.6102,
     "Percentile": 84.3678,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7242,
+    "AdvRepWasted": 738,
+    "AdvEffGap": 2.1465,
+    "AdvPercentile": 10.5747
   },
   {
     "State": "NEW YORK",
@@ -4414,10 +4414,10 @@
     "RepWasted": 147461,
     "EffGap": 35.8538,
     "Percentile": 68.2759,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2536,
+    "AdvRepWasted": 29492,
+    "AdvEffGap": 7.8471,
+    "AdvPercentile": 37.7011
   },
   {
     "State": "NEW YORK",
@@ -4431,10 +4431,10 @@
     "RepWasted": 139559,
     "EffGap": 32.258,
     "Percentile": 61.6092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3861,
+    "AdvRepWasted": 27911,
+    "AdvEffGap": 7.0877,
+    "AdvPercentile": 30.8046
   },
   {
     "State": "NEW YORK",
@@ -4448,10 +4448,10 @@
     "RepWasted": 0,
     "EffGap": 49.9998,
     "Percentile": 98.8506,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 64281,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.055,
+    "AdvPercentile": 97.7011
   },
   {
     "State": "NEW YORK",
@@ -4465,10 +4465,10 @@
     "RepWasted": 67735,
     "EffGap": 13.9364,
     "Percentile": 27.5862,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8151,
+    "AdvRepWasted": 57574,
+    "AdvEffGap": 23.3255,
+    "AdvPercentile": 85.5172
   },
   {
     "State": "NEW YORK",
@@ -4482,10 +4482,10 @@
     "RepWasted": 29404,
     "EffGap": 18.4323,
     "Percentile": 34.7126,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 24737,
+    "AdvRepWasted": 11761,
+    "AdvEffGap": 6.9654,
+    "AdvPercentile": 29.8851
   },
   {
     "State": "NEW YORK",
@@ -4499,10 +4499,10 @@
     "RepWasted": 39124,
     "EffGap": 18.222,
     "Percentile": 34.023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 32496,
+    "AdvRepWasted": 15649,
+    "AdvEffGap": 6.8418,
+    "AdvPercentile": 28.2759
   },
   {
     "State": "NEW YORK",
@@ -4516,10 +4516,10 @@
     "RepWasted": 40110,
     "EffGap": 15.989,
     "Percentile": 30.1149,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 29079,
+    "AdvRepWasted": 16044,
+    "AdvEffGap": 5.5264,
+    "AdvPercentile": 24.5977
   },
   {
     "State": "NEW YORK",
@@ -4533,10 +4533,10 @@
     "RepWasted": 61045,
     "EffGap": 0.3967,
     "Percentile": 0.4598,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 17229,
+    "AdvRepWasted": 42731,
+    "AdvEffGap": 10.5267,
+    "AdvPercentile": 45.0575
   },
   {
     "State": "NEW YORK",
@@ -4550,10 +4550,10 @@
     "RepWasted": 4397,
     "EffGap": 46.837,
     "Percentile": 87.3563,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6731,
+    "AdvRepWasted": 488,
+    "AdvEffGap": 2.2453,
+    "AdvPercentile": 13.7931
   },
   {
     "State": "NEW YORK",
@@ -4567,10 +4567,10 @@
     "RepWasted": 49157,
     "EffGap": 18.7224,
     "Percentile": 34.9425,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 42094,
+    "AdvRepWasted": 19662,
+    "AdvEffGap": 7.1365,
+    "AdvPercentile": 31.2644
   },
   {
     "State": "NEW YORK",
@@ -4584,10 +4584,10 @@
     "RepWasted": 19829,
     "EffGap": 32.1956,
     "Percentile": 60.9195,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 42043,
+    "AdvRepWasted": 2974,
+    "AdvEffGap": 17.5398,
+    "AdvPercentile": 70.5747
   },
   {
     "State": "NEW YORK",
@@ -4601,10 +4601,10 @@
     "RepWasted": 52477,
     "EffGap": 1.1631,
     "Percentile": 1.6092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 14152,
+    "AdvRepWasted": 36733,
+    "AdvEffGap": 11.0077,
+    "AdvPercentile": 46.4368
   },
   {
     "State": "NEW YORK",
@@ -4618,10 +4618,10 @@
     "RepWasted": 18984,
     "EffGap": 29.8594,
     "Percentile": 57.2414,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 33919,
+    "AdvRepWasted": 4746,
+    "AdvEffGap": 15.475,
+    "AdvPercentile": 59.5402
   },
   {
     "State": "NEW YORK",
@@ -4635,10 +4635,10 @@
     "RepWasted": 0,
     "EffGap": 49.9995,
     "Percentile": 94.7126,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 61304,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.055,
+    "AdvPercentile": 97.931
   },
   {
     "State": "NEW YORK",
@@ -4652,10 +4652,10 @@
     "RepWasted": 117309,
     "EffGap": 27.8726,
     "Percentile": 53.1034,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4415,
+    "AdvRepWasted": 58654,
+    "AdvEffGap": 18.0026,
+    "AdvPercentile": 73.3333
   },
   {
     "State": "NEW YORK",
@@ -4669,10 +4669,10 @@
     "RepWasted": 128611,
     "EffGap": 35.8062,
     "Percentile": 68.046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2229,
+    "AdvRepWasted": 25722,
+    "AdvEffGap": 7.837,
+    "AdvPercentile": 37.4713
   },
   {
     "State": "NEW YORK",
@@ -4686,10 +4686,10 @@
     "RepWasted": 151475,
     "EffGap": 44.7444,
     "Percentile": 83.2184,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 933,
+    "AdvRepWasted": 7573,
+    "AdvEffGap": 2.0766,
+    "AdvPercentile": 9.1954
   },
   {
     "State": "NEW YORK",
@@ -4703,10 +4703,10 @@
     "RepWasted": 120839,
     "EffGap": 26.7454,
     "Percentile": 49.8851,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5206,
+    "AdvRepWasted": 60419,
+    "AdvEffGap": 17.5329,
+    "AdvPercentile": 70.1149
   },
   {
     "State": "NEW YORK",
@@ -4720,10 +4720,10 @@
     "RepWasted": 23630,
     "EffGap": 33.8206,
     "Percentile": 66.2069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 24484,
+    "AdvRepWasted": 2816,
+    "AdvEffGap": 7.4179,
+    "AdvPercentile": 35.6322
   },
   {
     "State": "NEW YORK",
@@ -4737,10 +4737,10 @@
     "RepWasted": 2196,
     "EffGap": 48.4434,
     "Percentile": 90.3448,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6944,
+    "AdvRepWasted": 243,
+    "AdvEffGap": 2.3746,
+    "AdvPercentile": 17.2414
   },
   {
     "State": "NEW YORK",
@@ -4754,10 +4754,10 @@
     "RepWasted": 22887,
     "EffGap": 33.524,
     "Percentile": 64.8276,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 23205,
+    "AdvRepWasted": 2770,
+    "AdvEffGap": 7.3553,
+    "AdvPercentile": 34.2529
   },
   {
     "State": "NEW YORK",
@@ -4771,10 +4771,10 @@
     "RepWasted": 4179,
     "EffGap": 47.2515,
     "Percentile": 88.2759,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7393,
+    "AdvRepWasted": 464,
+    "AdvEffGap": 2.2784,
+    "AdvPercentile": 14.9425
   },
   {
     "State": "NEW YORK",
@@ -4788,10 +4788,10 @@
     "RepWasted": 115940,
     "EffGap": 26.4165,
     "Percentile": 48.9655,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5183,
+    "AdvRepWasted": 57970,
+    "AdvEffGap": 17.396,
+    "AdvPercentile": 68.9655
   },
   {
     "State": "NEW YORK",
@@ -4805,10 +4805,10 @@
     "RepWasted": 91706,
     "EffGap": 12.3629,
     "Percentile": 23.4483,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 12343,
+    "AdvRepWasted": 77950,
+    "AdvEffGap": 22.3073,
+    "AdvPercentile": 82.069
   },
   {
     "State": "NEW YORK",
@@ -4822,10 +4822,10 @@
     "RepWasted": 27966,
     "EffGap": 33.015,
     "Percentile": 63.2184,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 27337,
+    "AdvRepWasted": 3470,
+    "AdvEffGap": 7.2477,
+    "AdvPercentile": 32.6437
   },
   {
     "State": "NORTH CAROLINA",
@@ -4839,10 +4839,10 @@
     "RepWasted": 159748,
     "EffGap": 41.6467,
     "Percentile": 77.0115,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1617,
+    "AdvRepWasted": 7987,
+    "AdvEffGap": 1.8272,
+    "AdvPercentile": 2.7586
   },
   {
     "State": "NORTH CAROLINA",
@@ -4856,10 +4856,10 @@
     "RepWasted": 172544,
     "EffGap": 21.2358,
     "Percentile": 39.7701,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 12458,
+    "AdvRepWasted": 86272,
+    "AdvEffGap": 15.2373,
+    "AdvPercentile": 58.1609
   },
   {
     "State": "NORTH CAROLINA",
@@ -4873,10 +4873,10 @@
     "RepWasted": 48523,
     "EffGap": 23.2323,
     "Percentile": 42.9885,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 66376,
+    "AdvRepWasted": 8117,
+    "AdvEffGap": 16.0691,
+    "AdvPercentile": 62.2989
   },
   {
     "State": "NORTH CAROLINA",
@@ -4890,10 +4890,10 @@
     "RepWasted": 161298,
     "EffGap": 15.3401,
     "Percentile": 29.4253,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 17455,
+    "AdvRepWasted": 137103,
+    "AdvEffGap": 24.234,
+    "AdvPercentile": 87.1264
   },
   {
     "State": "NORTH CAROLINA",
@@ -4907,10 +4907,10 @@
     "RepWasted": 68998,
     "EffGap": 13.4629,
     "Percentile": 27.1264,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 101869,
+    "AdvRepWasted": 14928,
+    "AdvEffGap": 23.0192,
+    "AdvPercentile": 85.0575
   },
   {
     "State": "NORTH CAROLINA",
@@ -4924,10 +4924,10 @@
     "RepWasted": 153598,
     "EffGap": 25.4543,
     "Percentile": 47.1264,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7607,
+    "AdvRepWasted": 76799,
+    "AdvEffGap": 16.9951,
+    "AdvPercentile": 67.1264
   },
   {
     "State": "NORTH CAROLINA",
@@ -4941,10 +4941,10 @@
     "RepWasted": 46698,
     "EffGap": 29.3135,
     "Percentile": 55.6322,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 89522,
+    "AdvRepWasted": 5532,
+    "AdvEffGap": 18.6029,
+    "AdvPercentile": 75.8621
   },
   {
     "State": "NORTH CAROLINA",
@@ -4958,10 +4958,10 @@
     "RepWasted": 12496,
     "EffGap": 43.4326,
     "Percentile": 80.4598,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8889,
+    "AdvRepWasted": 1388,
+    "AdvEffGap": 1.9711,
+    "AdvPercentile": 6.2069
   },
   {
     "State": "NORTH CAROLINA",
@@ -4975,10 +4975,10 @@
     "RepWasted": 22598,
     "EffGap": 38.8161,
     "Percentile": 73.3333,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 35892,
+    "AdvRepWasted": 1654,
+    "AdvEffGap": 8.4722,
+    "AdvPercentile": 42.7586
   },
   {
     "State": "NORTH CAROLINA",
@@ -4992,10 +4992,10 @@
     "RepWasted": 77952,
     "EffGap": 12.185,
     "Percentile": 22.7586,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 108960,
+    "AdvRepWasted": 17466,
+    "AdvEffGap": 22.192,
+    "AdvPercentile": 81.6092
   },
   {
     "State": "NORTH CAROLINA",
@@ -5009,10 +5009,10 @@
     "RepWasted": 27370,
     "EffGap": 37.4436,
     "Percentile": 71.4943,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 38121,
+    "AdvRepWasted": 2449,
+    "AdvEffGap": 8.1824,
+    "AdvPercentile": 40.9195
   },
   {
     "State": "NORTH CAROLINA",
@@ -5026,10 +5026,10 @@
     "RepWasted": 0,
     "EffGap": 49.9999,
     "Percentile": 99.7701,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 95796,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0551,
+    "AdvPercentile": 99.0805
   },
   {
     "State": "NORTH CAROLINA",
@@ -5043,14 +5043,14 @@
     "RepWasted": 71248,
     "EffGap": 13.6363,
     "Percentile": 27.3563,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 105981,
+    "AdvRepWasted": 15337,
+    "AdvEffGap": 23.1314,
+    "AdvPercentile": 85.2874
   },
   {
     "State": "NORTH DAKOTA",
-    "District": 1,
+    "District": 0,
     "Winner": "REPUBLICAN",
     "DemVotes": 0,
     "RepVotes": 245229,
@@ -5060,10 +5060,10 @@
     "RepWasted": 122614,
     "EffGap": 49.9998,
     "Percentile": 99.0805,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 68799,
+    "AdvEffGap": 28.055,
+    "AdvPercentile": 98.1609
   },
   {
     "State": "OHIO",
@@ -5077,10 +5077,10 @@
     "RepWasted": 13768,
     "EffGap": 42.5893,
     "Percentile": 78.6207,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8601,
+    "AdvRepWasted": 1529,
+    "AdvEffGap": 1.9032,
+    "AdvPercentile": 4.3678
   },
   {
     "State": "OHIO",
@@ -5094,10 +5094,10 @@
     "RepWasted": 41824,
     "EffGap": 27.8245,
     "Percentile": 52.8736,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 73390,
+    "AdvRepWasted": 5558,
+    "AdvEffGap": 17.9825,
+    "AdvPercentile": 73.1034
   },
   {
     "State": "OHIO",
@@ -5111,10 +5111,10 @@
     "RepWasted": 93569,
     "EffGap": 8.3006,
     "Percentile": 16.092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 15781,
+    "AdvRepWasted": 65498,
+    "AdvEffGap": 15.4887,
+    "AdvPercentile": 59.7701
   },
   {
     "State": "OHIO",
@@ -5128,10 +5128,10 @@
     "RepWasted": 66988,
     "EffGap": 10.3351,
     "Percentile": 18.8506,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 86612,
+    "AdvRepWasted": 15698,
+    "AdvEffGap": 20.9946,
+    "AdvPercentile": 78.3908
   },
   {
     "State": "OHIO",
@@ -5145,10 +5145,10 @@
     "RepWasted": 68028,
     "EffGap": 14.0044,
     "Percentile": 27.8161,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 102817,
+    "AdvRepWasted": 14485,
+    "AdvEffGap": 23.3694,
+    "AdvPercentile": 85.7471
   },
   {
     "State": "OHIO",
@@ -5162,10 +5162,10 @@
     "RepWasted": 81734,
     "EffGap": 1.173,
     "Percentile": 1.8391,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 59962,
+    "AdvRepWasted": 23088,
+    "AdvEffGap": 11.014,
+    "AdvPercentile": 46.6667
   },
   {
     "State": "OHIO",
@@ -5179,10 +5179,10 @@
     "RepWasted": 67167,
     "EffGap": 10.3589,
     "Percentile": 19.0805,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 86930,
+    "AdvRepWasted": 15732,
+    "AdvEffGap": 21.0099,
+    "AdvPercentile": 78.6207
   },
   {
     "State": "OHIO",
@@ -5196,10 +5196,10 @@
     "RepWasted": 67755,
     "EffGap": 12.0464,
     "Percentile": 22.069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 94151,
+    "AdvRepWasted": 15236,
+    "AdvEffGap": 22.1024,
+    "AdvPercentile": 80.9195
   },
   {
     "State": "OHIO",
@@ -5213,10 +5213,10 @@
     "RepWasted": 111385,
     "EffGap": 23.8352,
     "Percentile": 44.8276,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6452,
+    "AdvRepWasted": 55692,
+    "AdvEffGap": 16.3201,
+    "AdvPercentile": 64.5977
   },
   {
     "State": "OHIO",
@@ -5230,10 +5230,10 @@
     "RepWasted": 30497,
     "EffGap": 33.2867,
     "Percentile": 63.908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30395,
+    "AdvRepWasted": 3735,
+    "AdvEffGap": 7.3052,
+    "AdvPercentile": 33.3333
   },
   {
     "State": "OHIO",
@@ -5247,10 +5247,10 @@
     "RepWasted": 60323,
     "EffGap": 10.1064,
     "Percentile": 17.931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30366,
+    "AdvRepWasted": 24129,
+    "AdvEffGap": 2.0624,
+    "AdvPercentile": 8.9655
   },
   {
     "State": "OHIO",
@@ -5264,10 +5264,10 @@
     "RepWasted": 29471,
     "EffGap": 36.1193,
     "Percentile": 69.1954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 36569,
+    "AdvRepWasted": 3010,
+    "AdvEffGap": 7.903,
+    "AdvPercentile": 38.6207
   },
   {
     "State": "OHIO",
@@ -5281,10 +5281,10 @@
     "RepWasted": 148648,
     "EffGap": 42.2482,
     "Percentile": 77.7011,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1387,
+    "AdvRepWasted": 7432,
+    "AdvEffGap": 1.8757,
+    "AdvPercentile": 3.4483
   },
   {
     "State": "OHIO",
@@ -5298,10 +5298,10 @@
     "RepWasted": 40138,
     "EffGap": 29.802,
     "Percentile": 57.0115,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 79293,
+    "AdvRepWasted": 4547,
+    "AdvEffGap": 18.8064,
+    "AdvPercentile": 77.2414
   },
   {
     "State": "OHIO",
@@ -5315,10 +5315,10 @@
     "RepWasted": 51459,
     "EffGap": 23.1482,
     "Percentile": 42.7586,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 70091,
+    "AdvRepWasted": 8635,
+    "AdvEffGap": 16.034,
+    "AdvPercentile": 61.8391
   },
   {
     "State": "OHIO",
@@ -5332,10 +5332,10 @@
     "RepWasted": 51631,
     "EffGap": 23.6174,
     "Percentile": 44.3678,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 72035,
+    "AdvRepWasted": 8512,
+    "AdvEffGap": 16.2294,
+    "AdvPercentile": 63.908
   },
   {
     "State": "OKLAHOMA",
@@ -5349,10 +5349,10 @@
     "RepWasted": 52029,
     "EffGap": 17.8177,
     "Percentile": 33.3333,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 93194,
+    "AdvRepWasted": 9651,
+    "AdvEffGap": 25.8374,
+    "AdvPercentile": 90.5747
   },
   {
     "State": "OKLAHOMA",
@@ -5366,10 +5366,10 @@
     "RepWasted": 76519,
     "EffGap": 4.6599,
     "Percentile": 8.046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 34909,
+    "AdvRepWasted": 23791,
+    "AdvEffGap": 3.971,
+    "AdvPercentile": 22.5287
   },
   {
     "State": "OKLAHOMA",
@@ -5383,10 +5383,10 @@
     "RepWasted": 88087,
     "EffGap": 6.9817,
     "Percentile": 12.4138,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 36575,
+    "AdvRepWasted": 28665,
+    "AdvEffGap": 2.5584,
+    "AdvPercentile": 20
   },
   {
     "State": "OKLAHOMA",
@@ -5400,10 +5400,10 @@
     "RepWasted": 61318,
     "EffGap": 9.5999,
     "Percentile": 17.7011,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 63321,
+    "AdvRepWasted": 13828,
+    "AdvEffGap": 16.3045,
+    "AdvPercentile": 64.3678
   },
   {
     "State": "OKLAHOMA",
@@ -5417,10 +5417,10 @@
     "RepWasted": 6266,
     "EffGap": 45.8754,
     "Percentile": 85.0575,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7282,
+    "AdvRepWasted": 696,
+    "AdvEffGap": 2.1675,
+    "AdvPercentile": 11.4943
   },
   {
     "State": "OREGON",
@@ -5434,10 +5434,10 @@
     "RepWasted": 161928,
     "EffGap": 20.5571,
     "Percentile": 37.2414,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 12323,
+    "AdvRepWasted": 80964,
+    "AdvEffGap": 14.9545,
+    "AdvPercentile": 55.1724
   },
   {
     "State": "OREGON",
@@ -5451,10 +5451,10 @@
     "RepWasted": 52476,
     "EffGap": 26.2934,
     "Percentile": 48.5057,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 84440,
+    "AdvRepWasted": 7653,
+    "AdvEffGap": 17.3445,
+    "AdvPercentile": 68.5057
   },
   {
     "State": "OREGON",
@@ -5468,10 +5468,10 @@
     "RepWasted": 110570,
     "EffGap": 1.306,
     "Percentile": 2.2989,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 33514,
+    "AdvRepWasted": 60813,
+    "AdvEffGap": 6.0111,
+    "AdvPercentile": 25.977
   },
   {
     "State": "OREGON",
@@ -5485,10 +5485,10 @@
     "RepWasted": 216081,
     "EffGap": 44.5587,
     "Percentile": 82.9885,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1381,
+    "AdvRepWasted": 10804,
+    "AdvEffGap": 2.0618,
+    "AdvPercentile": 8.7356
   },
   {
     "State": "OREGON",
@@ -5502,10 +5502,10 @@
     "RepWasted": 204372,
     "EffGap": 43.0583,
     "Percentile": 79.3103,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1693,
+    "AdvRepWasted": 10218,
+    "AdvEffGap": 1.9409,
+    "AdvPercentile": 5.0575
   },
   {
     "State": "PENNSYLVANIA",
@@ -5519,10 +5519,10 @@
     "RepWasted": 28964,
     "EffGap": 36.8845,
     "Percentile": 70.3448,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 38375,
+    "AdvRepWasted": 2755,
+    "AdvEffGap": 8.0647,
+    "AdvPercentile": 39.7701
   },
   {
     "State": "PENNSYLVANIA",
@@ -5536,10 +5536,10 @@
     "RepWasted": 75022,
     "EffGap": 4.9289,
     "Percentile": 9.4253,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 15988,
+    "AdvRepWasted": 52515,
+    "AdvEffGap": 13.3719,
+    "AdvPercentile": 51.0345
   },
   {
     "State": "PENNSYLVANIA",
@@ -5553,10 +5553,10 @@
     "RepWasted": 33671,
     "EffGap": 32.0601,
     "Percentile": 60.6897,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 70599,
+    "AdvRepWasted": 5050,
+    "AdvEffGap": 17.4621,
+    "AdvPercentile": 69.1954
   },
   {
     "State": "PENNSYLVANIA",
@@ -5570,10 +5570,10 @@
     "RepWasted": 179926,
     "EffGap": 30.9452,
     "Percentile": 59.0805,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5707,
+    "AdvRepWasted": 35985,
+    "AdvEffGap": 6.8107,
+    "AdvPercentile": 28.046
   },
   {
     "State": "PENNSYLVANIA",
@@ -5587,10 +5587,10 @@
     "RepWasted": 139552,
     "EffGap": 20.6066,
     "Percentile": 37.931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10580,
+    "AdvRepWasted": 69776,
+    "AdvEffGap": 14.9751,
+    "AdvPercentile": 55.8621
   },
   {
     "State": "PENNSYLVANIA",
@@ -5604,10 +5604,10 @@
     "RepWasted": 177526,
     "EffGap": 37.8918,
     "Percentile": 72.4138,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2068,
+    "AdvRepWasted": 35505,
+    "AdvEffGap": 8.2772,
+    "AdvPercentile": 41.8391
   },
   {
     "State": "PENNSYLVANIA",
@@ -5621,10 +5621,10 @@
     "RepWasted": 181407,
     "EffGap": 46.2675,
     "Percentile": 85.7471,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 781,
+    "AdvRepWasted": 9070,
+    "AdvEffGap": 2.1994,
+    "AdvPercentile": 12.1839
   },
   {
     "State": "PENNSYLVANIA",
@@ -5638,10 +5638,10 @@
     "RepWasted": 165783,
     "EffGap": 46.4453,
     "Percentile": 86.4368,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 678,
+    "AdvRepWasted": 8289,
+    "AdvEffGap": 2.2139,
+    "AdvPercentile": 12.8736
   },
   {
     "State": "PENNSYLVANIA",
@@ -5655,10 +5655,10 @@
     "RepWasted": 57360,
     "EffGap": 17.3396,
     "Percentile": 32.4138,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 100526,
+    "AdvRepWasted": 10857,
+    "AdvEffGap": 25.5283,
+    "AdvPercentile": 89.6552
   },
   {
     "State": "PENNSYLVANIA",
@@ -5672,10 +5672,10 @@
     "RepWasted": 12978,
     "EffGap": 43.3755,
     "Percentile": 80,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9146,
+    "AdvRepWasted": 1441,
+    "AdvEffGap": 1.9664,
+    "AdvPercentile": 5.7471
   },
   {
     "State": "PENNSYLVANIA",
@@ -5689,10 +5689,10 @@
     "RepWasted": 50294,
     "EffGap": 23.753,
     "Percentile": 44.5977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 70662,
+    "AdvRepWasted": 8248,
+    "AdvEffGap": 16.2859,
+    "AdvPercentile": 64.1379
   },
   {
     "State": "PENNSYLVANIA",
@@ -5706,10 +5706,10 @@
     "RepWasted": 70917,
     "EffGap": 8.3125,
     "Percentile": 16.3218,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 69439,
+    "AdvRepWasted": 16716,
+    "AdvEffGap": 15.4961,
+    "AdvPercentile": 60
   },
   {
     "State": "PENNSYLVANIA",
@@ -5723,10 +5723,10 @@
     "RepWasted": 85588,
     "EffGap": 3.0252,
     "Percentile": 5.0575,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 67628,
+    "AdvRepWasted": 23255,
+    "AdvEffGap": 12.177,
+    "AdvPercentile": 48.5057
   },
   {
     "State": "PENNSYLVANIA",
@@ -5740,10 +5740,10 @@
     "RepWasted": 54896,
     "EffGap": 20.6109,
     "Percentile": 38.1609,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 65947,
+    "AdvRepWasted": 9996,
+    "AdvEffGap": 14.9769,
+    "AdvPercentile": 56.092
   },
   {
     "State": "PENNSYLVANIA",
@@ -5757,10 +5757,10 @@
     "RepWasted": 81450,
     "EffGap": 3.0834,
     "Percentile": 5.2874,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 64509,
+    "AdvRepWasted": 22102,
+    "AdvEffGap": 12.2135,
+    "AdvPercentile": 48.7356
   },
   {
     "State": "PENNSYLVANIA",
@@ -5774,10 +5774,10 @@
     "RepWasted": 33062,
     "EffGap": 31.3233,
     "Percentile": 60,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 28792,
+    "AdvRepWasted": 4396,
+    "AdvEffGap": 6.8906,
+    "AdvPercentile": 29.1954
   },
   {
     "State": "PENNSYLVANIA",
@@ -5791,10 +5791,10 @@
     "RepWasted": 212284,
     "EffGap": 47.7059,
     "Percentile": 89.6552,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 553,
+    "AdvRepWasted": 10614,
+    "AdvEffGap": 2.3153,
+    "AdvPercentile": 16.3218
   },
   {
     "State": "PENNSYLVANIA",
@@ -5808,10 +5808,10 @@
     "RepWasted": 118163,
     "EffGap": 11.5038,
     "Percentile": 21.3793,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 16860,
+    "AdvRepWasted": 100438,
+    "AdvEffGap": 21.7511,
+    "AdvPercentile": 80.4598
   },
   {
     "State": "RHODE ISLAND",
@@ -5825,10 +5825,10 @@
     "RepWasted": 0,
     "EffGap": 49.9994,
     "Percentile": 94.2529,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 44480,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0542,
+    "AdvPercentile": 94.023
   },
   {
     "State": "RHODE ISLAND",
@@ -5842,10 +5842,10 @@
     "RepWasted": 109894,
     "EffGap": 33.2597,
     "Percentile": 63.6782,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2710,
+    "AdvRepWasted": 21978,
+    "AdvEffGap": 7.299,
+    "AdvPercentile": 33.1034
   },
   {
     "State": "SOUTH CAROLINA",
@@ -5859,10 +5859,10 @@
     "RepWasted": 2707,
     "EffGap": 48.731,
     "Percentile": 91.2644,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10531,
+    "AdvRepWasted": 300,
+    "AdvEffGap": 2.3979,
+    "AdvPercentile": 18.1609
   },
   {
     "State": "SOUTH CAROLINA",
@@ -5876,10 +5876,10 @@
     "RepWasted": 23798,
     "EffGap": 36.6987,
     "Percentile": 69.4253,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 31023,
+    "AdvRepWasted": 2306,
+    "AdvEffGap": 8.0253,
+    "AdvPercentile": 38.8506
   },
   {
     "State": "SOUTH CAROLINA",
@@ -5893,10 +5893,10 @@
     "RepWasted": 70915,
     "EffGap": 7.4408,
     "Percentile": 14.023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 66998,
+    "AdvRepWasted": 17180,
+    "AdvEffGap": 14.9489,
+    "AdvPercentile": 54.9425
   },
   {
     "State": "SOUTH CAROLINA",
@@ -5910,10 +5910,10 @@
     "RepWasted": 44551,
     "EffGap": 24.9112,
     "Percentile": 46.2069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 66511,
+    "AdvRepWasted": 6957,
+    "AdvEffGap": 16.7687,
+    "AdvPercentile": 66.2069
   },
   {
     "State": "SOUTH CAROLINA",
@@ -5927,10 +5927,10 @@
     "RepWasted": 37013,
     "EffGap": 29.7734,
     "Percentile": 56.7816,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 72989,
+    "AdvRepWasted": 4204,
+    "AdvEffGap": 18.7945,
+    "AdvPercentile": 77.0115
   },
   {
     "State": "SOUTH CAROLINA",
@@ -5944,10 +5944,10 @@
     "RepWasted": 89258,
     "EffGap": 12.2584,
     "Percentile": 22.9885,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 12100,
+    "AdvRepWasted": 75869,
+    "AdvEffGap": 22.2397,
+    "AdvPercentile": 81.8391
   },
   {
     "State": "SOUTH CAROLINA",
@@ -5961,14 +5961,14 @@
     "RepWasted": 43064,
     "EffGap": 26.3288,
     "Percentile": 48.7356,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 69431,
+    "AdvRepWasted": 6268,
+    "AdvEffGap": 17.3593,
+    "AdvPercentile": 68.7356
   },
   {
     "State": "SOUTH DAKOTA",
-    "District": 1,
+    "District": 0,
     "Winner": "REPUBLICAN",
     "DemVotes": 0,
     "RepVotes": 321984,
@@ -5978,10 +5978,10 @@
     "RepWasted": 160991,
     "EffGap": 49.9997,
     "Percentile": 97.7011,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 90333,
+    "AdvEffGap": 28.0551,
+    "AdvPercentile": 99.3103
   },
   {
     "State": "TENNESSEE",
@@ -5995,10 +5995,10 @@
     "RepWasted": 79781,
     "EffGap": 3.7615,
     "Percentile": 6.8966,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 37739,
+    "AdvRepWasted": 24331,
+    "AdvEffGap": 4.5176,
+    "AdvPercentile": 22.9885
   },
   {
     "State": "TENNESSEE",
@@ -6012,10 +6012,10 @@
     "RepWasted": 64611,
     "EffGap": 12.9301,
     "Percentile": 25.2874,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 93231,
+    "AdvRepWasted": 14191,
+    "AdvEffGap": 22.6741,
+    "AdvPercentile": 83.4483
   },
   {
     "State": "TENNESSEE",
@@ -6029,10 +6029,10 @@
     "RepWasted": 58941,
     "EffGap": 12.3687,
     "Percentile": 23.6782,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 83033,
+    "AdvRepWasted": 13143,
+    "AdvEffGap": 22.3107,
+    "AdvPercentile": 82.2989
   },
   {
     "State": "TENNESSEE",
@@ -6046,10 +6046,10 @@
     "RepWasted": 55946,
     "EffGap": 16.6697,
     "Percentile": 31.7241,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 95121,
+    "AdvRepWasted": 10876,
+    "AdvEffGap": 25.0946,
+    "AdvPercentile": 88.9655
   },
   {
     "State": "TENNESSEE",
@@ -6063,10 +6063,10 @@
     "RepWasted": 0,
     "EffGap": 49.9998,
     "Percentile": 99.3103,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 70742,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.055,
+    "AdvPercentile": 98.3908
   },
   {
     "State": "TENNESSEE",
@@ -6080,10 +6080,10 @@
     "RepWasted": 86859,
     "EffGap": 0.8807,
     "Percentile": 1.3793,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 46118,
+    "AdvRepWasted": 24712,
+    "AdvEffGap": 6.2696,
+    "AdvPercentile": 26.2069
   },
   {
     "State": "TENNESSEE",
@@ -6097,10 +6097,10 @@
     "RepWasted": 74674,
     "EffGap": 6.2063,
     "Percentile": 10.8046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 67087,
+    "AdvRepWasted": 18750,
+    "AdvEffGap": 14.174,
+    "AdvPercentile": 52.4138
   },
   {
     "State": "TENNESSEE",
@@ -6114,10 +6114,10 @@
     "RepWasted": 64662,
     "EffGap": 10.2207,
     "Percentile": 18.6207,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 83206,
+    "AdvRepWasted": 15192,
+    "AdvEffGap": 20.9206,
+    "AdvPercentile": 78.1609
   },
   {
     "State": "TENNESSEE",
@@ -6131,10 +6131,10 @@
     "RepWasted": 48818,
     "EffGap": 8.755,
     "Percentile": 16.7816,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 23346,
+    "AdvRepWasted": 26849,
+    "AdvEffGap": 1.4798,
+    "AdvPercentile": 0.2299
   },
   {
     "State": "TEXAS",
@@ -6148,10 +6148,10 @@
     "RepWasted": 68354,
     "EffGap": 4.8431,
     "Percentile": 9.1954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 58111,
+    "AdvRepWasted": 17791,
+    "AdvEffGap": 13.3183,
+    "AdvPercentile": 50.8046
   },
   {
     "State": "TEXAS",
@@ -6165,10 +6165,10 @@
     "RepWasted": 22226,
     "EffGap": 36.9716,
     "Percentile": 70.5747,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 29674,
+    "AdvRepWasted": 2095,
+    "AdvEffGap": 8.0829,
+    "AdvPercentile": 40
   },
   {
     "State": "TEXAS",
@@ -6182,10 +6182,10 @@
     "RepWasted": 25526,
     "EffGap": 37.5471,
     "Percentile": 71.7241,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 35891,
+    "AdvRepWasted": 2256,
+    "AdvEffGap": 8.2043,
+    "AdvPercentile": 41.1494
   },
   {
     "State": "TEXAS",
@@ -6199,10 +6199,10 @@
     "RepWasted": 88755,
     "EffGap": 3.7645,
     "Percentile": 7.1264,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 41979,
+    "AdvRepWasted": 27070,
+    "AdvEffGap": 4.5156,
+    "AdvPercentile": 22.7586
   },
   {
     "State": "TEXAS",
@@ -6216,10 +6216,10 @@
     "RepWasted": 36546,
     "EffGap": 23.3802,
     "Percentile": 43.2184,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 50371,
+    "AdvRepWasted": 6080,
+    "AdvEffGap": 16.1305,
+    "AdvPercentile": 62.5287
   },
   {
     "State": "TEXAS",
@@ -6233,10 +6233,10 @@
     "RepWasted": 14988,
     "EffGap": 40.8896,
     "Percentile": 76.3218,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7476,
+    "AdvRepWasted": 1665,
+    "AdvEffGap": 1.7661,
+    "AdvPercentile": 1.8391
   },
   {
     "State": "TEXAS",
@@ -6250,10 +6250,10 @@
     "RepWasted": 149054,
     "EffGap": 46.6056,
     "Percentile": 86.8966,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 581,
+    "AdvRepWasted": 7452,
+    "AdvEffGap": 2.2266,
+    "AdvPercentile": 13.3333
   },
   {
     "State": "TEXAS",
@@ -6267,10 +6267,10 @@
     "RepWasted": 89958,
     "EffGap": 1.9883,
     "Percentile": 3.908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 68186,
+    "AdvRepWasted": 24994,
+    "AdvEffGap": 11.526,
+    "AdvPercentile": 47.5862
   },
   {
     "State": "TEXAS",
@@ -6284,10 +6284,10 @@
     "RepWasted": 49575,
     "EffGap": 5.4406,
     "Percentile": 9.6552,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 19487,
+    "AdvRepWasted": 27266,
+    "AdvEffGap": 3.496,
+    "AdvPercentile": 21.6092
   },
   {
     "State": "TEXAS",
@@ -6301,10 +6301,10 @@
     "RepWasted": 14764,
     "EffGap": 42.7071,
     "Percentile": 78.8506,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9384,
+    "AdvRepWasted": 1640,
+    "AdvEffGap": 1.9126,
+    "AdvPercentile": 4.5977
   },
   {
     "State": "TEXAS",
@@ -6318,10 +6318,10 @@
     "RepWasted": 89586,
     "EffGap": 12.6562,
     "Percentile": 24.5977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 21357,
+    "AdvRepWasted": 31549,
+    "AdvEffGap": 3.5641,
+    "AdvPercentile": 21.8391
   },
   {
     "State": "TEXAS",
@@ -6335,10 +6335,10 @@
     "RepWasted": 56301,
     "EffGap": 18.2902,
     "Percentile": 34.2529,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 103062,
+    "AdvRepWasted": 10226,
+    "AdvEffGap": 26.1434,
+    "AdvPercentile": 91.2644
   },
   {
     "State": "TEXAS",
@@ -6352,10 +6352,10 @@
     "RepWasted": 83323,
     "EffGap": 12.2742,
     "Percentile": 23.2184,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 20190,
+    "AdvRepWasted": 29126,
+    "AdvEffGap": 3.3393,
+    "AdvPercentile": 21.1494
   },
   {
     "State": "TEXAS",
@@ -6369,10 +6369,10 @@
     "RepWasted": 35983,
     "EffGap": 26.7185,
     "Percentile": 49.6552,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 59287,
+    "AdvRepWasted": 5124,
+    "AdvEffGap": 17.522,
+    "AdvPercentile": 69.8851
   },
   {
     "State": "TEXAS",
@@ -6386,10 +6386,10 @@
     "RepWasted": 109017,
     "EffGap": 47.0675,
     "Percentile": 87.8161,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 365,
+    "AdvRepWasted": 5450,
+    "AdvEffGap": 2.2638,
+    "AdvPercentile": 14.4828
   },
   {
     "State": "TEXAS",
@@ -6403,10 +6403,10 @@
     "RepWasted": 84006,
     "EffGap": 20.5599,
     "Percentile": 37.4713,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6391,
+    "AdvRepWasted": 42003,
+    "AdvEffGap": 14.9559,
+    "AdvPercentile": 55.4023
   },
   {
     "State": "TEXAS",
@@ -6420,10 +6420,10 @@
     "RepWasted": 22912,
     "EffGap": 34.5685,
     "Percentile": 66.4368,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 25113,
+    "AdvRepWasted": 2616,
+    "AdvEffGap": 7.5759,
+    "AdvPercentile": 35.8621
   },
   {
     "State": "TEXAS",
@@ -6437,10 +6437,10 @@
     "RepWasted": 58033,
     "EffGap": 1.4336,
     "Percentile": 2.5287,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 17737,
+    "AdvRepWasted": 31918,
+    "AdvEffGap": 5.9338,
+    "AdvPercentile": 25.7471
   },
   {
     "State": "TEXAS",
@@ -6454,10 +6454,10 @@
     "RepWasted": 68807,
     "EffGap": 3.178,
     "Percentile": 5.7471,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 33320,
+    "AdvRepWasted": 20711,
+    "AdvEffGap": 4.8725,
+    "AdvPercentile": 24.1379
   },
   {
     "State": "TEXAS",
@@ -6471,10 +6471,10 @@
     "RepWasted": 89628,
     "EffGap": 17.7193,
     "Percentile": 33.1034,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 7959,
+    "AdvRepWasted": 76183,
+    "AdvEffGap": 25.7735,
+    "AdvPercentile": 90.3448
   },
   {
     "State": "TEXAS",
@@ -6488,10 +6488,10 @@
     "RepWasted": 14979,
     "EffGap": 43.2146,
     "Percentile": 79.7701,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10289,
+    "AdvRepWasted": 1664,
+    "AdvEffGap": 1.9535,
+    "AdvPercentile": 5.5172
   },
   {
     "State": "TEXAS",
@@ -6505,10 +6505,10 @@
     "RepWasted": 14130,
     "EffGap": 42.7954,
     "Percentile": 79.0805,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9099,
+    "AdvRepWasted": 1569,
+    "AdvEffGap": 1.9197,
+    "AdvPercentile": 4.8276
   },
   {
     "State": "TEXAS",
@@ -6522,10 +6522,10 @@
     "RepWasted": 5850,
     "EffGap": 45.9242,
     "Percentile": 85.2874,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6884,
+    "AdvRepWasted": 650,
+    "AdvEffGap": 2.1715,
+    "AdvPercentile": 11.7241
   },
   {
     "State": "TEXAS",
@@ -6539,10 +6539,10 @@
     "RepWasted": 2291,
     "EffGap": 48.6164,
     "Percentile": 90.8046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8166,
+    "AdvRepWasted": 254,
+    "AdvEffGap": 2.3886,
+    "AdvPercentile": 17.7011
   },
   {
     "State": "TEXAS",
@@ -6556,10 +6556,10 @@
     "RepWasted": 27195,
     "EffGap": 35.9013,
     "Percentile": 68.5057,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 33139,
+    "AdvRepWasted": 2828,
+    "AdvEffGap": 7.857,
+    "AdvPercentile": 37.931
   },
   {
     "State": "TEXAS",
@@ -6573,10 +6573,10 @@
     "RepWasted": 50476,
     "EffGap": 26.1325,
     "Percentile": 48.2759,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 80504,
+    "AdvRepWasted": 7425,
+    "AdvEffGap": 17.2775,
+    "AdvPercentile": 68.2759
   },
   {
     "State": "TEXAS",
@@ -6590,10 +6590,10 @@
     "RepWasted": 38419,
     "EffGap": 21.3044,
     "Percentile": 40,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 47733,
+    "AdvRepWasted": 6855,
+    "AdvEffGap": 15.266,
+    "AdvPercentile": 58.3908
   },
   {
     "State": "TEXAS",
@@ -6607,10 +6607,10 @@
     "RepWasted": 91925,
     "EffGap": 30.1374,
     "Percentile": 57.931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 3151,
+    "AdvRepWasted": 18385,
+    "AdvEffGap": 6.6403,
+    "AdvPercentile": 26.6667
   },
   {
     "State": "TEXAS",
@@ -6624,10 +6624,10 @@
     "RepWasted": 42840,
     "EffGap": 5.5844,
     "Percentile": 9.8851,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8741,
+    "AdvRepWasted": 29987,
+    "AdvEffGap": 13.7831,
+    "AdvPercentile": 51.2644
   },
   {
     "State": "TEXAS",
@@ -6641,10 +6641,10 @@
     "RepWasted": 48685,
     "EffGap": 11.6067,
     "Percentile": 21.6092,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 26945,
+    "AdvRepWasted": 19474,
+    "AdvEffGap": 2.9458,
+    "AdvPercentile": 20.9195
   },
   {
     "State": "TEXAS",
@@ -6658,10 +6658,10 @@
     "RepWasted": 18200,
     "EffGap": 40.6421,
     "Percentile": 75.4023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8814,
+    "AdvRepWasted": 2022,
+    "AdvEffGap": 1.7461,
+    "AdvPercentile": 0.9195
   },
   {
     "State": "TEXAS",
@@ -6675,10 +6675,10 @@
     "RepWasted": 157867,
     "EffGap": 43.8544,
     "Percentile": 81.3793,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1148,
+    "AdvRepWasted": 7893,
+    "AdvEffGap": 2.005,
+    "AdvPercentile": 7.1264
   },
   {
     "State": "TEXAS",
@@ -6692,10 +6692,10 @@
     "RepWasted": 39638,
     "EffGap": 4.6904,
     "Percentile": 8.7356,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8579,
+    "AdvRepWasted": 27746,
+    "AdvEffGap": 13.2227,
+    "AdvPercentile": 50.5747
   },
   {
     "State": "TEXAS",
@@ -6709,10 +6709,10 @@
     "RepWasted": 84119,
     "EffGap": 36.0302,
     "Percentile": 68.9655,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1405,
+    "AdvRepWasted": 16823,
+    "AdvEffGap": 7.8841,
+    "AdvPercentile": 38.3908
   },
   {
     "State": "TEXAS",
@@ -6726,10 +6726,10 @@
     "RepWasted": 80795,
     "EffGap": 12.8348,
     "Percentile": 24.8276,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 10523,
+    "AdvRepWasted": 68675,
+    "AdvEffGap": 22.6125,
+    "AdvPercentile": 82.9885
   },
   {
     "State": "TEXAS",
@@ -6743,10 +6743,10 @@
     "RepWasted": 74646,
     "EffGap": 0.4147,
     "Percentile": 0.6897,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 40379,
+    "AdvRepWasted": 20973,
+    "AdvEffGap": 6.5532,
+    "AdvPercentile": 26.4368
   },
   {
     "State": "UTAH",
@@ -6760,10 +6760,10 @@
     "RepWasted": 66896,
     "EffGap": 10.9,
     "Percentile": 20,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 88564,
+    "AdvRepWasted": 15473,
+    "AdvEffGap": 21.3603,
+    "AdvPercentile": 79.5402
   },
   {
     "State": "UTAH",
@@ -6777,10 +6777,10 @@
     "RepWasted": 39617,
     "EffGap": 26.6104,
     "Percentile": 49.4253,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 64881,
+    "AdvRepWasted": 5677,
+    "AdvEffGap": 17.4767,
+    "AdvPercentile": 69.6552
   },
   {
     "State": "UTAH",
@@ -6794,10 +6794,10 @@
     "RepWasted": 75303,
     "EffGap": 6.0582,
     "Percentile": 10.5747,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 67246,
+    "AdvRepWasted": 18985,
+    "AdvEffGap": 14.0809,
+    "AdvPercentile": 52.1839
   },
   {
     "State": "UTAH",
@@ -6811,14 +6811,14 @@
     "RepWasted": 1882,
     "EffGap": 48.9414,
     "Percentile": 91.954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8796,
+    "AdvRepWasted": 209,
+    "AdvEffGap": 2.4147,
+    "AdvPercentile": 18.8506
   },
   {
     "State": "VERMONT",
-    "District": 1,
+    "District": 0,
     "Winner": "DEMOCRAT",
     "DemVotes": 238827,
     "RepVotes": 95830,
@@ -6828,10 +6828,10 @@
     "RepWasted": 95830,
     "EffGap": 7.2707,
     "Percentile": 12.8736,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 17410,
+    "AdvRepWasted": 67081,
+    "AdvEffGap": 14.8424,
+    "AdvPercentile": 54.023
   },
   {
     "State": "VIRGINIA",
@@ -6845,10 +6845,10 @@
     "RepWasted": 36845,
     "EffGap": 33.5342,
     "Percentile": 65.0575,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 37384,
+    "AdvRepWasted": 4458,
+    "AdvEffGap": 7.3572,
+    "AdvPercentile": 34.4828
   },
   {
     "State": "VIRGINIA",
@@ -6862,10 +6862,10 @@
     "RepWasted": 165031,
     "EffGap": 44.0983,
     "Percentile": 82.2989,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 1150,
+    "AdvRepWasted": 8251,
+    "AdvEffGap": 2.0244,
+    "AdvPercentile": 8.046
   },
   {
     "State": "VIRGINIA",
@@ -6879,10 +6879,10 @@
     "RepWasted": 107299,
     "EffGap": 13.0014,
     "Percentile": 25.7471,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 13812,
+    "AdvRepWasted": 91204,
+    "AdvEffGap": 22.7206,
+    "AdvPercentile": 83.908
   },
   {
     "State": "VIRGINIA",
@@ -6896,10 +6896,10 @@
     "RepWasted": 149625,
     "EffGap": 26.5803,
     "Percentile": 49.1954,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 6568,
+    "AdvRepWasted": 74812,
+    "AdvEffGap": 17.4641,
+    "AdvPercentile": 69.4253
   },
   {
     "State": "VIRGINIA",
@@ -6913,10 +6913,10 @@
     "RepWasted": 10336,
     "EffGap": 44.8487,
     "Percentile": 83.6782,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 9515,
+    "AdvRepWasted": 1148,
+    "AdvEffGap": 2.085,
+    "AdvPercentile": 9.6552
   },
   {
     "State": "VIRGINIA",
@@ -6930,10 +6930,10 @@
     "RepWasted": 55938,
     "EffGap": 20.6619,
     "Percentile": 38.3908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 67364,
+    "AdvRepWasted": 10171,
+    "AdvEffGap": 14.9981,
+    "AdvPercentile": 56.3218
   },
   {
     "State": "VIRGINIA",
@@ -6947,10 +6947,10 @@
     "RepWasted": 222623,
     "EffGap": 48.1767,
     "Percentile": 90.1149,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 459,
+    "AdvRepWasted": 11131,
+    "AdvEffGap": 2.3532,
+    "AdvPercentile": 17.0115
   },
   {
     "State": "VIRGINIA",
@@ -6964,10 +6964,10 @@
     "RepWasted": 95365,
     "EffGap": 1.9351,
     "Percentile": 3.6782,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 30116,
+    "AdvRepWasted": 52450,
+    "AdvEffGap": 5.6283,
+    "AdvPercentile": 24.8276
   },
   {
     "State": "VIRGINIA",
@@ -6981,10 +6981,10 @@
     "RepWasted": 135925,
     "EffGap": 49.9998,
     "Percentile": 99.5402,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 0,
+    "AdvRepWasted": 76268,
+    "AdvEffGap": 28.0551,
+    "AdvPercentile": 99.5402
   },
   {
     "State": "VIRGINIA",
@@ -6998,10 +6998,10 @@
     "RepWasted": 206253,
     "EffGap": 36.8459,
     "Percentile": 70.1149,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 2983,
+    "AdvRepWasted": 41250,
+    "AdvEffGap": 8.0564,
+    "AdvPercentile": 39.5402
   },
   {
     "State": "VIRGINIA",
@@ -7015,10 +7015,10 @@
     "RepWasted": 111380,
     "EffGap": 6.8114,
     "Percentile": 12.1839,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 20899,
+    "AdvRepWasted": 77966,
+    "AdvEffGap": 14.554,
+    "AdvPercentile": 53.5632
   },
   {
     "State": "WASHINGTON",
@@ -7032,10 +7032,10 @@
     "RepWasted": 176407,
     "EffGap": 32.7521,
     "Percentile": 62.7586,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 4617,
+    "AdvRepWasted": 35281,
+    "AdvEffGap": 7.1922,
+    "AdvPercentile": 32.1839
   },
   {
     "State": "WASHINGTON",
@@ -7049,10 +7049,10 @@
     "RepWasted": 148384,
     "EffGap": 23.5239,
     "Percentile": 43.908,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 8841,
+    "AdvRepWasted": 74192,
+    "AdvEffGap": 16.1906,
+    "AdvPercentile": 63.2184
   },
   {
     "State": "WASHINGTON",
@@ -7066,10 +7066,10 @@
     "RepWasted": 27115,
     "EffGap": 36.9927,
     "Percentile": 70.8046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 36269,
+    "AdvRepWasted": 2551,
+    "AdvEffGap": 8.0873,
+    "AdvPercentile": 40.2299
   },
   {
     "State": "WASHINGTON",
@@ -7083,10 +7083,10 @@
     "RepWasted": 49720,
     "EffGap": 17.3725,
     "Percentile": 32.6437,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 87266,
+    "AdvRepWasted": 9398,
+    "AdvEffGap": 25.5493,
+    "AdvPercentile": 89.8851
   },
   {
     "State": "WASHINGTON",
@@ -7100,10 +7100,10 @@
     "RepWasted": 46038,
     "EffGap": 27.1834,
     "Percentile": 50.8046,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 77868,
+    "AdvRepWasted": 6378,
+    "AdvEffGap": 17.7152,
+    "AdvPercentile": 71.2644
   },
   {
     "State": "WASHINGTON",
@@ -7117,10 +7117,10 @@
     "RepWasted": 168783,
     "EffGap": 31.1046,
     "Percentile": 59.3103,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 5269,
+    "AdvRepWasted": 33756,
+    "AdvEffGap": 6.8443,
+    "AdvPercentile": 28.5057
   },
   {
     "State": "WASHINGTON",
@@ -7134,10 +7134,10 @@
     "RepWasted": 78240,
     "EffGap": 16.3735,
     "Percentile": 31.0345,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 58068,
+    "AdvRepWasted": 31296,
+    "AdvEffGap": 5.7531,
+    "AdvPercentile": 25.0575
   },
   {
     "State": "WASHINGTON",
@@ -7151,10 +7151,10 @@
     "RepWasted": 198423,
     "EffGap": 46.4283,
     "Percentile": 86.2069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 816,
+    "AdvRepWasted": 9921,
+    "AdvEffGap": 2.2124,
+    "AdvPercentile": 12.6437
   },
   {
     "State": "WASHINGTON",
@@ -7168,10 +7168,10 @@
     "RepWasted": 89697,
     "EffGap": 1.4811,
     "Percentile": 2.9885,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 23733,
+    "AdvRepWasted": 62787,
+    "AdvEffGap": 11.2073,
+    "AdvPercentile": 47.1264
   },
   {
     "State": "WASHINGTON",
@@ -7185,10 +7185,10 @@
     "RepWasted": 0,
     "EffGap": 49.9997,
     "Percentile": 97.931,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 47114,
+    "AdvRepWasted": 0,
+    "AdvEffGap": 28.0546,
+    "AdvPercentile": 95.6322
   },
   {
     "State": "WEST VIRGINIA",
@@ -7202,10 +7202,10 @@
     "RepWasted": 49655,
     "EffGap": 12.0467,
     "Percentile": 22.2989,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 69000,
+    "AdvRepWasted": 11165,
+    "AdvEffGap": 22.1027,
+    "AdvPercentile": 81.1494
   },
   {
     "State": "WEST VIRGINIA",
@@ -7219,10 +7219,10 @@
     "RepWasted": 35697,
     "EffGap": 23.8474,
     "Percentile": 45.0575,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 50399,
+    "AdvRepWasted": 5832,
+    "AdvEffGap": 16.3253,
+    "AdvPercentile": 64.8276
   },
   {
     "State": "WEST VIRGINIA",
@@ -7236,10 +7236,10 @@
     "RepWasted": 48328,
     "EffGap": 7.3281,
     "Percentile": 13.3333,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 45448,
+    "AdvRepWasted": 11748,
+    "AdvEffGap": 14.8778,
+    "AdvPercentile": 54.4828
   },
   {
     "State": "WISCONSIN",
@@ -7253,10 +7253,10 @@
     "RepWasted": 37550,
     "EffGap": 31.2923,
     "Percentile": 59.7701,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 32634,
+    "AdvRepWasted": 4998,
+    "AdvEffGap": 6.8842,
+    "AdvPercentile": 28.9655
   },
   {
     "State": "WISCONSIN",
@@ -7270,10 +7270,10 @@
     "RepWasted": 138306,
     "EffGap": 10.5506,
     "Percentile": 19.7701,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 21013,
+    "AdvRepWasted": 117560,
+    "AdvEffGap": 21.1342,
+    "AdvPercentile": 79.3103
   },
   {
     "State": "WISCONSIN",
@@ -7287,10 +7287,10 @@
     "RepWasted": 189524,
     "EffGap": 47.3433,
     "Percentile": 88.7356,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 574,
+    "AdvRepWasted": 9476,
+    "AdvEffGap": 2.2861,
+    "AdvPercentile": 15.4023
   },
   {
     "State": "WISCONSIN",
@@ -7304,10 +7304,10 @@
     "RepWasted": 70769,
     "EffGap": 3.3549,
     "Percentile": 6.2069,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 24464,
+    "AdvRepWasted": 38922,
+    "AdvEffGap": 4.7647,
+    "AdvPercentile": 23.908
   },
   {
     "State": "WISCONSIN",
@@ -7321,10 +7321,10 @@
     "RepWasted": 44765,
     "EffGap": 29.7136,
     "Percentile": 56.5517,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 87951,
+    "AdvRepWasted": 5114,
+    "AdvEffGap": 18.7696,
+    "AdvPercentile": 76.7816
   },
   {
     "State": "WISCONSIN",
@@ -7338,10 +7338,10 @@
     "RepWasted": 37317,
     "EffGap": 31.4855,
     "Percentile": 60.2299,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 32847,
+    "AdvRepWasted": 4933,
+    "AdvEffGap": 6.9246,
+    "AdvPercentile": 29.4253
   },
   {
     "State": "WISCONSIN",
@@ -7355,10 +7355,10 @@
     "RepWasted": 44653,
     "EffGap": 28.4694,
     "Percentile": 54.023,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 81370,
+    "AdvRepWasted": 5666,
+    "AdvEffGap": 18.2512,
+    "AdvPercentile": 74.2529
   },
   {
     "State": "WISCONSIN",
@@ -7372,14 +7372,14 @@
     "RepWasted": 59307,
     "EffGap": 21.6051,
     "Percentile": 40.6897,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 74779,
+    "AdvRepWasted": 10485,
+    "AdvEffGap": 15.3912,
+    "AdvPercentile": 58.8506
   },
   {
     "State": "WYOMING",
-    "District": 1,
+    "District": 0,
     "Winner": "REPUBLICAN",
     "DemVotes": 66576,
     "RepVotes": 185732,
@@ -7389,9 +7389,9 @@
     "RepWasted": 59577,
     "EffGap": 2.774,
     "Percentile": 4.5977,
-    "AdvDemWasted": -1,
-    "AdvRepWasted": -1,
-    "AdvEffGap": -1,
-    "AdvPercentile": -1
+    "AdvDemWasted": 46603,
+    "AdvRepWasted": 16277,
+    "AdvEffGap": 12.0194,
+    "AdvPercentile": 48.046
   }
 ]
